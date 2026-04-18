@@ -1,0 +1,5968 @@
+[
+  {
+    "title": "A Bug’s Life",
+    "year": 1998,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "abugslife.jpeg",
+    "series": null
+  },
+  {
+    "title": "A Beautiful Day in the Neighborhood",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "abeautifuldayintheheighborhood.jpeg",
+    "series": null
+  },
+  {
+    "title": "A Bridge Too Far",
+    "year": 1977,
+    "genres": [
+      "Action",
+      "War",
+      "WWII"
+    ],
+    "poster": "abridgetoofar.jpeg",
+    "series": null
+  },
+  {
+    "title": "A Cure For Wellness",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "poster": "acureforwellness.jpeg",
+    "series": null
+  },
+  {
+    "title": "A Taste for Killing",
+    "year": 1992,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "atasteforkilling.jpeg",
+    "series": null
+  },
+  {
+    "title": "Ace Ventura: Pet Detective",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ],
+    "poster": "aceventurapetdetective.jpeg",
+    "series": null
+  },
+  {
+    "title": "Ace Ventura: When Nature Calls",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ],
+    "poster": "aceventurawhennaturecalls.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Adam Project",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster": "theadamproject.jpeg",
+    "series": null
+  },
+  {
+    "title": "After Ever Happy",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "aftereverhappy.jpeg",
+    "series": "After"
+  },
+  {
+    "title": "After Everything",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "aftereverything.jpeg",
+    "series": "After"
+  },
+  {
+    "title": "A Huey P. Newton Story",
+    "year": 2001,
+    "genres": [
+      "Black History",
+      "Drama"
+    ],
+    "poster": "ahueypnewtonstory.jpeg",
+    "series": null
+  },
+  {
+    "title": "Awake",
+    "year": 2007,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "awake.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Abyss",
+    "year": 1989,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "poster": "theabyss.jpeg",
+    "series": null
+  },
+  {
+    "title": "Aladdin",
+    "year": 1992,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "aladdin.jpeg",
+    "series": null
+  },
+  {
+    "title": "Aladdin",
+    "year": 2019,
+    "genres": [
+      "Family",
+      "Romance"
+    ],
+    "poster": "aladdin2019.jpeg",
+    "series": null
+  },
+  {
+    "title": "Allied",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "War",
+      "WWII"
+    ],
+    "poster": "allied.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Amazing Spider-Man",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Marvel",
+      "Sci-Fi"
+    ],
+    "poster": "theamazingspiderman.jpeg",
+    "series": "The Amazing Spider-Man"
+  },
+  {
+    "title": "The Amazing Spider-Man 2",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Marvel",
+      "Sci-Fi"
+    ],
+    "poster": "theamazingspiderman2.jpeg",
+    "series": "The Amazing Spider-Man"
+  },
+  {
+    "title": "American Assassin",
+    "year": 2017,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "poster": "americanassassin.jpeg",
+    "series": null
+  },
+  {
+    "title": "American Beauty",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "americanbeauty.jpeg",
+    "series": null
+  },
+  {
+    "title": "American History X",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster": "americanhistoryx.jpeg",
+    "series": null
+  },
+  {
+    "title": "American Werewolf in London",
+    "year": 1981,
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "poster": "americanwerewolfinlondon.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Angry Birds Movie",
+    "year": 2016,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "theangrybirdsmovie.jpeg",
+    "series": null
+  },
+  {
+    "title": "Anna",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "anna.jpeg",
+    "series": null
+  },
+  {
+    "title": "Ants",
+    "year": 1998,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "ants.jpeg",
+    "series": null
+  },
+  {
+    "title": "Anthropoid",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "anthropoid.jpeg",
+    "series": null
+  },
+  {
+    "title": "Anonyma - Eine Frau in Berlin",
+    "year": 2008,
+    "genres": [
+      "Biography",
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "anonymaeinefrauinberlin.jpeg",
+    "series": null
+  },
+  {
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "poster": "apocalypsenow.jpeg",
+    "series": null
+  },
+  {
+    "title": "Apollo 13",
+    "year": 1995,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "apollo13.jpeg",
+    "series": null
+  },
+  {
+    "title": "Apprentice to Murder",
+    "year": 1988,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "poster": "apprenticetomurder.jpeg",
+    "series": null
+  },
+  {
+    "title": "Assault on Precinct 13",
+    "year": 1979,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "assaultonprecinct1379.jpeg",
+    "series": null
+  },
+  {
+    "title": "Assault on Precinct 13",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "assaultonprecinct132005.jpeg",
+    "series": null
+  },
+  {
+    "title": "A Star is Born",
+    "year": 2018,
+    "genres": [
+      "Musical",
+      "Romance"
+    ],
+    "poster": "astarisborn.jpeg",
+    "series": null
+  },
+  {
+    "title": "The A-Team",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster": "theateam2010.jpeg",
+    "series": "The A-Team"
+  },
+  {
+    "title": "The A-Team",
+    "year": 1983,
+    "genres": [
+      "Action",
+      "TV Show"
+    ],
+    "poster": "theateam1983.jpeg",
+    "series": "The A-Team"
+  },
+  {
+    "title": "Atlantis: Milo’s Return",
+    "year": 2003,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "atlantismilosreturn.jpeg",
+    "series": "Atlantis"
+  },
+  {
+    "title": "Atonement",
+    "year": 2007,
+    "genres": [
+      "Romance",
+      "War",
+      "WWII"
+    ],
+    "poster": "atonement.jpeg",
+    "series": null
+  },
+  {
+    "title": "Ava",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "ava.jpeg",
+    "series": null
+  },
+  {
+    "title": "Babe",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "poster": "babe.jpeg",
+    "series": null
+  },
+  {
+    "title": "Bad Day on the Block",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "baddayontheblock.jpeg",
+    "series": null
+  },
+  {
+    "title": "Bambi",
+    "year": 1942,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "bambi.jpeg",
+    "series": null
+  },
+  {
+    "title": "Bamboozled",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Black History"
+    ],
+    "poster": "bamboozled.jpeg",
+    "series": null
+  },
+  {
+    "title": "Barton Fink",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "poster": "bartonfink.jpeg",
+    "series": null
+  },
+  {
+    "title": "Basic Instinct",
+    "year": 1992,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "basicinstinct.jpeg",
+    "series": null
+  },
+  {
+    "title": "Batman",
+    "year": 1966,
+    "genres": [
+      "Comedy",
+      "DC Comics",
+      "TV Show"
+    ],
+    "poster": "batman66.jpeg",
+    "series": "Batman"
+  },
+  {
+    "title": "Batman",
+    "year": 1989,
+    "genres": [
+      "Action",
+      "Crime",
+      "DC Comics"
+    ],
+    "poster": "batman89.jpeg",
+    "series": "Batman"
+  },
+  {
+    "title": "Batman Returns",
+    "year": 1992,
+    "genres": [
+      "Fantasy",
+      "DC Comics",
+      "Thriller"
+    ],
+    "poster": "batmanreturns.jpeg",
+    "series": "Batman"
+  },
+  {
+    "title": "Batman: Mask of the Phantasm",
+    "year": 1993,
+    "genres": [
+      "Crime",
+      "DC Comics",
+      "Mystery"
+    ],
+    "poster": "batmanmaskofthephantasm.jpeg",
+    "series": "Batman"
+  },
+  {
+    "title": "Batman Forever",
+    "year": 1995,
+    "genres": [
+      "Fantasy",
+      "DC Comics",
+      "Sci-Fi"
+    ],
+    "poster": "batmanforever.jpeg",
+    "series": "Batman"
+  },
+  {
+    "title": "Batman & Robin",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "DC Comics",
+      "Fantasy"
+    ],
+    "poster": "batmanandrobin.jpeg",
+    "series": "Batman"
+  },
+  {
+    "title": "Batman Begins",
+    "year": 2005,
+    "genres": [
+      "DC Comics",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "batmanbegins.jpeg",
+    "series": "Batman"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genres": [
+      "DC Comics",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "thedarkknight.jpeg",
+    "series": "Batman"
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "genres": [
+      "DC Comics",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "thedarkknightrises.jpeg",
+    "series": "Batman"
+  },
+  {
+    "title": "The Batman - Part II",
+    "year": 2025,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster": "thebatmanpart2.jpeg",
+    "series": "Batman"
+  },
+  {
+    "title": "Battle Royale",
+    "year": 2000,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster": "battleroyale.jpeg",
+    "series": null
+  },
+  {
+    "title": "Beautiful Boy",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "beautifulboy.jpeg",
+    "series": null
+  },
+  {
+    "title": "Beauty and the Beast",
+    "year": 1991,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "beautyandthebeast91.jpeg",
+    "series": null
+  },
+  {
+    "title": "Beauty and the Beast",
+    "year": 2017,
+    "genres": [
+      "Animated",
+      "Fantasy",
+      "Family",
+      "Romance"
+    ],
+    "poster": "beautyandthebeast2017.jpeg",
+    "series": null
+  },
+  {
+    "title": "Beba",
+    "year": 2021,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "poster": "beba.jpeg",
+    "series": null
+  },
+  {
+    "title": "Ben-Hur",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Rome"
+    ],
+    "poster": "benhur.jpeg",
+    "series": null
+  },
+  {
+    "title": "Beverly Hills Cop",
+    "year": 1984,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "beverlyhillscop.jpeg",
+    "series": "Beverly Hills Cop"
+  },
+  {
+    "title": "Beverly Hills Cop II",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "beverlyhillscop2.jpeg",
+    "series": "Beverly Hills Cop"
+  },
+  {
+    "title": "Beverly Hills Cop III",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "beverlyhillscop3.jpeg",
+    "series": "Beverly Hills Cop"
+  },
+  {
+    "title": "Big Momma's House",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "bigmommashouse.jpeg",
+    "series": "Big Momma's House"
+  },
+  {
+    "title": "Big Momma’s House 2",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "bigmommashouse2.jpeg",
+    "series": "Big Momma's House"
+  },
+  {
+    "title": "Big Trouble in Little China",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "poster": "bigtroubleinlittlechina.jpeg",
+    "series": null
+  },
+  {
+    "title": "Bill & Ted’s Excellent Adventure",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "poster": "billandtedsexcellentadventure.jpeg",
+    "series": "Bill & Ted"
+  },
+  {
+    "title": "Bill & Ted’s Bogus Journey",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "poster": "billandtedsbogusjourney.jpeg",
+    "series": "Bill & Ted"
+  },
+  {
+    "title": "Bill & Ted Face the Music",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "poster": "billandtedfacethemusic.jpeg",
+    "series": "Bill & Ted"
+  },
+  {
+    "title": "Black As Night",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "blackasnight.jpeg",
+    "series": null
+  },
+  {
+    "title": "BlacKkKlansman",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster": "blackkklansman.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Black Phone",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "theblackphone.jpeg",
+    "series": null
+  },
+  {
+    "title": "Black Rain",
+    "year": 1989,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "blackrain.jpeg",
+    "series": null
+  },
+  {
+    "title": "Black Sea",
+    "year": 2014,
+    "genres": [
+      "Disaster",
+      "Thriller"
+    ],
+    "poster": "blacksea.jpeg",
+    "series": null
+  },
+  {
+    "title": "Bloodshot",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster": "bloodshot.jpeg",
+    "series": null
+  },
+  {
+    "title": "Blow Out",
+    "year": 1981,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "blowout.jpeg",
+    "series": null
+  },
+  {
+    "title": "Blue Bayou",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "bluebayou.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Borgias",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "TV Show"
+    ],
+    "poster": "theborgias.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Bourne Identity",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Mystery"
+    ],
+    "poster": "thebourneidentity.jpeg",
+    "series": "Bourne"
+  },
+  {
+    "title": "The Bourne Supremacy",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "thebournesupremacy.jpeg",
+    "series": "Bourne"
+  },
+  {
+    "title": "The Bourne Ultimatum",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "thebourneultimatum.jpeg",
+    "series": "Bourne"
+  },
+  {
+    "title": "The Bourne Legacy",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "thebournelegacy.jpeg",
+    "series": "Bourne"
+  },
+  {
+    "title": "Jason Bourne",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "jasonbourne.jpeg",
+    "series": "Bourne"
+  },
+  {
+    "title": "Boyhood",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Epic"
+    ],
+    "poster": "boyhood.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Boy in the Striped Pajamas",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "theboyinthestripedpajamas.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Boys",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "TV Show"
+    ],
+    "poster": "theboys.jpeg",
+    "series": null
+  },
+  {
+    "title": "Brazil",
+    "year": 1985,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "poster": "brazil.jpeg",
+    "series": null
+  },
+  {
+    "title": "Brick",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "poster": "brick.jpeg",
+    "series": null
+  },
+  {
+    "title": "Bridge of Spies",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "bridgeofspies.jpeg",
+    "series": null
+  },
+  {
+    "title": "Bright",
+    "year": 2017,
+    "genres": [
+      "Fantasy",
+      "Thriller"
+    ],
+    "poster": "bright.jpeg",
+    "series": null
+  },
+  {
+    "title": "Broker",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Narrative"
+    ],
+    "poster": "broker.jpeg",
+    "series": null
+  },
+  {
+    "title": "But I’m a Cheerleader",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "butimacheerleader.jpeg",
+    "series": null
+  },
+  {
+    "title": "Bye Bye Birdie",
+    "year": 1963,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "poster": "byebyebirdie.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Caine Mutiny",
+    "year": 1954,
+    "genres": [
+      "Drama",
+      "WWII"
+    ],
+    "poster": "thecainemutiny.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Call of the Wild",
+    "year": 2020,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "poster": "thecallofthewild.jpeg",
+    "series": null
+  },
+  {
+    "title": "Carriers",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster": "carriers.jpeg",
+    "series": null
+  },
+  {
+    "title": "Centurion",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster": "centurion.jpeg",
+    "series": null
+  },
+  {
+    "title": "Charlie’s Angels: Full Throttle",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "charliesangelsfullthrottle.jpeg",
+    "series": "Charlie’s Angels"
+  },
+  {
+    "title": "Charlie’s Angels",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "charliesangels2019.jpeg",
+    "series": "Charlie’s Angels"
+  },
+  {
+    "title": "Charlotte Gray",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller",
+      "War",
+      "WWII"
+    ],
+    "poster": "charlottegray.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Children’s March",
+    "year": 2004,
+    "genres": [
+      "Documentary",
+      "Black History"
+    ],
+    "poster": "thechildrensmarch.jpeg",
+    "series": null
+  },
+  {
+    "title": "Chi-Raq",
+    "year": 2015,
+    "genres": [
+      "Black History",
+      "Crime",
+      "Musical"
+    ],
+    "poster": "chiraq.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",
+    "year": 2005,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "poster": "thelionthewitchandthewardrobe.jpeg",
+    "series": "The Chronicles of Narnia"
+  },
+  {
+    "title": "The Chronicles of Narnia: Prince Caspian",
+    "year": 2008,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "poster": "princecaspian.jpeg",
+    "series": "The Chronicles of Narnia"
+  },
+  {
+    "title": "The Chronicles of Narnia: Voyage of the Dawn Treader",
+    "year": 2010,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "poster": "voyageofthedawntreader.jpeg",
+    "series": "The Chronicles of Narnia"
+  },
+  {
+    "title": "Pitch Black",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster": "pitchblack.jpeg",
+    "series": "The Chronicles of Riddick"
+  },
+  {
+    "title": "The Chronicles of Riddick",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster": "thechroniclesofriddick.jpeg",
+    "series": "The Chronicles of Riddick"
+  },
+  {
+    "title": "Riddick",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster": "riddick.jpeg",
+    "series": "The Chronicles of Riddick"
+  },
+  {
+    "title": "Riddick 4: Furya",
+    "year": 2026,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster": "riddick4furya.jpeg",
+    "series": "The Chronicles of Riddick"
+  },
+  {
+    "title": "Cinderella",
+    "year": 1950,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "cinderella.jpeg",
+    "series": null
+  },
+  {
+    "title": "Clash of the Titans",
+    "year": 1981,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "poster": "clashofthetitans81.jpeg",
+    "series": "Clash of the Titans"
+  },
+  {
+    "title": "Clash of the Titans",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "poster": "clashofthetitans2010.jpeg",
+    "series": "Clash of the Titans"
+  },
+  {
+    "title": "Wrath of the Titans",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "poster": "wrathofthetitans.jpeg",
+    "series": "Clash of the Titans"
+  },
+  {
+    "title": "Close",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "close.jpeg",
+    "series": null
+  },
+  {
+    "title": "Close Encounters of the Third Kind",
+    "year": 1977,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "poster": "closeencountersofthethirdkind.jpeg",
+    "series": null
+  },
+  {
+    "title": "Clueless",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "clueless.jpeg",
+    "series": null
+  },
+  {
+    "title": "Code 8: Part II",
+    "year": 2024,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "code8part2.jpeg",
+    "series": "Code 8"
+  },
+  {
+    "title": "Colony",
+    "year": 2016,
+    "genres": [
+      "Sci-Fi",
+      "TV Show"
+    ],
+    "poster": "colony.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Colony",
+    "year": 2021,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster": "thecolony.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Comey Rule",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "TV Show"
+    ],
+    "poster": "thecomeyrule.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Command",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "thecommand.jpeg",
+    "series": null
+  },
+  {
+    "title": "Constantine",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster": "constantine.jpeg",
+    "series": null
+  },
+  {
+    "title": "Coco",
+    "year": 2017,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "coco.jpeg",
+    "series": null
+  },
+  {
+    "title": "Collateral",
+    "year": 2004,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster": "collateral.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Congress",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster": "thecongress.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Counterfeiters",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "thecounterfeiters.jpeg",
+    "series": null
+  },
+  {
+    "title": "Crazy Rich Asians",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "crazyrichasians.jpeg",
+    "series": null
+  },
+  {
+    "title": "Crimson Tide",
+    "year": 1995,
+    "genres": [
+      "Thriller",
+      "War"
+    ],
+    "poster": "crimsontide.jpeg",
+    "series": null
+  },
+  {
+    "title": "Crooklyn",
+    "year": 1994,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "crooklyn.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Cruel Sea",
+    "year": 1953,
+    "genres": [
+      "Drama",
+      "WWII"
+    ],
+    "poster": "thecruelsea.jpeg",
+    "series": null
+  },
+  {
+    "title": "Da 5 Bloods",
+    "year": 2020,
+    "genres": [
+      "Black History",
+      "Drama"
+    ],
+    "poster": "da5bloods.jpeg",
+    "series": null
+  },
+  {
+    "title": "Dances with Wolves",
+    "year": 1990,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "poster": "danceswithwolves.jpeg",
+    "series": null
+  },
+  {
+    "title": "Daredevil",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Marvel",
+      "Sci-Fi"
+    ],
+    "poster": "daredevil.jpeg",
+    "series": null
+  },
+  {
+    "title": "Dark City",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "poster": "darkcity.jpeg",
+    "series": null
+  },
+  {
+    "title": "Darkon",
+    "year": 2006,
+    "genres": [
+      "Fantasy",
+      "Documentary"
+    ],
+    "poster": "darkon.jpeg",
+    "series": null
+  },
+  {
+    "title": "Das Boot",
+    "year": 1982,
+    "genres": [
+      "Drama",
+      "WWII"
+    ],
+    "poster": "dasboot.jpeg",
+    "series": null
+  },
+  {
+    "title": "Dawn of the Dead",
+    "year": 1978,
+    "genres": [
+      "Horror",
+      "Zombie"
+    ],
+    "poster": "dawnofthedead1978.jpeg",
+    "series": null
+  },
+  {
+    "title": "Day of the Dead",
+    "year": 1985,
+    "genres": [
+      "Horror",
+      "Zombie"
+    ],
+    "poster": "dayofthedead1985.jpeg",
+    "series": null
+  },
+  {
+    "title": "Day of the Dead",
+    "year": 2008,
+    "genres": [
+      "Horror",
+      "Zombie",
+      "Remake"
+    ],
+    "poster": "dayofthedead2008.jpeg",
+    "series": null
+  },
+  {
+    "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "poster": "birdsofpreyandthefantabulousemancipationofoneharleyquinn.jpeg",
+    "series": "DCEU"
+  },
+  {
+    "title": "Wonder Woman 1984",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "poster": "wonderwoman1984.jpeg",
+    "series": "DCEU"
+  },
+  {
+    "title": "Zach Snyder’s Justice League",
+    "year": 2021,
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster": "zachsnydersjusticeleague.jpeg",
+    "series": "DCEU"
+  },
+  {
+    "title": "The Suicide Squad",
+    "year": 2021,
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster": "thesuicidesquad.jpeg",
+    "series": "DCEU"
+  },
+  {
+    "title": "Peacemaker",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "TV Show"
+    ],
+    "poster": "peacemaker.jpeg",
+    "series": "DCEU"
+  },
+  {
+    "title": "Black Adam",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "poster": "blackadam.jpeg",
+    "series": "DCEU"
+  },
+  {
+    "title": "The Flash",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "poster": "theflash2023.jpeg",
+    "series": "DCEU"
+  },
+  {
+    "title": "Blue Beetle",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "poster": "bluebeetle.jpeg",
+    "series": "DCEU"
+  },
+  {
+    "title": "Arrow",
+    "year": 2012,
+    "genres": [
+      "Crime",
+      "Action",
+      "TV Show"
+    ],
+    "poster": "arrow.jpeg",
+    "series": "DCTU"
+  },
+  {
+    "title": "The Flash",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "TV Show"
+    ],
+    "poster": "theflash2014.jpeg",
+    "series": "DCTU"
+  },
+  {
+    "title": "Supergirl",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "TV Show"
+    ],
+    "poster": "supergirl.jpeg",
+    "series": "DCTU"
+  },
+  {
+    "title": "Legends of Tomorrow",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "TV Show"
+    ],
+    "poster": "legendsoftomorrow.jpeg",
+    "series": "DCTU"
+  },
+  {
+    "title": "Black Lightning",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "TV Show"
+    ],
+    "poster": "blacklightning.jpeg",
+    "series": "DCTU"
+  },
+  {
+    "title": "Batwoman",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "TV Show"
+    ],
+    "poster": "batwoman.jpeg",
+    "series": "DCTU"
+  },
+  {
+    "title": "Dead Alive",
+    "year": 1993,
+    "genres": [
+      "Zombie",
+      "Splatter"
+    ],
+    "poster": "deadalive.jpeg",
+    "series": null
+  },
+  {
+    "title": "Dear White People",
+    "year": 2017,
+    "genres": [
+      "Satire",
+      "Black History",
+      "TV Show"
+    ],
+    "poster": "dearwhitepeople.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Death of Stalin",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "thedeathofstalin.jpeg",
+    "series": null
+  },
+  {
+    "title": "Death Race",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "deathrace.jpeg",
+    "series": "Death Race"
+  },
+  {
+    "title": "Death Race 2",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "deathrace2.jpeg",
+    "series": "Death Race"
+  },
+  {
+    "title": "Death Race 3: Inferno",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "deathrace3inferno.jpeg",
+    "series": "Death Race"
+  },
+  {
+    "title": "Death Race: Beyond Anarchy",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "deathracebeyondanarchy.jpeg",
+    "series": "Death Race"
+  },
+  {
+    "title": "Deep Impact",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster": "deepimpact.jpeg",
+    "series": null
+  },
+  {
+    "title": "Defiance",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "WWII"
+    ],
+    "poster": "defiance.jpeg",
+    "series": null
+  },
+  {
+    "title": "Den of Thieves",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "poster": "denofthieves.jpeg",
+    "series": null
+  },
+  {
+    "title": "Die Hard",
+    "year": 1988,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "diehard.jpeg",
+    "series": "Die Hard"
+  },
+  {
+    "title": "Die Hard 2",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "diehard2.jpeg",
+    "series": "Die Hard"
+  },
+  {
+    "title": "Die Hard with a Vengeance",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "diehardwithavengeance.jpeg",
+    "series": "Die Hard"
+  },
+  {
+    "title": "Live Free or Die Hard",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "livefreeordiehard.jpeg",
+    "series": "Die Hard"
+  },
+  {
+    "title": "A Good Day to Die Hard",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "agooddaytodiehard.jpeg",
+    "series": "Die Hard"
+  },
+  {
+    "title": "Dirty Harry",
+    "year": 1971,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "dirtyharry.jpeg",
+    "series": "Dirty Harry"
+  },
+  {
+    "title": "Magnum Force",
+    "year": 1973,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "magnumforce.jpeg",
+    "series": "Dirty Harry"
+  },
+  {
+    "title": "The Enforcer",
+    "year": 1976,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "theenforcer.jpeg",
+    "series": "Dirty Harry"
+  },
+  {
+    "title": "Sudden Impact",
+    "year": 1983,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "suddenimpact.jpeg",
+    "series": "Dirty Harry"
+  },
+  {
+    "title": "The Dead Pool",
+    "year": 1988,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "thedeadpool.jpeg",
+    "series": "Dirty Harry"
+  },
+  {
+    "title": "Django",
+    "year": 1966,
+    "genres": [
+      "Western",
+      "Spaghetti Western"
+    ],
+    "poster": "django.jpeg",
+    "series": null
+  },
+  {
+    "title": "Django Unchained",
+    "year": 2012,
+    "genres": [
+      "Western",
+      "Spaghetti Western"
+    ],
+    "poster": "djangounchained.jpeg",
+    "series": null
+  },
+  {
+    "title": "Donnie Darko",
+    "year": 2001,
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster": "donniedarko.jpeg",
+    "series": null
+  },
+  {
+    "title": "Dude Bro Party Massacre 3",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "poster": "dudebropartymassacre3.jpeg",
+    "series": null
+  },
+  {
+    "title": "Duel",
+    "year": 1971,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "duel.jpeg",
+    "series": null
+  },
+  {
+    "title": "Dumbo",
+    "year": 1941,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "dumbo.jpeg",
+    "series": null
+  },
+  {
+    "title": "Dune",
+    "year": 1984,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "poster": "dune84.jpeg",
+    "series": null
+  },
+  {
+    "title": "Dune: Messiah",
+    "year": 2026,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "poster": "dunemessiah.jpeg",
+    "series": "Dune"
+  },
+  {
+    "title": "The Eagle",
+    "year": 2011,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Rome"
+    ],
+    "poster": "theeagle.jpeg",
+    "series": null
+  },
+  {
+    "title": "East of Eden",
+    "year": 1955,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "eastofeden.jpeg",
+    "series": null
+  },
+  {
+    "title": "Easy Rider",
+    "year": 1969,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "easyrider.jpeg",
+    "series": null
+  },
+  {
+    "title": "Edge of Darkness",
+    "year": 2010,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "edgeofdarkness.jpeg",
+    "series": null
+  },
+  {
+    "title": "Edge of Seventeen",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "edgeofseventeen.jpeg",
+    "series": null
+  },
+  {
+    "title": "Edward Scissorhands",
+    "year": 1990,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "poster": "edwardscissorhands.jpeg",
+    "series": null
+  },
+  {
+    "title": "Elephant",
+    "year": 2003,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster": "elephant.jpeg",
+    "series": null
+  },
+  {
+    "title": "End of Watch",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "poster": "endofwatch.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Enemy Below",
+    "year": 1958,
+    "genres": [
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "theenemybelow.jpeg",
+    "series": null
+  },
+  {
+    "title": "Escape from New York",
+    "year": 1981,
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster": "escapefromnewyork.jpeg",
+    "series": null
+  },
+  {
+    "title": "ET. the Extra-Terrestrial",
+    "year": 1982,
+    "genres": [
+      "Family",
+      "Sci-Fi"
+    ],
+    "poster": "ettheextraterrestrial.jpeg",
+    "series": null
+  },
+  {
+    "title": "Evil Dead II",
+    "year": 1987,
+    "genres": [
+      "Cult",
+      "Splatter"
+    ],
+    "poster": "evildead2.jpeg",
+    "series": null
+  },
+  {
+    "title": "Eyes Without a Face",
+    "year": 1960,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "poster": "eyeswithoutaface.jpeg",
+    "series": null
+  },
+  {
+    "title": "Fahrenheit 451",
+    "year": 1966,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster": "fahrenheit45166.jpeg",
+    "series": null
+  },
+  {
+    "title": "Olympus Has Fallen",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "olympushasfallen.jpeg",
+    "series": "Fallen"
+  },
+  {
+    "title": "London Has Fallen",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "londonhasfallen.jpeg",
+    "series": "Fallen"
+  },
+  {
+    "title": "Angel has Fallen",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "angelhasfallen.jpeg",
+    "series": "Fallen"
+  },
+  {
+    "title": "Falling Skies",
+    "year": 2011,
+    "genres": [
+      "Sci-Fi",
+      "TV Show"
+    ],
+    "poster": "fallingskies.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Fall of the Roman Empire",
+    "year": 1964,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "poster": "thefalloftheromanempire.jpeg",
+    "series": null
+  },
+  {
+    "title": "Fantasia",
+    "year": 1940,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "fantasia.jpeg",
+    "series": null
+  },
+  {
+    "title": "Fantasy Island",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "fantasyisland.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Fantastic Four",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Marvel",
+      "Sci-Fi"
+    ],
+    "poster": "thefantasticfour1994.jpeg",
+    "series": "Fantastic Four"
+  },
+  {
+    "title": "Fantastic Four",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Marvel",
+      "Sci-Fi"
+    ],
+    "poster": "fantasticfour2015.jpeg",
+    "series": "Fantastic Four"
+  },
+  {
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Marvel",
+      "Sci-Fi"
+    ],
+    "poster": "fantasticfourriseofthesilversurfer.jpeg",
+    "series": "Fantastic Four"
+  },
+  {
+    "title": "Fargo",
+    "year": 1996,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "fargo.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Fate of the Furious",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Crime"
+    ],
+    "poster": "thefateofthefurious.jpeg",
+    "series": "Fast & Furious"
+  },
+  {
+    "title": "F9",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Crime"
+    ],
+    "poster": "f9.jpeg",
+    "series": "Fast & Furious"
+  },
+  {
+    "title": "Fast X",
+    "year": 2023,
+    "genres": [
+      "Adventure",
+      "Crime"
+    ],
+    "poster": "fastx.jpeg",
+    "series": "Fast & Furious"
+  },
+  {
+    "title": "Fences",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "fences.jpeg",
+    "series": null
+  },
+  {
+    "title": "Ferris Bueller’s Day Off",
+    "year": 1986,
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "ferrisbuellersdayoff.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Fifth Element",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster": "thefifthelement.jpeg",
+    "series": null
+  },
+  {
+    "title": "Fifty Shades of Grey",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "fiftyshadesofgrey.jpeg",
+    "series": "Fifty Shades"
+  },
+  {
+    "title": "Fifty Shades Darker",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "fiftyshadesdarker.jpeg",
+    "series": "Fifty Shades"
+  },
+  {
+    "title": "Fifty Shades Freed",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "fiftyshadesfreed.jpeg",
+    "series": "Fifty Shades"
+  },
+  {
+    "title": "Final Destination",
+    "year": 2000,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "finaldestination.jpeg",
+    "series": "Final Destination"
+  },
+  {
+    "title": "Final Destination 2",
+    "year": 2003,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "finaldestination2.jpeg",
+    "series": "Final Destination"
+  },
+  {
+    "title": "Final Destination 3",
+    "year": 2006,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "finaldestination3.jpeg",
+    "series": "Final Destination"
+  },
+  {
+    "title": "The Final Destination",
+    "year": 2009,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "thefinaldestination.jpeg",
+    "series": "Final Destination"
+  },
+  {
+    "title": "Final Destination 5",
+    "year": 2011,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "finaldestination5.jpeg",
+    "series": "Final Destination"
+  },
+  {
+    "title": "Finding Nemo",
+    "year": 2003,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "findingnemo.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Finest Hours",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "poster": "thefinesthours.jpeg",
+    "series": null
+  },
+  {
+    "title": "First Kill",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "firstkill.jpeg",
+    "series": null
+  },
+  {
+    "title": "Flubber",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "poster": "flubber.jpeg",
+    "series": null
+  },
+  {
+    "title": "Following",
+    "year": 1998,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "following.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Foreigner",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "theforeigner.jpeg",
+    "series": null
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "forrestgump.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Game",
+    "year": 1997,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "thegame.jpeg",
+    "series": null
+  },
+  {
+    "title": "Gattaca",
+    "year": 1997,
+    "genres": [
+      "Romance",
+      "Sci-Fi"
+    ],
+    "poster": "gattaca.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Gentlemen",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "thegentlemen.jpeg",
+    "series": null
+  },
+  {
+    "title": "Get Out",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "getout.jpeg",
+    "series": null
+  },
+  {
+    "title": "Ghost Rider",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Marvel",
+      "Sci-Fi"
+    ],
+    "poster": "ghostrider.jpeg",
+    "series": "Ghost Rider"
+  },
+  {
+    "title": "Ghost Rider: Spirit of Vengeance",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Marvel",
+      "Sci-Fi"
+    ],
+    "poster": "ghostriderspiritofvengeance.jpeg",
+    "series": "Ghost Rider"
+  },
+  {
+    "title": "Giant Little Ones",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "giantlittleones.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "genres": [
+      "Crime"
+    ],
+    "poster": "thegodfather.jpeg",
+    "series": "The Godfather"
+  },
+  {
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "genres": [
+      "Crime"
+    ],
+    "poster": "thegodfatherpart2.jpeg",
+    "series": "The Godfather"
+  },
+  {
+    "title": "The Godfather Part III",
+    "year": 1990,
+    "genres": [
+      "Crime"
+    ],
+    "poster": "thegodfatherpart3.jpeg",
+    "series": "The Godfather"
+  },
+  {
+    "title": "Good Boys",
+    "year": 2019,
+    "genres": [
+      "Adventure"
+    ],
+    "poster": "goodboys.jpeg",
+    "series": null
+  },
+  {
+    "title": "GoodFellas",
+    "year": 1990,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster": "goodfellas.jpeg",
+    "series": null
+  },
+  {
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "goodwillhunting.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Goonies",
+    "year": 1985,
+    "genres": [
+      "Adventure",
+      "Family"
+    ],
+    "poster": "thegoonies.jpeg",
+    "series": null
+  },
+  {
+    "title": "Gone Girl",
+    "year": 2014,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "gonegirl.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Great Escape",
+    "year": 1963,
+    "genres": [
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "thegreatescape.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Great War",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "War",
+      "WWI"
+    ],
+    "poster": "thegreatwar.jpeg",
+    "series": null
+  },
+  {
+    "title": "Green Book",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "greenbook.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Green Knight",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster": "thegreenknight.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Green Mile",
+    "year": 1999,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster": "thegreenmile.jpeg",
+    "series": null
+  },
+  {
+    "title": "Green Lantern",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster": "greenlantern.jpeg",
+    "series": null
+  },
+  {
+    "title": "Gremlins",
+    "year": 1984,
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "poster": "gremlins.jpeg",
+    "series": "Gremlins"
+  },
+  {
+    "title": "Gremlins 2: The New Batch",
+    "year": 1990,
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "poster": "gremlins2thenewbatch.jpeg",
+    "series": "Gremlins"
+  },
+  {
+    "title": "Grey’s Anatomy",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Romance",
+      "TV Show"
+    ],
+    "poster": "greysanatomy.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Grudge",
+    "year": 2004,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "thegrudge.jpeg",
+    "series": "The Grudge"
+  },
+  {
+    "title": "The Grudge 2",
+    "year": 2006,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "thegrudge2.jpeg",
+    "series": "The Grudge"
+  },
+  {
+    "title": "The Grudge 3",
+    "year": 2009,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "thegrudge3.jpeg",
+    "series": "The Grudge"
+  },
+  {
+    "title": "The Grudge",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "thegrudge2020.jpeg",
+    "series": "The Grudge"
+  },
+  {
+    "title": "Guns Akimbo",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "gunsakimbo.jpeg",
+    "series": null
+  },
+  {
+    "title": "Hacksaw Ridge",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "hacksawridge.jpeg",
+    "series": null
+  },
+  {
+    "title": "Halloween",
+    "year": 1978,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "halloween1978.jpeg",
+    "series": "Halloween"
+  },
+  {
+    "title": "Halloween II",
+    "year": 1981,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "halloween2.jpeg",
+    "series": "Halloween"
+  },
+  {
+    "title": "Halloween III: Season of the Witch",
+    "year": 1982,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "halloween3seasonofthewitch.jpeg",
+    "series": "Halloween"
+  },
+  {
+    "title": "Halloween 4: The Return of Michael Myers",
+    "year": 1984,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "halloween4thereturnofmichaelmyers.jpeg",
+    "series": "Halloween"
+  },
+  {
+    "title": "Halloween 5: The Revenge of Michael Myers",
+    "year": 1989,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "halloween5therevengeofmichaelmyers.jpeg",
+    "series": "Halloween"
+  },
+  {
+    "title": "Halloween: The Curse of Michael Myers",
+    "year": 1995,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "halloweenthecurseofmichaelmyers.jpeg",
+    "series": "Halloween"
+  },
+  {
+    "title": "Halloween H20: 20 Years Later",
+    "year": 1998,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "halloweenh2020yearslater.jpeg",
+    "series": "Halloween"
+  },
+  {
+    "title": "Halloween: Resurrection",
+    "year": 2002,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "halloweenresurrection.jpeg",
+    "series": "Halloween"
+  },
+  {
+    "title": "Halloween",
+    "year": 2007,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "halloween2007.jpeg",
+    "series": "Halloween"
+  },
+  {
+    "title": "Halloween II",
+    "year": 2009,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "halloween2009.jpeg",
+    "series": "Halloween"
+  },
+  {
+    "title": "Halloween",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "halloween2018.jpeg",
+    "series": "Halloween"
+  },
+  {
+    "title": "Halloweentown",
+    "year": 1998,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "halloweentown.jpeg",
+    "series": "Halloweentown"
+  },
+  {
+    "title": "Halloweentown II: Kalabar’s Revenge",
+    "year": 2001,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "halloweentown2kalabarsrevenge.jpeg",
+    "series": "Halloweentown"
+  },
+  {
+    "title": "Halloweentown High",
+    "year": 2004,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "halloweentownhigh.jpeg",
+    "series": "Halloweentown"
+  },
+  {
+    "title": "Return to Halloweentown",
+    "year": 2006,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "returntohalloweentown.jpeg",
+    "series": "Halloweentown"
+  },
+  {
+    "title": "Happy Death Day",
+    "year": 2017,
+    "genres": [
+      "Mystery",
+      "Slasher"
+    ],
+    "poster": "happydeathday.jpeg",
+    "series": "Happy Death Day"
+  },
+  {
+    "title": "Happy Death Day 2U",
+    "year": 2019,
+    "genres": [
+      "Mystery",
+      "Slasher"
+    ],
+    "poster": "happydeathday2u.jpeg",
+    "series": "Happy Death Day"
+  },
+  {
+    "title": "The Hateful Eight",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "poster": "thehatefuleight.jpeg",
+    "series": null
+  },
+  {
+    "title": "He Got Game",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "poster": "hegotgame.jpeg",
+    "series": null
+  },
+  {
+    "title": "Hell or High Water",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster": "hellorhighwater.jpeg",
+    "series": null
+  },
+  {
+    "title": "Hellboy",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "poster": "hellboy2004.jpeg",
+    "series": "Hellboy"
+  },
+  {
+    "title": "Hellboy II: The Golden Army",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "poster": "hellboy2thegoldenarmy.jpeg",
+    "series": "Hellboy"
+  },
+  {
+    "title": "Hellboy",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "poster": "hellboy2019.jpeg",
+    "series": "Hellboy"
+  },
+  {
+    "title": "Her",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "her.jpeg",
+    "series": null
+  },
+  {
+    "title": "Hercules",
+    "year": 1997,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "hercules.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Hero Yoshihiko & The Demon King’s Castle",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "TV Show"
+    ],
+    "poster": "heroyoshihiko.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Highwaymen",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster": "thehighwaymen.jpeg",
+    "series": null
+  },
+  {
+    "title": "Hocus Pocus",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "poster": "hocuspocus2022.jpeg",
+    "series": "Hocus Pocus"
+  },
+  {
+    "title": "Hook",
+    "year": 1991,
+    "genres": [
+      "Family",
+      "Adventure"
+    ],
+    "poster": "hook.jpeg",
+    "series": null
+  },
+  {
+    "title": "Hornblower: The Even Chance",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "hornblowertheevenchance.jpeg",
+    "series": null
+  },
+  {
+    "title": "The House on 92nd Street",
+    "year": 1945,
+    "genres": [
+      "Thriller"
+    ],
+    "poster": "thehouseon92ndstreet.jpeg",
+    "series": null
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "year": 2010,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "howtotrainyourdragon.jpeg",
+    "series": "How to Train Your Dragon"
+  },
+  {
+    "title": "How to Train Your Dragon 2",
+    "year": 2014,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "howtotrainyourdragon2.jpeg",
+    "series": "How to Train Your Dragon"
+  },
+  {
+    "title": "How to Train Your Dragon: The Hidden World",
+    "year": 2019,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "howtotrainyourdragonthehiddenworld.jpeg",
+    "series": "How to Train Your Dragon"
+  },
+  {
+    "title": "Howl’s Moving Castle",
+    "year": 2004,
+    "genres": [
+      "Animated"
+    ],
+    "poster": "howlsmovingcastle.jpeg",
+    "series": null
+  },
+  {
+    "title": "Hulk",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Marvel",
+      "Sci-Fi"
+    ],
+    "poster": "hulk.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Hunchback of Notre Dame",
+    "year": 1996,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "thehunchbackofnotredame.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Hunt",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "thehunt.jpeg",
+    "series": null
+  },
+  {
+    "title": "Hush",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "hush.jpeg",
+    "series": null
+  },
+  {
+    "title": "I Am Jonas",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "iamjonas.jpeg",
+    "series": null
+  },
+  {
+    "title": "I Got A Monster",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Documentary"
+    ],
+    "poster": "igotamonster.jpeg",
+    "series": null
+  },
+  {
+    "title": "I Love You, Man",
+    "year": 2009,
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "iloveyouman.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Imitation Game",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "theimitationgame.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Impossible",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "theimpossible.jpeg",
+    "series": null
+  },
+  {
+    "title": "In Darkness",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "indarkness.jpeg",
+    "series": null
+  },
+  {
+    "title": "In Harm's Way",
+    "year": 1965,
+    "genres": [
+      "Drama",
+      "Romance",
+      "WWII"
+    ],
+    "poster": "inharmsway.jpeg",
+    "series": null
+  },
+  {
+    "title": "In the Heart of the Sea",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "poster": "intheheartofthesea.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Incredibles",
+    "year": 2004,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "theincredibles.jpeg",
+    "series": "The Incredibles"
+  },
+  {
+    "title": "Incredibles 2",
+    "year": 2018,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "incredibles2.jpeg",
+    "series": "The Incredibles"
+  },
+  {
+    "title": "Infamous",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "infamous.jpeg",
+    "series": null
+  },
+  {
+    "title": "Inglourious Bastards",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "ingloriousbastards.jpeg",
+    "series": null
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "year": 1981,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster": "raidersofthelostark.jpeg",
+    "series": "Indiana Jones"
+  },
+  {
+    "title": "Indiana Jones and the Temple of Doom",
+    "year": 1984,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster": "indianajonesandthetempleofdoom.jpeg",
+    "series": "Indiana Jones"
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1989,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster": "indianajonesandthelastcrusade.jpeg",
+    "series": "Indiana Jones"
+  },
+  {
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster": "indianajonesandthekingdomofthecrystalskull.jpeg",
+    "series": "Indiana Jones"
+  },
+  {
+    "title": "Inside Out",
+    "year": 2015,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "insideout.jpeg",
+    "series": null
+  },
+  {
+    "title": "Insomnia",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "insomnia.jpeg",
+    "series": null
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "poster": "interstellar.jpeg",
+    "series": null
+  },
+  {
+    "title": "Invasion",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster": "invasion.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Invisible Man",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "theinvisibleman.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Invitation",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "poster": "theinvitation.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Irishman",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster": "theirishman.jpeg",
+    "series": null
+  },
+  {
+    "title": "Iron Sky",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "poster": "ironsky.jpeg",
+    "series": "Iron Sky"
+  },
+  {
+    "title": "Iron Sky: The Coming Race",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "poster": "ironskythecomingrace.jpeg",
+    "series": "Iron Sky"
+  },
+  {
+    "title": "The Iron Giant",
+    "year": 1999,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "theirongiant.jpeg",
+    "series": null
+  },
+  {
+    "title": "Irresistible",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "irresistible.jpeg",
+    "series": null
+  },
+  {
+    "title": "Irréversible",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "poster": "irréversible.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Island",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster": "theisland.jpeg",
+    "series": null
+  },
+  {
+    "title": "I, Tonya",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "poster": "itonya.jpeg",
+    "series": null
+  },
+  {
+    "title": "It",
+    "year": 1990,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "it1990.jpeg",
+    "series": "It"
+  },
+  {
+    "title": "It: Chapter 2",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "itchapter2.jpeg",
+    "series": "It"
+  },
+  {
+    "title": "It Follows",
+    "year": 2014,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "itfollows.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Italian Job",
+    "year": 1969,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "theitalianjob.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Italian Job",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Remake"
+    ],
+    "poster": "theitalianjob2003.jpeg",
+    "series": null
+  },
+  {
+    "title": "Patriot Games",
+    "year": 1992,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "patriotgames.jpeg",
+    "series": "Jack Ryan"
+  },
+  {
+    "title": "Clear and Present Danger",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "clearandpresentdanger.jpeg",
+    "series": "Jack Ryan"
+  },
+  {
+    "title": "The Sum of All Fears",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "thesumofallfears.jpeg",
+    "series": "Jack Ryan"
+  },
+  {
+    "title": "Jack Ryan: Shadow Recruit",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "jackryanshadowrecruit.jpeg",
+    "series": "Jack Ryan"
+  },
+  {
+    "title": "Jack Reacher",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "jackreacher.jpeg",
+    "series": "Jack Reacher"
+  },
+  {
+    "title": "Reacher",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Thriller",
+      "TV Show"
+    ],
+    "poster": "reacher.jpeg",
+    "series": "Jack Reacher"
+  },
+  {
+    "title": "Jacob's Ladder",
+    "year": 1990,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "jacobsladder.jpeg",
+    "series": null
+  },
+  {
+    "title": "Jakob the Liar",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "jakobtheliar.jpeg",
+    "series": null
+  },
+  {
+    "title": "Thunderball",
+    "year": 1965,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "thunderball.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "You Only Live Twice",
+    "year": 1967,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "youonlylivetwice.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "On Her Majesty’s Secret Service",
+    "year": 1969,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "onhermajestyssecretservice.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "Diamonds are Forever",
+    "year": 1971,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "diamondsareforever.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "Live and Let Die",
+    "year": 1973,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "liveandletdie.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "The Man with the Golden Gun",
+    "year": 1974,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "themanwiththegoldengun.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "The Spy Who Loved Me",
+    "year": 1977,
+    "genres": [
+      "Mystery",
+      "Spy",
+      "Sci-Fi"
+    ],
+    "poster": "thespywholovedme.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "Moonraker",
+    "year": 1979,
+    "genres": [
+      "Sci-Fi",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "moonraker.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "For Your Eyes Only",
+    "year": 1981,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "foryoureyesonly.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "Octopussy",
+    "year": 1983,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "octopussy.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "A View to a Kill",
+    "year": 1985,
+    "genres": [
+      "Mystery",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "aviewtoakill.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "The Living Daylights",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "thelivingdaylights.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "License to Kill",
+    "year": 1989,
+    "genres": [
+      "Crime",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "licensetokill.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "GoldenEye",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "goldeneye.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "Tomorrow Never Dies",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "tomorrowneverdies.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "The World Is Not Enough",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "theworldisnotenough.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "Die Another Day",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "dieanotherday.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "Casino Royale",
+    "year": 2006,
+    "genres": [
+      "Mystery",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "casinoroyale.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "Quantum of Solace",
+    "year": 2008,
+    "genres": [
+      "Mystery",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "quantumofsolace.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "Skyfall",
+    "year": 2012,
+    "genres": [
+      "Mystery",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "skyfall.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "Spectre",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Spy",
+      "Mystery"
+    ],
+    "poster": "spectre.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "No Time to Die",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Spy",
+      "Thriller"
+    ],
+    "poster": "notimetodie.jpeg",
+    "series": "James Bond"
+  },
+  {
+    "title": "Jarhead",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "poster": "jarhead.jpeg",
+    "series": null
+  },
+  {
+    "title": "Jaws",
+    "year": 1975,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "jaws.jpeg",
+    "series": "Jaws"
+  },
+  {
+    "title": "Jaws 2",
+    "year": 1978,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "jaws2.jpeg",
+    "series": "Jaws"
+  },
+  {
+    "title": "Jaws 3-D",
+    "year": 1983,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "jaws3d.jpeg",
+    "series": "Jaws"
+  },
+  {
+    "title": "Jaws: The Revenge",
+    "year": 1987,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "jawstherevenge.jpeg",
+    "series": "Jaws"
+  },
+  {
+    "title": "Jojo Rabbit",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "WWII"
+    ],
+    "poster": "jojorabbit.jpeg",
+    "series": null
+  },
+  {
+    "title": "John Wick: Chapter 3 — Parabellum",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "johnwickchapter3parabellum.jpeg",
+    "series": "John Wick"
+  },
+  {
+    "title": "Jumper",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster": "jumper.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Jungle Book",
+    "year": 1967,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "thejunglebook1967.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Jungle Book",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Family"
+    ],
+    "poster": "thejunglebook2006.jpeg",
+    "series": null
+  },
+  {
+    "title": "Jungle Fever",
+    "year": 1991,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "junglefever.jpeg",
+    "series": null
+  },
+  {
+    "title": "Juno",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "juno.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Lost World: Jurassic Park",
+    "year": 1997,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "poster": "thelostworldjurassicpark.jpeg",
+    "series": "Jurassic Park"
+  },
+  {
+    "title": "Jurassic Park III",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "poster": "jurassicpark3.jpeg",
+    "series": "Jurassic Park"
+  },
+  {
+    "title": "The Karate Kid",
+    "year": 1984,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "poster": "thekaratekid.jpeg",
+    "series": "The Karate Kid"
+  },
+  {
+    "title": "The Karate Kid",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "thekaratekid2010.jpeg",
+    "series": "The Karate Kid"
+  },
+  {
+    "title": "Kick-Ass 2",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "kickass2.jpeg",
+    "series": "Kick-Ass"
+  },
+  {
+    "title": "King Arthur: Legend of the Sword",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "poster": "kingarthurlegendofthesword.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Kingdom",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "thekingdom.jpeg",
+    "series": null
+  },
+  {
+    "title": "Kingsman: The Secret Service",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "kingsmanthesecretservice.jpeg",
+    "series": "Kingsman"
+  },
+  {
+    "title": "Kingsman: The Golden Circle",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "kingsmanthegoldencircle.jpeg",
+    "series": "Kingsman"
+  },
+  {
+    "title": "LA92",
+    "year": 2017,
+    "genres": [
+      "Documentary",
+      "Black History"
+    ],
+    "poster": "la92.jpeg",
+    "series": null
+  },
+  {
+    "title": "Labyrinth",
+    "year": 1986,
+    "genres": [
+      "Fantasy",
+      "Musical"
+    ],
+    "poster": "labyrinth.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Last Days of American Crime",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "thelastdaysofamericancrime.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Last Thing He Wanted",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "thelastthinghewanted.jpeg",
+    "series": null
+  },
+  {
+    "title": "Last Voyage of the Demeter",
+    "year": 2023,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "lastvoyageofthedemeter.jpeg",
+    "series": null
+  },
+  {
+    "title": "Law Abiding Citizen",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "lawabidingcitizen.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Lego Movie",
+    "year": 2014,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "thelegomovie.jpeg",
+    "series": "The Lego Movies"
+  },
+  {
+    "title": "The Lego Batman Movie",
+    "year": 2017,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "thelegobatmanmovie.jpeg",
+    "series": "The Lego Movies"
+  },
+  {
+    "title": "The Lego Ninjago Movie",
+    "year": 2017,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "thelegoninjagomovie.jpeg",
+    "series": "The Lego Movies"
+  },
+  {
+    "title": "The Lego Movie 2: The Second Part",
+    "year": 2019,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "thelegomovie2thesecondpart.jpeg",
+    "series": "The Lego Movies"
+  },
+  {
+    "title": "Les Miserables",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "poster": "lesmiserables.jpeg",
+    "series": null
+  },
+  {
+    "title": "Letters from Iwo Jima",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "lettersfromiwojima.jpeg",
+    "series": null
+  },
+  {
+    "title": "Let The Little Light Shine",
+    "year": 2022,
+    "genres": [
+      "Documentary"
+    ],
+    "poster": "letthelittlelightshine.jpeg",
+    "series": null
+  },
+  {
+    "title": "Life Is Beautiful",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "War",
+      "WWII"
+    ],
+    "poster": "lifeisbeautiful.jpeg",
+    "series": null
+  },
+  {
+    "title": "Lincoln",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "poster": "lincoln.jpeg",
+    "series": null
+  },
+  {
+    "title": "Lilo and Stitch",
+    "year": 2002,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "liloandstitch.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Lion King",
+    "year": 1994,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "thelionking1994.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Lion King",
+    "year": 2019,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "thelionking2019.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Little Mermaid",
+    "year": 1987,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "thelittlemermaid.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Hobbit: An Unexpected Journey",
+    "year": 2012,
+    "genres": [
+      "Fantasy"
+    ],
+    "poster": "thehobbitanunexpectedjourney.jpeg",
+    "series": "Lord of the Rings"
+  },
+  {
+    "title": "The Hobbit: Desolation of Smaug",
+    "year": 2013,
+    "genres": [
+      "Fantasy"
+    ],
+    "poster": "thehobbitdesolationofsmaug.jpeg",
+    "series": "Lord of the Rings"
+  },
+  {
+    "title": "The Hobbit: Battle of the Five Armies",
+    "year": 2014,
+    "genres": [
+      "Fantasy"
+    ],
+    "poster": "thehobbitbattleofthefivearmies.jpeg",
+    "series": "Lord of the Rings"
+  },
+  {
+    "title": "The Losers",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "poster": "thelosers.jpeg",
+    "series": null
+  },
+  {
+    "title": "Lost",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "TV Show"
+    ],
+    "poster": "lost.jpeg",
+    "series": null
+  },
+  {
+    "title": "MacGruber",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "macgruber.jpeg",
+    "series": null
+  },
+  {
+    "title": "Mad Max",
+    "year": 1979,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster": "madmax1979.jpeg",
+    "series": "Mad Max"
+  },
+  {
+    "title": "Mad Max 2: The Road Warrior",
+    "year": 1981,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster": "madmax2theroadwarrior.jpeg",
+    "series": "Mad Max"
+  },
+  {
+    "title": "The Magnificent Seven",
+    "year": 1960,
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "poster": "themagnificentseven1960.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Magnificent Seven",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Western",
+      "Remake"
+    ],
+    "poster": "themagnificentseven2016.jpeg",
+    "series": null
+  },
+  {
+    "title": "Magnolia",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "magnolia.jpeg",
+    "series": null
+  },
+  {
+    "title": "Malcolm X",
+    "year": 1992,
+    "genres": [
+      "Black History",
+      "Drama"
+    ],
+    "poster": "malcolmx.jpeg",
+    "series": null
+  },
+  {
+    "title": "Maleficent",
+    "year": 2014,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "poster": "maleficent.jpeg",
+    "series": "Maleficent"
+  },
+  {
+    "title": "Maleficent: Mistress of Evil",
+    "year": 2019,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "poster": "maleficentmistressofevil.jpeg",
+    "series": "Maleficent"
+  },
+  {
+    "title": "Malevolent",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "malevolent.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Mask",
+    "year": 1994,
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "themask.jpeg",
+    "series": null
+  },
+  {
+    "title": "Memento",
+    "year": 2000,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "memento.jpeg",
+    "series": null
+  },
+  {
+    "title": "Men in Black",
+    "year": 1997,
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster": "meninblack.jpeg",
+    "series": "Men in Black"
+  },
+  {
+    "title": "Men in Black II",
+    "year": 2002,
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster": "meninblack2.jpeg",
+    "series": "Men in Black"
+  },
+  {
+    "title": "Men in Black 3",
+    "year": 2012,
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster": "meninblack3.jpeg",
+    "series": "Men in Black"
+  },
+  {
+    "title": "Men in Black: International",
+    "year": 2019,
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "poster": "meninblackinternational.jpeg",
+    "series": "Men in Black"
+  },
+  {
+    "title": "Michael Clayton",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "michaelclayton.jpeg",
+    "series": null
+  },
+  {
+    "title": "Midway",
+    "year": 1976,
+    "genres": [
+      "Drama",
+      "WWII"
+    ],
+    "poster": "midway1976.jpeg",
+    "series": null
+  },
+  {
+    "title": "Minority Report",
+    "year": 2002,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster": "minorityreport.jpeg",
+    "series": null
+  },
+  {
+    "title": "Miracle at St. Anna",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "War",
+      "Black History"
+    ],
+    "poster": "miracleatstanna.jpeg",
+    "series": null
+  },
+  {
+    "title": "Mission: Impossible",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Spy"
+    ],
+    "poster": "missionimpossible.jpeg",
+    "series": "Mission: Impossible"
+  },
+  {
+    "title": "Mission: Impossible 2",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Spy"
+    ],
+    "poster": "missionimpossible2.jpeg",
+    "series": "Mission: Impossible"
+  },
+  {
+    "title": "Mission: Impossible III",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Spy"
+    ],
+    "poster": "missionimpossible3.jpeg",
+    "series": "Mission: Impossible"
+  },
+  {
+    "title": "Mission: Impossible - Ghost Protocol",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Spy"
+    ],
+    "poster": "missionimpossibleghostprotocol.jpeg",
+    "series": "Mission: Impossible"
+  },
+  {
+    "title": "Natural Born Killers",
+    "year": 1994,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster": "naturalbornkillers.jpeg",
+    "series": null
+  },
+  {
+    "title": "Nightmare Alley",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "nightmarealley.jpeg",
+    "series": null
+  },
+  {
+    "title": "Night of the Living Dead",
+    "year": 1968,
+    "genres": [
+      "Drama",
+      "Zombie"
+    ],
+    "poster": "nightofthelivingdead1968.jpeg",
+    "series": null
+  },
+  {
+    "title": "Night of the Living Dead",
+    "year": 1990,
+    "genres": [
+      "Horror",
+      "Zombie"
+    ],
+    "poster": "nightofthelivingdead1990.jpeg",
+    "series": null
+  },
+  {
+    "title": "Night on Earth",
+    "year": 2020,
+    "genres": [
+      "Nature Series"
+    ],
+    "poster": "nightonearth.jpeg",
+    "series": null
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "nocountryforoldmen.jpeg",
+    "series": null
+  },
+  {
+    "title": "Nope",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "poster": "nope.jpeg",
+    "series": null
+  },
+  {
+    "title": "Nosferatu the Vampyre",
+    "year": 1979,
+    "genres": [
+      "Horror"
+    ],
+    "poster": "nosferatuthevampyre.jpeg",
+    "series": "Nosferatu"
+  },
+  {
+    "title": "The November Man",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "thenovemberman.jpeg",
+    "series": null
+  },
+  {
+    "title": "Observe and Report",
+    "year": 2009,
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "observeandreport.jpeg",
+    "series": null
+  },
+  {
+    "title": "Ocean’s Thirteen",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Crime",
+      "Heist"
+    ],
+    "poster": "oceansthirteen.jpeg",
+    "series": "Ocean’s"
+  },
+  {
+    "title": "Ocean’s Eight",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Crime",
+      "Heist"
+    ],
+    "poster": "oceanseight.jpeg",
+    "series": "Ocean’s"
+  },
+  {
+    "title": "October Sky",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "octobersky.jpeg",
+    "series": null
+  },
+  {
+    "title": "Old Boy",
+    "year": 2013,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "oldboy.jpeg",
+    "series": null
+  },
+  {
+    "title": "One Flew Over the Cuckoo’s Nest",
+    "year": 1975,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "oneflewoverthecuckoosnest.jpeg",
+    "series": null
+  },
+  {
+    "title": "Onward",
+    "year": 2020,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "onward.jpeg",
+    "series": null
+  },
+  {
+    "title": "Only",
+    "year": 2019,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster": "only.jpeg",
+    "series": null
+  },
+  {
+    "title": "Office Space",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "officespace.jpeg",
+    "series": null
+  },
+  {
+    "title": "Operation Finale",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "poster": "operationfinale.jpeg",
+    "series": null
+  },
+  {
+    "title": "Outbreak",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Disaster"
+    ],
+    "poster": "outbreak.jpeg",
+    "series": null
+  },
+  {
+    "title": "Outcast",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster": "outcast.jpeg",
+    "series": null
+  },
+  {
+    "title": "Out of Sight",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Romance"
+    ],
+    "poster": "outofsight.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Outlaw King",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "poster": "theoutlawking.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Outpost",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "War"
+    ],
+    "poster": "theoutpost.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Outsiders",
+    "year": 1983,
+    "genres": [
+      "Drama",
+      "Teen"
+    ],
+    "poster": "theoutsiders.jpeg",
+    "series": null
+  },
+  {
+    "title": "Pacific Rim: Uprising",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster": "pacificrimuprising.jpeg",
+    "series": "Pacific Rim"
+  },
+  {
+    "title": "The Pagemaster",
+    "year": 1994,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "thepagemaster.jpeg",
+    "series": null
+  },
+  {
+    "title": "Pan",
+    "year": 2015,
+    "genres": [
+      "Family",
+      "Adventure"
+    ],
+    "poster": "pan.jpeg",
+    "series": null
+  },
+  {
+    "title": "Passengers",
+    "year": 2016,
+    "genres": [
+      "Sci-Fi",
+      "Romance"
+    ],
+    "poster": "passengers.jpeg",
+    "series": null
+  },
+  {
+    "title": "Patient Zero",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Horror",
+      "Zombie"
+    ],
+    "poster": "patientzero.jpeg",
+    "series": null
+  },
+  {
+    "title": "Patton",
+    "year": 1970,
+    "genres": [
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "patton.jpeg",
+    "series": null
+  },
+  {
+    "title": "Percy Jackson & the Olympians: The Lightning Thief",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster": "percyjacksonsandtheolympiansthelightningthief.jpeg",
+    "series": "Percy Jackson"
+  },
+  {
+    "title": "Percy Jackson: Sea of Monsters",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster": "percyjacksonseaofmonsters.jpeg",
+    "series": "Percy Jackson"
+  },
+  {
+    "title": "Perfume",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "perfume.jpeg",
+    "series": null
+  },
+  {
+    "title": "Peter Pan",
+    "year": 1953,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "peterpan.jpeg",
+    "series": null
+  },
+  {
+    "title": "Pete’s Dragon",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Family"
+    ],
+    "poster": "petesdragon.jpeg",
+    "series": null
+  },
+  {
+    "title": "Pinocchio",
+    "year": 1940,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "pinocchio.jpeg",
+    "series": null
+  },
+  {
+    "title": "Pirate Radio",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "pirateradio.jpeg",
+    "series": null
+  },
+  {
+    "title": "Planet Terror",
+    "year": 2007,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "planetterror.jpeg",
+    "series": null
+  },
+  {
+    "title": "Pocahontas",
+    "year": 1995,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "pocahontas.jpeg",
+    "series": null
+  },
+  {
+    "title": "Police Story",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "policestory.jpeg",
+    "series": null
+  },
+  {
+    "title": "Point Break",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "pointbreak.jpeg",
+    "series": null
+  },
+  {
+    "title": "Quiz Show",
+    "year": 1994,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "poster": "quizshow.jpeg",
+    "series": null
+  },
+  {
+    "title": "Raising Arizona",
+    "year": 1987,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "raisingarizona.jpeg",
+    "series": null
+  },
+  {
+    "title": "Rear Window",
+    "year": 1954,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "rearwindow.jpeg",
+    "series": null
+  },
+  {
+    "title": "Rebel Moon – Part Two: The Scargiver",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "poster": "rebelmoonparttwothescargiver.jpeg",
+    "series": "Rebel Moon"
+  },
+  {
+    "title": "The Red Sea Diving Resort",
+    "year": 2019,
+    "genres": [
+      "Spy"
+    ],
+    "poster": "theredseadivingresort.jpeg",
+    "series": null
+  },
+  {
+    "title": "Red Tails",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "redtails.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Rescue",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "poster": "therescue.jpeg",
+    "series": null
+  },
+  {
+    "title": "Resident Evil",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Horror",
+      "Zombie"
+    ],
+    "poster": "residentevil.jpeg",
+    "series": "Resident Evil"
+  },
+  {
+    "title": "Resident Evil: Apocalypse",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Horror",
+      "Zombie"
+    ],
+    "poster": "residentevilapocalypse.jpeg",
+    "series": "Resident Evil"
+  },
+  {
+    "title": "Resident Evil: Extinction",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Horror",
+      "Zombie"
+    ],
+    "poster": "residentevilextinction.jpeg",
+    "series": "Resident Evil"
+  },
+  {
+    "title": "Resident Evil: Afterlife",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Horror",
+      "Zombie"
+    ],
+    "poster": "residentevilafterlife.jpeg",
+    "series": "Resident Evil"
+  },
+  {
+    "title": "Resident Evil: Retribution",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Horror",
+      "Zombie"
+    ],
+    "poster": "residentevilretribution.jpeg",
+    "series": "Resident Evil"
+  },
+  {
+    "title": "Resident Evil: The Final Chapter",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Horror",
+      "Zombie"
+    ],
+    "poster": "residentevilthefinalchapter.jpeg",
+    "series": "Resident Evil"
+  },
+  {
+    "title": "The Ring Two",
+    "year": 2005,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "theringtwo.jpeg",
+    "series": "The Ring"
+  },
+  {
+    "title": "Rings",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "rings.jpeg",
+    "series": "The Ring"
+  },
+  {
+    "title": "Rim of the World",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "poster": "rimoftheworld.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Road to El Dorado",
+    "year": 2000,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "theroadtoeldorado.jpeg",
+    "series": null
+  },
+  {
+    "title": "Robin Hood",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster": "robinhood2018.jpeg",
+    "series": null
+  },
+  {
+    "title": "Robin Hood: Men in Tights",
+    "year": 1993,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "poster": "robinhoodmenintights.jpeg",
+    "series": null
+  },
+  {
+    "title": "Robin Hood: Prince of Thieves",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster": "robinhoodprinceofthieves.jpeg",
+    "series": null
+  },
+  {
+    "title": "Rogue Warfare",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "roguewarfare.jpeg",
+    "series": null
+  },
+  {
+    "title": "Roll Bounce",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "rollbounce.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Roommate",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "theroommate.jpeg",
+    "series": null
+  },
+  {
+    "title": "Rope",
+    "year": 1948,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "rope.jpeg",
+    "series": null
+  },
+  {
+    "title": "Run Silent, Run Deep",
+    "year": 1958,
+    "genres": [
+      "Drama",
+      "WWII"
+    ],
+    "poster": "runsilentrundeep.jpeg",
+    "series": null
+  },
+  {
+    "title": "Running Scared",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "runningscared.jpeg",
+    "series": null
+  },
+  {
+    "title": "Rush Hour 2",
+    "year": 2001,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "rushhour2.jpeg",
+    "series": "Rush Hour"
+  },
+  {
+    "title": "Rush Hour 3",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "rushhour3.jpeg",
+    "series": "Rush Hour"
+  },
+  {
+    "title": "Sabrina the Teenage Witch",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "TV Show"
+    ],
+    "poster": "sabrinatheteenagewitch.jpeg",
+    "series": null
+  },
+  {
+    "title": "Sandcastle",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "poster": "sandcastle.jpeg",
+    "series": null
+  },
+  {
+    "title": "Scoob!",
+    "year": 2020,
+    "genres": [
+      "Animated",
+      "Mystery"
+    ],
+    "poster": "scoob.jpeg",
+    "series": null
+  },
+  {
+    "title": "See You Yesterday",
+    "year": 2019,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "poster": "seeyouyesterday.jpeg",
+    "series": null
+  },
+  {
+    "title": "Selena",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "poster": "selena.jpeg",
+    "series": null
+  },
+  {
+    "title": "Seven Seconds",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Black History",
+      "TV Show"
+    ],
+    "poster": "sevenseconds.jpeg",
+    "series": null
+  },
+  {
+    "title": "Shadow",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "War"
+    ],
+    "poster": "shadow.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Siege of Jadotville",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "War"
+    ],
+    "poster": "thesiegeofjadotville.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Silence",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "thesilence.jpeg",
+    "series": null
+  },
+  {
+    "title": "Sin City",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Noir"
+    ],
+    "poster": "sincity.jpeg",
+    "series": null
+  },
+  {
+    "title": "Sister Act",
+    "year": 1992,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "poster": "sisteract.jpeg",
+    "series": "Sister Act"
+  },
+  {
+    "title": "Sister Act 2: Back in the Habit",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "poster": "sisteract2.jpeg",
+    "series": "Sister Act"
+  },
+  {
+    "title": "Sky High",
+    "year": 2005,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "poster": "skyhigh.jpeg",
+    "series": null
+  },
+  {
+    "title": "Sleeping Beauty",
+    "year": 1959,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "sleepingbeauty.jpeg",
+    "series": null
+  },
+  {
+    "title": "Smokin’ Aces",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "poster": "smokinaces.jpeg",
+    "series": null
+  },
+  {
+    "title": "Snow White and the Seven Dwarfs",
+    "year": 1937,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "snowwhiteandthesevendwarfs.jpeg",
+    "series": null
+  },
+  {
+    "title": "Solaris",
+    "year": 1972,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster": "solaris1972.jpeg",
+    "series": null
+  },
+  {
+    "title": "Solaris",
+    "year": 2002,
+    "genres": [
+      "Romance",
+      "Sci-Fi"
+    ],
+    "poster": "solaris2002.jpeg",
+    "series": null
+  },
+  {
+    "title": "Sonic the Hedgehog",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "poster": "sonicthehedgehog.jpeg",
+    "series": "Sonic"
+  },
+  {
+    "title": "Sons of Anarchy",
+    "year": 2008,
+    "genres": [
+      "Crime",
+      "Drama",
+      "TV Show"
+    ],
+    "poster": "sonsofanarchy.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Sorcerer’s Apprentice",
+    "year": 2010,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "poster": "thesorcerersapprentice.jpeg",
+    "series": null
+  },
+  {
+    "title": "Tangled",
+    "year": 2010,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "tangled.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Taking of Pelham 123",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "thetakingofpelhamonetwothree2009",
+    "series": null
+  },
+  {
+    "title": "The Taking of Pelham One Two Three",
+    "year": 1974,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "thetakingofpelhamonetwothree1974.jpeg",
+    "series": null
+  },
+  {
+    "title": "Taxi Driver",
+    "year": 1976,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "taxidriver.jpeg",
+    "series": null
+  },
+  {
+    "title": "Team America: World Police",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "teamamericaworldpolice.jpeg",
+    "series": null
+  },
+  {
+    "title": "Teeth",
+    "year": 2007,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "teeth.jpeg",
+    "series": null
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster": "terminator2judgmentday.jpeg",
+    "series": "Terminator"
+  },
+  {
+    "title": "Terminator 3: Rise of the Machines",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster": "terminator3riseofthemachines.jpeg",
+    "series": "Terminator"
+  },
+  {
+    "title": "Terminator Salvation",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster": "terminatorsalvation.jpeg",
+    "series": "Terminator"
+  },
+  {
+    "title": "Terminator Genisys",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster": "terminatorgenisys.jpeg",
+    "series": "Terminator"
+  },
+  {
+    "title": "Terminator: Dark Fate",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "poster": "terminatordarkfate.jpeg",
+    "series": "Terminator"
+  },
+  {
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "poster": "therewillbeblood.jpeg",
+    "series": null
+  },
+  {
+    "title": "Throw Momma from the Train",
+    "year": 1984,
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "throwmommafromthetrain.jpeg",
+    "series": null
+  },
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "titanic.jpeg",
+    "series": null
+  },
+  {
+    "title": "To End All Wars",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "toendallwars.jpeg",
+    "series": null
+  },
+  {
+    "title": "Tolkien",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "poster": "tolkien.jpeg",
+    "series": null
+  },
+  {
+    "title": "Tora! Tora! Tora!",
+    "year": 1970,
+    "genres": [
+      "Action",
+      "War",
+      "WWII"
+    ],
+    "poster": "toratoratora.jpeg",
+    "series": null
+  },
+  {
+    "title": "Total Recall",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "totalrecall1990.jpeg",
+    "series": null
+  },
+  {
+    "title": "Total Recall",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Remake"
+    ],
+    "poster": "totalrecall2012.jpeg",
+    "series": null
+  },
+  {
+    "title": "U-571",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "War",
+      "WWII"
+    ],
+    "poster": "u571.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Umbrella Academy",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "TV Show"
+    ],
+    "poster": "theumbrellaacademy.jpeg",
+    "series": null
+  },
+  {
+    "title": "Unbreakable",
+    "year": 2000,
+    "genres": [
+      "Mystery"
+    ],
+    "poster": "unbreakable.jpeg",
+    "series": "Unbreakable"
+  },
+  {
+    "title": "Split",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "split.jpeg",
+    "series": "Unbreakable"
+  },
+  {
+    "title": "Glass",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "glass.jpeg",
+    "series": "Unbreakable"
+  },
+  {
+    "title": "Unbroken",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "unbroken.jpeg",
+    "series": null
+  },
+  {
+    "title": "Unbroken: Path to Redemption",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "WWII"
+    ],
+    "poster": "unbrokenpathtoredemption.jpeg",
+    "series": "Unbroken"
+  },
+  {
+    "title": "Underwater",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "underwater.jpeg",
+    "series": null
+  },
+  {
+    "title": "Up",
+    "year": 2009,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "up.jpeg",
+    "series": null
+  },
+  {
+    "title": "USS Indianapolis: Men of Courage",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "War"
+    ],
+    "poster": "ussindianapolismenofcourage.jpeg",
+    "series": null
+  },
+  {
+    "title": "Valerian and the City of a Thousand Planets",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "poster": "valerianandthecityofathousandplanets.jpeg",
+    "series": null
+  },
+  {
+    "title": "Venom: Let There Be Carnage",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Marvel",
+      "Sci-Fi"
+    ],
+    "poster": "venomlettherebecarnage.jpeg",
+    "series": "Venom"
+  },
+  {
+    "title": "Vertical Limit",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "verticallimit.jpeg",
+    "series": null
+  },
+  {
+    "title": "Vice",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "vice.jpeg",
+    "series": null
+  },
+  {
+    "title": "Violet",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "violet.jpeg",
+    "series": null
+  },
+  {
+    "title": "Voyagers",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "poster": "voyagers.jpeg",
+    "series": null
+  },
+  {
+    "title": "Walk the Line",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "poster": "walktheline.jpeg",
+    "series": null
+  },
+  {
+    "title": "Warm Bodies",
+    "year": 2013,
+    "genres": [
+      "Romance",
+      "Horror",
+      "Zombie"
+    ],
+    "poster": "warmbodies.jpeg",
+    "series": null
+  },
+  {
+    "title": "Warcraft: The Beginning",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "poster": "warcraftthebeginning.jpeg",
+    "series": null
+  },
+  {
+    "title": "WarGames",
+    "year": 1983,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster": "wargames.jpeg",
+    "series": null
+  },
+  {
+    "title": "Warlock",
+    "year": 1989,
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "poster": "warlock.jpeg",
+    "series": null
+  },
+  {
+    "title": "Waterloo",
+    "year": 1970,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "poster": "waterloo.jpeg",
+    "series": null
+  },
+  {
+    "title": "When They See Us",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Black History",
+      "TV Show"
+    ],
+    "poster": "whentheyseeus.jpeg",
+    "series": null
+  },
+  {
+    "title": "Where the Wild Things Are",
+    "year": 2009,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "wherethewildthingsare.jpeg",
+    "series": null
+  },
+  {
+    "title": "Win Win",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "winwin.jpeg",
+    "series": null
+  },
+  {
+    "title": "Wind River",
+    "year": 2017,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "windriver.jpeg",
+    "series": null
+  },
+  {
+    "title": "Windtalkers",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Drama",
+      "War",
+      "WWII"
+    ],
+    "poster": "windtalkers.jpeg",
+    "series": null
+  },
+  {
+    "title": "The Witcher",
+    "year": 2019,
+    "genres": [
+      "Fantasy",
+      "TV Show"
+    ],
+    "poster": "thewitcher.jpeg",
+    "series": null
+  },
+  {
+    "title": "XXX",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "xxx.jpeg",
+    "series": "XXX"
+  },
+  {
+    "title": "XXX: State of the Union",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "xxxstateoftheunion.jpeg",
+    "series": "XXX"
+  },
+  {
+    "title": "XXX: Return of Xander Cage",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "xxxreturnofxandercage.jpeg",
+    "series": "XXX"
+  },
+  {
+    "title": "You, Me and Dupree",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "youmeanddupree.jpeg",
+    "series": null
+  },
+  {
+    "title": "Young Frankenstein",
+    "year": 1974,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "poster": "youngfrankenstein.jpeg",
+    "series": null
+  },
+  {
+    "title": "You’ve Got Mail",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "youvegotmail.jpeg",
+    "series": null
+  },
+  {
+    "title": "Zero Dark Thirty",
+    "year": 2012,
+    "genres": [
+      "Thriller",
+      "War"
+    ],
+    "poster": "zerodarkthirty.jpeg",
+    "series": null
+  },
+  {
+    "title": "Zoolander",
+    "year": 2001,
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "zoolander.jpeg",
+    "series": "Zoolander"
+  },
+  {
+    "title": "Zoolander No. 2",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "poster": "zoolanderno2.jpeg",
+    "series": "Zoolander"
+  },
+  {
+    "title": "Zootopia",
+    "year": 2016,
+    "genres": [
+      "Animated",
+      "Family"
+    ],
+    "poster": "zootopia.jpeg",
+    "series": null
+  },
+  {
+    "title": "102 Dalmations",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ],
+    "poster": "102dalmations.jpeg",
+    "series": null
+  },
+  {
+    "title": "12 Angry Men",
+    "year": 1957,
+    "genres": [
+      "Drama",
+      "Legal"
+    ],
+    "poster": "12angrymen.jpeg",
+    "series": null
+  },
+  {
+    "title": "12 Monkeys",
+    "year": 1995,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster": "12monkeys.jpeg",
+    "series": null
+  },
+  {
+    "title": "12 Strong",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "poster": "12strong.jpeg",
+    "series": null
+  },
+  {
+    "title": "127 Hours",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Survival"
+    ],
+    "poster": "127hours.jpeg",
+    "series": null
+  },
+  {
+    "title": "13th",
+    "year": 2016,
+    "genres": [
+      "Documentary",
+      "Black History"
+    ],
+    "poster": "13th.jpeg",
+    "series": null
+  },
+  {
+    "title": "2012",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "2012.jpeg",
+    "series": null
+  },
+  {
+    "title": "25th Hour",
+    "year": 2002,
+    "genres": [
+      "Drama"
+    ],
+    "poster": "25thhour.jpeg",
+    "series": null
+  },
+  {
+    "title": "3022",
+    "year": 2019,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "poster": "3022.jpeg",
+    "series": null
+  },
+  {
+    "title": "50 First Dates",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "50firstdates.jpeg",
+    "series": null
+  },
+  {
+    "title": "54",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "poster": "54.jpeg",
+    "series": null
+  }
+]

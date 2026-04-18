@@ -1,0 +1,4072 @@
+[
+  {
+    "title": "The Accountant",
+    "year": 2016,
+    "genres": ["Crime", "Drama"],
+    "rating": "good",
+    "poster": "theaccountant.jpeg",
+    "series": null,
+    "summary": "A decent action film with a curious angle, it does fairly well with a delicate subject, and while it certainly runs wild with its plot, it pays good service to illustrating and elevating something many people live with—that being autism. Lots of punch and surprising shifts and twists."
+  },
+  {
+    "title": "The Adjustment Bureau",
+    "year": 2011,
+    "genres": ["Sci-Fi", "Thriller"],
+    "rating": "great",
+    "poster": "theadjustmentbureau.jpeg",
+    "series": null,
+    "summary": "A delight through and through, Matt Damon and Emily Blunt are stunning together in this with chemistry that has a real deep hook. Some bits of the plot speed along in ways that feel a bit rushed, but overall it’s a thrilling concept that gives you a compelling reason to root for the protagonists’ success."
+  },
+  {
+    "title": "Ad Astra",
+    "year": 2019,
+    "genres": ["Drama", "Mystery"],
+    "rating": "meh",
+    "poster": "adastra.jpeg",
+    "series": null,
+    "summary": "Ad Astra is a film that has some really intriguing and engaging concepts behind it, but fails to live up to the hype promised by such high aims. There are endless hoops to jump through, and so few of them feel worth the investment."
+  },
+  {
+    "title": "The Adventures of Tintin",
+    "year": 2011,
+    "genres": ["Action", "Mystery"],
+    "rating": "negative",
+    "poster": "theadventuresoftintin.jpeg",
+    "series": null,
+    "summary": "It was just weird; that’s the first thing I’d say. The animation style, while certainly distinct, was a miss for me, and left me thinking back to The Polar Express and how much I detested the film adaptation. Watching this isn’t like getting your fingernails pulled out with pliers, but it’s not a great use of your time, either."
+  },
+  {
+    "title": "A Few Good Men",
+    "year": 1992,
+    "genres": ["Mystery", "Thriller"],
+    "rating": "great",
+    "poster": "afewgoodmen.jpeg",
+    "series": null,
+    "summary": "As a not so good man once said, “You can’t handle the truth.” Well, in this case maybe you can: the truth is that this is a pretty damn great film. A legal drama of heavy movement and loud rebuttals, the cast does a great job in selling their characters, and their animosities."
+  },
+  {
+    "title": "After",
+    "year": 2019,
+    "genres": ["Drama", "Romance"],
+    "rating": "negative",
+    "poster": "after.jpeg",
+    "series": "After",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "Sappy, predictable, and droll - it is just about exactly what you’d expect from a romantic drama torn from the depths of internet fan fiction. There’s a distinct lack of chemistry and the writing is thin enough to tear when blown on."
+  },
+  {
+    "title": "After We Collided",
+    "year": 2020,
+    "genres": ["Drama", "Romance"],
+    "rating": "negative",
+    "poster": "afterwecollided.jpeg",
+    "series": "After",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "See the review for 2019’s After for a strikingly similar review. These movies seem to all be cut from the same cloth, and they’re definitely not worth the money to see either in theaters, or at home. Was held at gunpoint to watch them, and it was probably a better idea to take the bullet."
+  },
+  {
+    "title": "Air Force One",
+    "year": 1997,
+    "genres": ["Action", "Thriller"],
+    "rating": "great",
+    "poster": "airforceone.jpeg",
+    "series": null,
+    "summary": "A classic thriller full of action, suspense, and charged emotions as Harrison Ford’s President James Marshall takes the fight to the enemies who hijack Air Force One, you can’t go wrong with this if you want an engaging and fast paced movie night."
+  },
+  {
+    "title": "Airplane!",
+    "year": 1980,
+    "genres": ["Comedy"],
+    "rating": "great",
+    "poster": "airplane.jpeg",
+    "series": null,
+    "summary": "An all time classic hit comedy film that will still have a place even fifty years from now. This sort of dry humor speaks to the heart of many people’s unspoken feelings about life and travel in the modern age, and it’s great to be able to laugh about it."
+  },
+  {
+    "title": "A Knight’s Tale",
+    "year": 2001,
+    "genres": ["Drama"],
+    "rating": "great",
+    "poster": "aknightstale.jpeg",
+    "series": null,
+    "summary": "A genuinely heart warming, thrilling, and stunningly delightful film through and through; this is one you can watch on repeat no matter the season or mood. It’s got a fantastic soundtrack, perfect casting, and tremendous chemistry between the actors and the characters they portray. A stellar choice for any movie night."
+  },
+  {
+    "title": "Alexander",
+    "year": 2004,
+    "genres": ["Adventure", "War"],
+    "rating": "negative",
+    "poster": "alexander.jpeg",
+    "series": null,
+    "summary": "Whatever you can imagine as the worst a Hollywood film could be, double that and you’re likely to come close to the 2004 Alexander, starring some fairly well known names that—even with their renown and prestige—can’t save this film from itself. The extended, three hour final cut is, perhaps, the only version worth watching, and even then it’s not worth watching at all. Skip."
+  },
+  {
+    "title": "Alien",
+    "year": 1979,
+    "genres": ["Horror", "Thriller"],
+    "rating": "great",
+    "poster": "alien.jpeg",
+    "series": "Alien",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "On rewatching for perhaps the sixth time, there’s still as much a palpable sense of discomfort and suspense as the first watch through. This is one of those horror movies that has both the slow, grinding build up, and the well deserved pay off at the end. It’s a strong start to the franchise because it keeps things simple: the heroes simply need to survive."
+  },
+  {
+    "title": "Aliens",
+    "year": 1986,
+    "genres": ["Horror", "Thriller"],
+    "rating": "great",
+    "poster": "aliens.jpeg",
+    "series": "Alien",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "A thrill that’s just as exciting as its predecessor, Aliens goes the next step of evolving the franchise, of telling new stories within a familiar world. The stakes are just as high, but this time around the audience, and the main character, are fully in the know. There’s less built up to what exactly we’re dealing with, and more a suspenseful ride to the conclusion of how the hell will it get resolved."
+  },
+  {
+    "title": "Alien3",
+    "year": 1992,
+    "genres": ["Horror", "Thriller"],
+    "rating": "meh",
+    "poster": "alien3.jpeg",
+    "series": "Alien",
+    "releaseOrder": 3,
+    "chronologicalOrder": 3,
+    "summary": "This is one of those ‘not so great’ sequels. It’s loud and suspenseful, but doesn’t do anything new and cool enough to keep it interesting."
+  },
+  {
+    "title": "Alien: Resurrection",
+    "year": 1997,
+    "genres": ["Horror", "Thriller"],
+    "rating": "negative",
+    "poster": "alienresurrection.jpeg",
+    "series": "Alien",
+    "releaseOrder": 4,
+    "chronologicalOrder": 4,
+    "summary": "Not worth watching. Skip it; please, for the love of god just skip it."
+  },
+  {
+    "title": "Alien Vs. Predator",
+    "year": 2004,
+    "genres": ["Thriller", "Sci-Fi"],
+    "rating": "good",
+    "poster": "alienvspredator.jpeg",
+    "series": "Alien",
+    "releaseOrder": 5,
+    "chronologicalOrder": 5,
+    "summary": "You don’t sit down for AVP expecting a classical drama or grand, nuanced and moving story. When you sit down for this movie you do so because you’re ready to watch gruesome deaths, exciting fights, and of course the all too terrifying sights of watching an alien parasite stick its ovipositor down someone’s throat to lay eggs in their chest. For all of those things, AVP delivers."
+  },
+  {
+    "title": "Prometheus",
+    "year": 2012,
+    "genres": ["Horror", "Thriller"],
+    "rating": "negative",
+    "poster": "prometheus.jpeg",
+    "series": "Alien",
+    "releaseOrder": 6,
+    "chronologicalOrder": 6,
+    "summary": "A new take on an old concept isn’t a surefire path to success. Sometimes, however, a director can pull it off. Prometheus isn’t one of those success stories. As a stand alone feature entirely disconnected from the Alien series, it could likely make a decent mark, but it draws on too many of the same tricks and twists as the source material, and it doesn’t do enough to distinguish itself as something new. It’s just sort of tiring."
+  },
+  {
+    "title": "Alien: Covenant",
+    "year": 2017,
+    "genres": ["Horror", "Thriller"],
+    "rating": "good",
+    "poster": "aliencovenant.jpeg",
+    "series": "Alien",
+    "releaseOrder": 7,
+    "chronologicalOrder": 7,
+    "summary": "In a stark contrast to the film preceding it, Covenant delivers an aggressively paced venture into new depths of horror and thrill as it blazes a new path through uncharted territory. Where Prometheus hemmed a bit too close to the originals without distinguishing itself, Covenant effectively sells a new take on familiar material, adding new twists and terrors that are sure to keep audiences engaged."
+  },
+  {
+    "title": "Alien: Romulus",
+    "year": 2024,
+    "genres": ["Horror", "Thriller"],
+    "rating": "great",
+    "poster": "alienromulus.jpeg",
+    "series": "Alien",
+    "releaseOrder": 8,
+    "chronologicalOrder": 8,
+    "summary": "A bang up thriller with everything one should want from an Alien film. It leans heavily on elements from the originals, while also paying due respect to the prequels that have not performed all that well. There are some genuinely terrifying elements to this film, and every moment of it is slick and tremendous."
+  },
+  {
+    "title": "All the Old Knives",
+    "year": 2022,
+    "genres": ["Drama", "Thriller"],
+    "rating": "meh",
+    "poster": "alltheoldknives.jpeg",
+    "series": null,
+    "summary": "Not a terrible film, in truth, but one that stumbles and staggers despite having a genuinely intriguing concept to build off on. There’s decent chemistry between cast members, few as they may be, but there are things that just don’t execute quite well, leaving one a bit less than completely satisfied."
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "year": 2022,
+    "genres": ["Drama", "WWI"],
+    "rating": "great",
+    "poster": "allquietonthewesternfront.jpeg",
+    "series": null,
+    "summary": "In line with the 2019 film 1917, a quiet, unsettling, and grinding sort of grace is given to a time of misery and horror—it’s a hard thing to examine this period of history with anything less than disgust, and yet within it there are devastating human stories which must be heard and seen. All Quiet on the Western Front, a German novel which shed light on the horrors of the war for the average person, is brought to life in another form with this film, and it’s well worth the watch."
+  },
+  {
+    "title": "American Psycho",
+    "year": 2000,
+    "genres": ["Comedy", "Horror"],
+    "rating": "good",
+    "poster": "americanpsycho.jpeg",
+    "series": null,
+    "summary": "In a similar camp as Fight Club, many people don’t truly understand where this film intends to go—they see it as a glorification of various tropes and behaviors, while in truth it is true satire and commentary through and through. While hyperbolic, it still digs deep at the fragility of minds and masculinity, and how our society has driven deep the wedge between reason and psychosis."
+  },
+  {
+    "title": "Annihilation",
+    "year": 2018,
+    "genres": ["Drama", "Thriller"],
+    "rating": "good",
+    "poster": "annihilation.jpeg",
+    "series": null,
+    "summary": "A genuinely exciting ride which keeps its ultimate conclusion a well guarded secret, if nothing else. There’s a lot to unpack, and it’s up to the viewer whether the ending is worth the weight. Strong acting chops and good chemistry do wonders in this film."
+  },
+  {
+    "title": "Argo",
+    "year": 2012,
+    "genres": ["Drama", "Thriller"],
+    "rating": "good",
+    "poster": "argo.jpeg",
+    "series": null,
+    "summary": "A thrilling and tense dive into the story of Americans being evacuated from Iran after the revolution, it has all the right pacing, gravity, and intensity that one could want for a thriller. While a fictitious take on the real thing, it still stands as a fantastic watch."
+  },
+  {
+    "title": "Armageddon",
+    "year": 1998,
+    "genres": ["Action", "Marvel", "Sci-Fi"],
+    "rating": "good",
+    "poster": "armageddon.jpeg",
+    "series": null,
+    "summary": "This is a film that is shameless in owning what it is: a wild time through and through. If you want believability and grounded thrills, this isn’t for you. This is for the big kids who want to see space shuttles dodging asteroid chunks like the Falcon."
+  },
+  {
+    "title": "Army of the Dead",
+    "year": 2021,
+    "genres": ["Action", "Horror", "Zombie"],
+    "rating": "negative",
+    "poster": "armyofthedead.jpeg",
+    "series": null,
+    "summary": "A fairly disappointing film, but unfortunately quite typical of Zach Snyder’s signature style. Lots of loud screaming and action and explosions, but lacking in weight and heart."
+  },
+  {
+    "title": "Arrival",
+    "year": 2016,
+    "genres": ["Drama", "Mystery"],
+    "rating": "good",
+    "poster": "arrival.jpeg",
+    "series": null,
+    "summary": "A stand up thrill with some really mind twisting moments, but nothing that jumps out as a scare. It’s exactly what one could want with regards to building tension, however fantastical it may seem."
+  },
+  {
+    "title": "Assassin’s Creed",
+    "year": 2016,
+    "genres": ["Action", "Adventure"],
+    "rating": "meh",
+    "poster": "assassinscreed.jpeg",
+    "series": null,
+    "summary": "When someone dares to step into the world of video game adaptations, they risk a great danger by failing to do it justice; video gamers are (to their detriment) fierce about their imagined ownership over IPs. This adaptation doesn’t really fall into the camp of rage inducing, but it’s not a really great film either."
+  },
+  {
+    "title": "Atlantis: The Lost Empire",
+    "year": 2001,
+    "genres": ["Animated", "Family"],
+    "rating": "great",
+    "poster": "atlantisthelostempire.jpeg",
+    "series": "Atlantis",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A classic adventure and a gem from the golden age of animation before the 3d, computer generated train picked up speed. Despite its fast pace it hits all the right notes and moments, and leaves you feeling good when you finish."
+  },
+  {
+    "title": "Atomic Blonde",
+    "year": 2017,
+    "genres": ["Action"],
+    "rating": "great",
+    "poster": "atomicblonde.jpeg",
+    "series": null,
+    "summary": "A film with complexity, depth, stunning visuals, out of this world action, and world class performances from a cast of exceptional actors–Atomic Blonde hits hard and doesn’t stop. This is a film that demands your attention to get the most out of it, but it’s well worth the dedicated attention."
+  },
+  {
+    "title": "Attack the Block",
+    "year": 2011,
+    "genres": ["Fantasy", "Sci-Fi"],
+    "rating": "good",
+    "poster": "attacktheblock.jpeg",
+    "series": null,
+    "summary": "Attack the Block is a wild ride, one that keeps moving and doesn’t stop. While Star Wars held John Boyega back with sloppy writing and a lack of development, he’s got free room to shine here, and he runs the shows. The cast might be younger, but they are well cast and full of the energy this film demands."
+  },
+  {
+    "title": "Avatar",
+    "year": 2009,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "avatar.jpeg",
+    "series": "Avatar",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "Avatar is, in essence, a glorified retelling of Pocahontas, and while it certainly sells itself with stunning visuals and a remarkably dense and well developed world, the comparisons are impossible to ignore, and because of that it’s easy to dismiss the film as a bit of a waste. Isolated and looked at independently, though, it hits hard with a filling plot and chemistry between characters that is spot on."
+  },
+  {
+    "title": "Avatar: Way of Water",
+    "year": 2022,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "meh",
+    "poster": "avatarwayofwater.jpeg",
+    "series": "Avatar",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "Of course the CGI is on another level, and the action is pounding, and the views are gorgeous, but it’s a tired story that isn’t good for much more than just background entertainment. It hardly pushes any frontiers on new stories or concepts, but it is a technical marvel that should be given its due."
+  },
+  {
+    "title": "Avatar: Fire and Ash",
+    "year": 2025,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "meh",
+    "poster": "avatarfireandash.jpeg",
+    "series": "Avatar",
+    "releaseOrder": 3,
+    "chronologicalOrder": 3,
+    "summary": "See the review for The Way of Water, because it’s the exact same thing."
+  },
+  {
+    "title": "Awake",
+    "year": 2021,
+    "genres": ["Sci-Fi", "Thriller"],
+    "rating": "good",
+    "poster": "awake.jpeg",
+    "series": null,
+    "summary": "A very interesting concept with rock solid performances carrying through to the end. It’s grounded, focusing closely on one family during the crisis, with compelling and believable interactions that really sell the gravity of the crisis."
+  },
+  {
+    "title": "A.X.L",
+    "year": 2018,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "negative",
+    "poster": "axl.jpeg",
+    "series": null,
+    "summary": "God awful. Just don’t watch it."
+  },
+  {
+    "title": "Baby Driver",
+    "year": 2017,
+    "genres": ["Crime", "Drama"],
+    "rating": "great",
+    "poster": "babydriver.jpeg",
+    "series": null,
+    "summary": "A fantastic thrill from start to finish, Baby Driver is a joyride through and through, with great driving scenes and meaningful tension that builds and builds and builds as the stakes get higher. A well rounded cast brings this story to life, and it couldn’t be better."
+  },
+  {
+    "title": "Band of Brothers",
+    "year": 2001,
+    "genres": ["Action", "Drama", "TV Show", "War", "WWII"],
+    "rating": "great",
+    "poster": "bandofbrothers.jpeg",
+    "series": null,
+    "summary": "One of the most deeply engaging narratives told of WWII, the show focuses on the individuals (all based on their real life counterparts) rather than the war at large; it navigates complex and deep (and often conflicting) human emotions tied to something that is genuinely inhumane by nature. The acting, the production design, and the empathetic approach to the subject matter all work in concert to make this one of the more important perspectives on WWII to view."
+  },
+  {
+    "title": "The Banshees of Inisherin",
+    "year": 2022,
+    "genres": ["Comedy", "Drama"],
+    "rating": "great",
+    "poster": "thebansheesofinisherin.jpeg",
+    "series": null,
+    "summary": "Going into Banshees without any expectations or context is, perhaps, the wisest thing one can do; there’s no real way to sum up and prepare someone for what they’re about to watch, except to say that it will keep building and building and building until you’re chomping at the bit to know the end. It’s a wildly entertaining film, despite the unusual pacing."
+  },
+  {
+    "title": "Barbie",
+    "year": 2023,
+    "genres": ["Comedy", "Drama"],
+    "rating": "great",
+    "poster": "barbie.jpeg",
+    "series": null,
+    "summary": "Nothing less than an absolute triumph. A spectacular, hysterical, perfectly constructed masterpiece of modern societal critique, self-aware deprecation, and genuinely heartwarming affection. This is an instant and absolute success well worth the watch."
+  },
+  {
+    "title": "The Batman",
+    "year": 2022,
+    "genres": ["Action", "Adventure", "DC Comics"],
+    "rating": "great",
+    "poster": "thebatman.jpeg",
+    "series": "Batman",
+    "releaseOrder": 10,
+    "chronologicalOrder": 10,
+    "summary": "Given the misery of the DCEU Batman inclusions, The Batman is such a genuinely tremendous break from the mold and it hit every note it needed to. This take on DC’s iconic vigilante dives into what made Batman such an intriguing character: he was a detective solving crimes that the police just couldn’t. The film has all the gritty, dark, brooding and gothic elements one comes to expect from Batman, but the story and chemistry between actors is what really sells this film."
+  },
+  {
+    "title": "Battlestar Galactica",
+    "year": 2004,
+    "genres": ["Drama", "Sci-Fi", "TV Show"],
+    "rating": "great",
+    "poster": "battlestargalactica.jpeg",
+    "series": null,
+    "summary": "4 Seasons. Anyone who knows anything about me should know that Battlestar (the reimagined series) is bread and butter as far as I’m concerned. It’s got the suspense, the action, the science fiction, the politics, and the intrigue - and it has all of these in spades. BSG is a thrill from start to finish, even if the series took a few episodes to truly find itself."
+  },
+  {
+    "title": "Battle L.A.",
+    "year": 2011,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "battlela.jpeg",
+    "series": null,
+    "summary": "A fairly standard alien invasion story, it heats up faster than films like Independence Day, but still manages to set the stakes fairly high. It’s not the fight that is built up to in this, but rather the journey to the end of the fight that the characters are propelled towards. There are human moments for many of the characters, even if some of the acting might fall flat from time to time."
+  },
+  {
+    "title": "Beetlejuice",
+    "year": 1988,
+    "genres": ["Comedy", "Supernatural"],
+    "rating": "great",
+    "poster": "beetlejuice.jpeg",
+    "series": null,
+    "summary": "A childhood classic (though not really for children children), Beetlejuice is as memorable as it is wild, with an outstanding performance by Keaton that will stick in your mind for years to come."
+  },
+  {
+    "title": "Better Call Saul",
+    "year": 2015,
+    "genres": ["Comedy", "Drama", "TV Show"],
+    "rating": "great",
+    "poster": "bettercallsaul.jpeg",
+    "series": null,
+    "summary": "On a second, complete watch through, it’s easy to fall in love with the show all over again. While the protagonist may be contemptible, Odenkirk is a great fit for the role, and his supporting cast members absolutely knock it out of the park. As a prequel to another tremendous series, Breaking Bad, Better Call Saul is a must-watch for anyone who's watched what came before."
+  },
+  {
+    "title": "Beyond Skyline",
+    "year": 2017,
+    "genres": ["Action", "Thriller"],
+    "rating": "negative",
+    "poster": "beyondskyline.jpeg",
+    "series": null,
+    "summary": "A spectacularly disappointing sequel to a droll and uninspired blockbuster knock off. There’s a whole lot of cgi, but very little weight behind any of the big moments. It feels hollow, and made just for the effects."
+  },
+  {
+    "title": "Big Fish",
+    "year": 2003,
+    "genres": ["Drama", "Fantasy"],
+    "rating": "great",
+    "poster": "bigfish.jpeg",
+    "series": null,
+    "summary": "A tremendous thrill; wild and heart warming at the same time. Big Fish delivers on exploring what binds families together, and what can bridge gaps that divide people, something which often does happen in the strangest ways. The casting for Big Fish is one of its strongest elements, but the writing and eccentric nature of the story shouldn't be discounted."
+  },
+  {
+    "title": "Big Hero 6",
+    "year": 2014,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "bighero6.jpeg",
+    "series": null,
+    "summary": "Decent enough for an animated film; it’s got some heartfelt moments and a fairly strong flow and vibe to it. Not a bad watch if you have kids."
+  },
+  {
+    "title": "The Big Short",
+    "year": 2015,
+    "genres": ["Comedy", "Drama"],
+    "rating": "great",
+    "poster": "thebigshort.jpeg",
+    "series": null,
+    "summary": "It’s no secret that just about every American has a great reason to despise the ultra-rich Wall Street executives; they’ve ruined much of this country with their greed. Movies like The Big Short do a great job giving the lay-person a look into that ‘other world’ and explain how things happened, but it can never truly capture the genuine disdain that many feel."
+  },
+  {
+    "title": "The Bike Riders",
+    "year": 2023,
+    "genres": ["Crime", "Drama"],
+    "rating": "good",
+    "poster": "thebikeriders.jpeg",
+    "series": null,
+    "summary": "A character-driven look at identity, belonging, and the slow evolution of a subculture. It’s more reflective than explosive. The performances carry the weight."
+  },
+  {
+    "title": "Bird Box",
+    "year": 2018,
+    "genres": ["Horror", "Thriller"],
+    "rating": "meh",
+    "poster": "birdbox.jpeg",
+    "series": null,
+    "summary": "A decent enough horror film that, albeit a tad absurd, does the bare minimum to keep the audience engaged through and through."
+  },
+  {
+    "title": "Blackberry",
+    "year": 2023,
+    "genres": ["Comedy", "Drama"],
+    "rating": "great",
+    "poster": "blackberry.jpeg",
+    "series": null,
+    "summary": "A sharp, chaotic look at ambition, ego, and the kind of lightning-in-a-bottle success that rarely lasts. The performances carry a frantic energy that mirrors the rise and fall perfectly, even if the pacing occasionally sprints past moments worth sitting with. There’s a biting humor here that makes the collapse all the more satisfying."
+  },
+  {
+    "title": "Black Hawk Down",
+    "year": 2001,
+    "genres": ["Action", "War"],
+    "rating": "good",
+    "poster": "blackhawkdown.jpeg",
+    "series": null,
+    "summary": "Considered a landmark film to some, and just another Hollywood bungle to others, Black Hawk Down is a charged feature that throws the audience into the depths of war, showing all its most gruesome facets through a very human lens. Flaws aside, it’s an enjoyable watch with fast pacing."
+  },
+  {
+    "title": "Black Mass",
+    "year": 2015,
+    "genres": ["Crime", "Drama"],
+    "rating": "good",
+    "poster": "blackmass.jpeg",
+    "series": null,
+    "summary": "A grim and methodical descent into the kind of power that corrodes everything it touches. Depp’s performance is unsettling in a quiet, deliberate way, though the film itself at times feels more restrained than the story demands. Still, there’s an eerie weight to it that lingers."
+  },
+  {
+    "title": "Black Swan",
+    "year": 2010,
+    "genres": ["Drama", "Mystery"],
+    "rating": "great",
+    "poster": "blackswan.jpeg",
+    "series": null,
+    "summary": "A mind bending narrative that unravels hand in hand with the depth of the protagonist’s growing madness. Drawing clear influence from Dostoevsky’s second novel, the plot is a one of a kind sort of adventure that can give even the least classic-inclined viewer a warm introduction to dance."
+  },
+  {
+    "title": "Blade: Trinity",
+    "year": 2004,
+    "genres": ["Action", "Horror", "Marvel"],
+    "rating": "good",
+    "poster": "bladetrinity.jpeg",
+    "series": "Blade",
+    "releaseOrder": 3,
+    "chronologicalOrder": 3,
+    "summary": "While many will argue that it’s the worst of the three, for me it’s one of the most thrilling and wild. With Trinity, they’ve taken a new approach to the humor and gone deeper with the tragic costs of Blade’s hunt than ever before. There’s plenty of action and pulp, and of course there’s always Snipes’ fantastic one liners."
+  },
+  {
+    "title": "Blade Runner",
+    "year": 1982,
+    "genres": ["Fantasy", "Sci-Fi"],
+    "rating": "great",
+    "poster": "bladerunner.jpeg",
+    "series": "Blade Runner",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "An all time classic for science fiction, Blade Runner tells a story that others have toyed with before: man meets machine, and love complicates the situation. Blade Runner knows how to build the suspense, though, and how to establish a deeply rich world in which the story plays out. It can be a drag at times, but the payoff is well worth the investment."
+  },
+  {
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "genres": ["Fantasy", "Sci-Fi"],
+    "rating": "great",
+    "poster": "bladerunner2049.jpeg",
+    "series": "Blade Runner",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "An example of a movie where the sequel is far stronger than the original, which is a considerable statement given the tremendous praise that should be given to the original Blade Runner of 1982. The introduction of modern filmmaking technology allows 2049 to go where Blade Runner never could, visually speaking, and strong writing keeps it gunning forwards at full speed."
+  },
+  {
+    "title": "The Blues Brothers",
+    "year": 1980,
+    "genres": ["Comedy"],
+    "rating": "great",
+    "poster": "thebluesbrothers.jpeg",
+    "series": null,
+    "summary": "A class that everyone should see at least five times. This has all the wit, humor, quirkiness, and Chicago history that one needs to enjoy a movie night - and the talented cast (with a tremendous ensemble of musical stars) delivers a performance you won’t forget."
+  },
+  {
+    "title": "Bombshell",
+    "year": 2019,
+    "genres": ["Drama"],
+    "rating": "good",
+    "poster": "bombshell.jpeg",
+    "series": null,
+    "summary": "The understanding that much of the awful real world events inspiring the film were allowed to go on for so long is what really brings weight to this film–it’s merely a glance at the seedy and ugly underworld that reigns in the media industry. Like a horror film about a shark, it’s what’s not seen that’s even more terrifying. While a dramatization, Bombshell does a strong job of hammering the head of the nail."
+  },
+  {
+    "title": "Boogie Nights",
+    "year": 1997,
+    "genres": ["Drama"],
+    "rating": "good",
+    "poster": "boogienights.jpeg",
+    "series": null,
+    "summary": "A film that strikes hard at some genuinely hysterical notions and narrative twists, it’s bogged down by a pace that demands much of its audience, and doesn’t always reward sufficiently enough. There are tremendously funny moments and the whole concept is rather bizarre, but still a fun watch."
+  },
+  {
+    "title": "The Brave Little Toaster",
+    "year": 1987,
+    "genres": ["Comedy", "Fantasy"],
+    "rating": "great",
+    "poster": "thebravelittletoaster.jpeg",
+    "series": null,
+    "summary": "An all time classic deserving of being rewatched, shared, and passed on through the generations."
+  },
+  {
+    "title": "Breaking Bad",
+    "year": 2008,
+    "genres": ["Drama", "TV Show"],
+    "rating": "great",
+    "poster": "breakingbad.jpeg",
+    "series": null,
+    "summary": "So much good to say, so hard to condense it into just a few sentences. Breaking Bad is an absolute ride through and through, with characters you’ll both love and hate, who give us a window into who many of us could very well become. It’s a human show that is also a strong commentary on the way our world is."
+  },
+  {
+    "title": "Bullet Train",
+    "year": 2022,
+    "genres": ["Action", "Comedy"],
+    "rating": "negative",
+    "poster": "bullettrain.jpeg",
+    "series": null,
+    "summary": "Over-hyped and poorly delivered; the concept is exciting, but the execution seemed messy and the narrative not wholly baked. It seems more to be a film composed of “what if we did...” moments instead of meaningful plot/character development beats."
+  },
+  {
+    "title": "Burn After Reading",
+    "year": 2008,
+    "genres": ["Crime", "Drama"],
+    "rating": "great",
+    "poster": "burnafterreading.jpeg",
+    "series": null,
+    "summary": "One of my top choices for any recommendations list for someone who wants humor served with their drama. The film is all about professional idiots who take their jobs way too seriously, and wind up being pulled deeper and deeper into a festering mess of epic proportions."
+  },
+  {
+    "title": "Cabin in the Woods",
+    "year": 2011,
+    "genres": ["Mystery", "Horror"],
+    "rating": "great",
+    "poster": "cabininthewoods.jpeg",
+    "series": null,
+    "summary": "A fantastic twist on the classic slasher/thriller, this is a movie that absolutely has to go on your Halloween or thriller list; it will hit all the right notes you’d want, and far exceeds many others you wouldn’t ever expect to find."
+  },
+  {
+    "title": "Captain Phillips",
+    "year": 2013,
+    "genres": ["Drama", "Thriller"],
+    "rating": "meh",
+    "poster": "captainphillips.jpeg",
+    "series": null,
+    "summary": "A decent enough dramatization of the real world highjacking of a freighter, Tom Hanks rocks his role, as usual, though while it’s got a solid production behind it, Captain Philips drags in areas."
+  },
+  {
+    "title": "Casablanca",
+    "year": 1942,
+    "genres": ["Drama", "Romance"],
+    "rating": "great",
+    "poster": "casablanca.jpeg",
+    "series": null,
+    "summary": "Widely considered to be a timeless classic, Casablanca very much lives up to its reputation if one is fond of the slower paced, often overly-dramatized performances that were a custom of the time. A strong recommendation for any viewing night on the couch."
+  },
+  {
+    "title": "Cast Away",
+    "year": 2000,
+    "genres": ["Drama"],
+    "rating": "great",
+    "poster": "castaway.jpeg",
+    "series": null,
+    "summary": "An all time classic, Cast Away has some iconic lines, scenes, and images that are recognized even still. It’s a trying ordeal that Tom Hanks’ character pulls us through, but it’s a solid run which draws the audience in."
+  },
+  {
+    "title": "To Catch A Killer",
+    "year": 2023,
+    "genres": ["Crime", "Thriller"],
+    "rating": "meh",
+    "poster": "tocatchakiller.jpeg",
+    "series": null,
+    "summary": "Not a terrible film, but also not one that’s overwhelmingly tremendous. It tries to push an unconventional hero type, and the circumstances are certainly gripping, but the follow up could be miles better."
+  },
+  {
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "genres": ["Crime", "Drama"],
+    "rating": "great",
+    "poster": "catchmeifyoucan.jpeg",
+    "series": null,
+    "summary": "Catch Me If You Can is a delight, through and through. Tom Hanks and Leonardo DiCaprio strike up a memorable dynamic that plays out beautifully across the distance, weaving itself intricately to the looming point of collision."
+  },
+  {
+    "title": "Charlie Wilson’s War",
+    "year": 2007,
+    "genres": ["Drama", "War"],
+    "rating": "good",
+    "poster": "charliewilsonswar.jpeg",
+    "series": null,
+    "summary": "A surprisingly witty lens on a very serious chapter of geopolitical history. It balances charm and consequence well, though it occasionally glosses over the deeper ramifications of its own story. Still, it’s an engaging watch that leaves you thinking after the credits roll."
+  },
+  {
+    "title": "Charlie’s Angels",
+    "year": 2000,
+    "genres": ["Action", "Adventure", "Comedy"],
+    "rating": "good",
+    "poster": "charliesangels.jpeg",
+    "series": "Charlie’s Angels",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "Stylish, over-the-top, and fully aware of exactly what it is. It leans hard into spectacle and charm, sacrificing realism for pure entertainment, and honestly, it works. Not meant to be taken too seriously, and better for it."
+  },
+  {
+    "title": "Childhood 2.0",
+    "year": 2020,
+    "genres": ["Documentary"],
+    "rating": "great",
+    "poster": "childhood2.jpeg",
+    "series": null,
+    "summary": "A must-watch documentary for any parent, teacher, or childcare provider. It deals with the grim reality of how digital media is putting children in tremendous danger, and how things continue to spiral beyond control."
+  },
+  {
+    "title": "Chronicle",
+    "year": 2012,
+    "genres": ["Drama", "Thriller"],
+    "rating": "good",
+    "poster": "chronicle.jpeg",
+    "series": null,
+    "summary": "Another film in the spirit of found footage, this one is an interesting take on the genre where the found footage isn’t recorded by accident, but rather intentionally. We see the characters marching boldly down a path from which there may be no return, and it’s a wild ride to see the paths each chooses."
+  },
+  {
+    "title": "Cloverfield",
+    "year": 2008,
+    "genres": ["Thriller", "Sci-Fi"],
+    "rating": "good",
+    "poster": "cloverfield.jpeg",
+    "series": "Cloverfield",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A fairly strong contender for the films of the 2000s, this was a film that followed the “found footage” trend that exploded in the horror and supernatural horror genres. Full of constant motion and explosive jumps forward, many questions are posed and few are answered, leaving audiences wanting more."
+  },
+  {
+    "title": "10 Cloverfield Lane",
+    "year": 2016,
+    "genres": ["Drama", "Mystery"],
+    "rating": "great",
+    "poster": "10cloverfieldlane.jpeg",
+    "series": "Cloverfield",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "Such a thrill. Genuinely and truly one of the more gripping Cloverfield films, it’s got such a fantastic take on the universe that’s been built, and leaves viewers just as anxious as the characters as it hurtles onwards towards the conclusion."
+  },
+  {
+    "title": "The Cloverfield Paradox",
+    "year": 2018,
+    "genres": ["Mystery", "Sci-Fi"],
+    "rating": "good",
+    "poster": "thecloverfieldparadox.jpeg",
+    "series": "Cloverfield",
+    "releaseOrder": 3,
+    "chronologicalOrder": 3,
+    "summary": "There’s no denying that the film has twists and turns and a really engaging premise; it’s terrifying at times, mysterious, intriguing, and well worth the time spent watching it for the thrills and excitement. As a Cloverfield movie, though, it feels quite different from the two that came before it, with only one small connection to the franchise. It’s a great movie, but it doesn’t feel like Cloverfield."
+  },
+  {
+    "title": "Clue",
+    "year": 1985,
+    "genres": ["Crime", "Mystery"],
+    "rating": "great",
+    "poster": "clue.jpeg",
+    "series": null,
+    "summary": "Perhaps one of the greatest films, Clue stands out as a hysterical, iconic classic that will have audiences clutching their sides with laughter. This is a film worth rewatching time and time again."
+  },
+  {
+    "title": "Code 8",
+    "year": 2019,
+    "genres": ["Action", "Thriller"],
+    "rating": "good",
+    "poster": "code8.jpeg",
+    "series": "Code 8",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A decently interesting concept and a fairly grounded plot here make for an enjoyable time, but there’s a lot of shallow areas where the plot, and chemistry between characters, seems paper thin. Despite those flaws, it’s something new and interesting."
+  },
+  {
+    "title": "Contagion",
+    "year": 2011,
+    "genres": ["Drama", "Thriller"],
+    "rating": "great",
+    "poster": "contagion.jpeg",
+    "series": null,
+    "summary": "This is a film that keeps low to the ground, delivering on the tension surrounding what we’ve since learned is a very real, and very likely scenario. While it may have been hard to accept that Contagion was merely foreshadowing what would end up happening in real life, some of the predictions are unsettlingly accurate."
+  },
+  {
+    "title": "The Creator",
+    "year": 2023,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "thecreator.jpeg",
+    "series": null,
+    "summary": "A fairly cliched story set in a fantastical, science fiction world, The Creator does a fairly good job of entertaining, though deep thought isn’t much required. It’s straight to the point, has beautiful visuals, and isn’t a terrible way to spend some time."
+  },
+  {
+    "title": "Darkest Hour",
+    "year": 2017,
+    "genres": ["Drama", "War", "WWII"],
+    "rating": "great",
+    "poster": "darkesthour.jpeg",
+    "series": null,
+    "summary": "A stunning performance from Gary Oldman, it’s yet another take on a very familiar subject for those aware of the history. Churchill’s reputation and the caricatures of him are world famous, and yet still, Oldman brings a new light to the man and shows the good, the bad, and the ugly, honoring the complexity of the time and the heroism of the man."
+  },
+  {
+    "title": "Dawn of the Dead",
+    "year": 2004,
+    "genres": ["Horror", "Zombie"],
+    "rating": "great",
+    "poster": "dawnofthedead.jpeg",
+    "series": null,
+    "summary": "A personal favorite specifically for the fact that it’s an easy watch—something explosive, witty, gorey, full of fulls, and it doesn’t take itself too seriously. A great cast make up with actors who play well off each other allows for a great ride from start to finish."
+  },
+  {
+    "title": "The Day After Tomorrow",
+    "year": 2004,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "thedayaftertomorrow.jpeg",
+    "series": null,
+    "summary": "A staple of the 2000s that helped to set up a whole genre obsessed with end of the world disasters. Not a bad film by any means, but very much a thing of its time."
+  },
+  {
+    "title": "Man of Steel",
+    "year": 2013,
+    "genres": ["Fantasy", "Sci-Fi"],
+    "rating": "negative",
+    "poster": "manofsteel.jpeg",
+    "series": "DCEU",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "There’s a special kind of irritable pain experienced when watching the kick off of the DCEU; it’s founded in disappointment in visual effects, obnoxious fights, overdramatized bits and a plot that reads as “because it needs to happen”. There’s little nuance, limited space for genuine emotional investment from the audience, and Man of Steel’s most notable legacy is that it sets the stage for a franchise that reads like a kid playing with action figures. There’s very little sinew holding the muscle and bone together."
+  },
+  {
+    "title": "Batman V Superman: Dawn of Justice",
+    "year": 2016,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "negative",
+    "poster": "batmanvssupermandawnofjustice.jpeg",
+    "series": "DCEU",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "It is very difficult to find positive things to say about this film. Simply put, the second installment in the DCEU doubles down on all the things its predecessor did wrong. There is no sense of cohesiveness, and the plot remains a slapdash effort to churn out something that was not fully baked."
+  },
+  {
+    "title": "Suicide Squad",
+    "year": 2016,
+    "genres": ["Fantasy", "Sci-Fi"],
+    "rating": "meh",
+    "poster": "suicidesquad.jpeg",
+    "series": "DCEU",
+    "releaseOrder": 3,
+    "chronologicalOrder": 3,
+    "summary": "Arguably the best of the three films in the DCEU thus far, it still doesn’t clear the bar for being “good”, unfortunately. Suicide Squad takes a much more light hearted approach to the DC universe, something sorely needed and entirely missing from the previous two films. In this movie, character backgrounds and motivations are explored and given weight and meaning, something which pushes the story forward, but isn’t enough to save the film."
+  },
+  {
+    "title": "Wonder Woman",
+    "year": 2017,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "meh",
+    "poster": "wonderwoman.jpeg",
+    "series": "DCEU",
+    "releaseOrder": 4,
+    "chronologicalOrder": 4,
+    "summary": "There are elements to Wonder Woman that bring a sense of optimism and hope to the DCEU, moments that posit interesting quandaries and exciting ideas; there are characters with genuine motivations that are explored; there are even some well crafted fight scenes. But ultimately, Wonder Woman struggles with many of the same problems that prior installments of the DCEU have hit rock bottom with: needless and bizarrely choreographed fights, dismal graphic effects, and plot developments that seem either lackluster or down right out of place."
+  },
+  {
+    "title": "Justice League",
+    "year": 2017,
+    "genres": ["Fantasy", "Sci-Fi"],
+    "rating": "negative",
+    "poster": "justiceleague.jpeg",
+    "series": "DCEU",
+    "releaseOrder": 5,
+    "chronologicalOrder": 5,
+    "summary": "There are no words to express just how terrible this movie is."
+  },
+  {
+    "title": "Aquaman",
+    "year": 2018,
+    "genres": ["Fantasy", "Sci-Fi"],
+    "rating": "negative",
+    "poster": "aquaman.jpeg",
+    "series": "DCEU",
+    "releaseOrder": 6,
+    "chronologicalOrder": 6,
+    "summary": "Feeling the fatigue of having to sit through these terrible movies, Aquaman simply slid past without flare or fascination. It was slow enough and unengaging that it really could only be viewed in small bursts, rather than watching it all at once—something very unusual for me. Not terrible, but not good."
+  },
+  {
+    "title": "Shazam!",
+    "year": 2019,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "shazam.jpeg",
+    "series": "DCEU",
+    "releaseOrder": 7,
+    "chronologicalOrder": 7,
+    "summary": "Quirky, weird, and quite lighthearted compared to the rest of the DCEU, it does a few things new that stick the landing, and it certainly exists in its own pocket where it doesn’t rely on the rest of the franchise. This is a major strength. It’s certainly not a home run, but it’s a far cry better than the rest of this miserable franchise."
+  },
+  {
+    "title": "Joker",
+    "year": 2019,
+    "genres": ["Drama", "Thriller"],
+    "rating": "negative",
+    "poster": "joker.jpeg",
+    "series": "DCEU",
+    "releaseOrder": 8,
+    "chronologicalOrder": 8,
+    "summary": "While this could have been a standout set against the backdrop of a floundering franchise, Joker leaned heavily into the extreme and attempted to portray a villain in a light other than what he deserves. The glorification of deficiencies in mental wellbeing doesn’t sell; the Joker is a fantastic villain when he’s left to his hijinks, but trying to tell a grounded and gritty, emotional rise to infamy where its based in a very real world just glorifies all the wrong parts."
+  },
+  {
+    "title": "Death of a Unicorn",
+    "year": 2025,
+    "genres": ["Comedy", "Horror"],
+    "rating": "great",
+    "poster": "deathofaunicorn.jpeg",
+    "series": null,
+    "summary": "Absurdism at its peak, Death of a Unicorn is a perfect medley of serious acting, punchy beats, the right amount of satire, and a concept so bizarre that you’ll never see it coming, even if it tells you exactly what will happen."
+  },
+  {
+    "title": "The Departed",
+    "year": 2006,
+    "genres": ["Drama", "Mystery"],
+    "rating": "great",
+    "poster": "thedeparted.jpeg",
+    "series": null,
+    "summary": "When it comes to a non-stop ride of epic excitement and unexpected turns, The Departed is a must-see. There are few films which combine narcissists, rats, and people just trying to survive as well as this."
+  },
+  {
+    "title": "The Diplomat",
+    "year": 2023,
+    "genres": ["Thriller", "TV Show"],
+    "rating": "great",
+    "poster": "thediplomat.jpeg",
+    "series": null,
+    "summary": "When the main complaint I can make is that the linchpin for the entire show and the catalyst for the whole plot (an attack on a naval vessel) seemed implausible, and everything else was an absolute thrill, you can be assured it’s a great show to get into. The complexity and layering to the mysteries explored is incredibly well designed, and the series flies by faster than one might want. There’s high hopes for where it goes next."
+  },
+  {
+    "title": "District 9",
+    "year": 2009,
+    "genres": ["Fantasy", "Thriller"],
+    "rating": "great",
+    "poster": "district9.jpeg",
+    "series": null,
+    "summary": "District 9 is a fantastic foray into the sci-fi genre, with a ground narrative that is accompanied by outrageous and exciting moments that will catch audiences by surprise. While far-fetched, the film plays itself off as if it’s an everyday sort of occurrence, focusing on the human conflicts rather than the spectacle of alien arrival on Earth."
+  },
+  {
+    "title": "Doctor Sleep",
+    "year": 2019,
+    "genres": ["Drama", "Fantasy"],
+    "rating": "great",
+    "poster": "doctorsleep.jpeg",
+    "series": null,
+    "summary": "An absolute triumph. Mike Flanagan once again delivers a stunning masterpiece, this time another adaptation that not only brings another of Stephen King’s books to life, but also pays dutiful homage to The Shining itself. An absolute thrill to watch."
+  },
+  {
+    "title": "Don’t Look Up",
+    "year": 2021,
+    "genres": ["Comedy"],
+    "rating": "good",
+    "poster": "dontlookup.jpeg",
+    "series": null,
+    "summary": "A decent enough film with a grim but honest—and hyperbolic—look at how our society works today. Things suck, for sure, but they’re only going to get worse, and Don’t Look Up certainly points that out."
+  },
+  {
+    "title": "Downfall",
+    "year": 2004,
+    "genres": ["Drama", "War", "WWII"],
+    "rating": "great",
+    "poster": "downfall.jpeg",
+    "series": null,
+    "summary": "A film that has quite a reputation for its poignancy, it depicts the most villainous man known to history in a way that doesn’t humanize him, but does give insights into the collapse of his life and his world. There is no sympathy for the man, nor his supporters, but it is a thing of fascination to see how one man’s mind can unravel in an instant when reality defies desire."
+  },
+  {
+    "title": "Dredd",
+    "year": 2012,
+    "genres": ["Sci-Fi", "Thriller"],
+    "rating": "great",
+    "poster": "dredd.jpeg",
+    "series": null,
+    "summary": "Pure pulp, pure absurdity, and pure enjoyment. Karl Urban is a solid choice for this iconic character’s reboot, and while it definitely hits on the wild and unhinged premise of the character, it does so with style that shrugs off any shackles of realism and presents a film that can simply be enjoyed for what it is."
+  },
+  {
+    "title": "Drive",
+    "year": 2011,
+    "genres": ["Action", "Thriller"],
+    "rating": "negative",
+    "poster": "drive.jpeg",
+    "series": null,
+    "summary": "A film with this sort of a plot needs to be heavy hitting and loud, but instead we got a very tame, very slow, very quiet sort of build up with no strong climax or ending. In the same genre, one is much better off watching Baby Driver or any of the Statham Transporter films."
+  },
+  {
+    "title": "Dune",
+    "year": 2021,
+    "genres": ["Adventure", "Sci-Fi"],
+    "rating": "great",
+    "poster": "dune.jpeg",
+    "series": "Dune",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A phenomenal adaptation that knows when to break from the source material and do its own thing. While unique in its own ways, Dune pays homage to the adaptations that came before, but while owning its own identity and establishing a clear path forward."
+  },
+  {
+    "title": "Dune: Part 2",
+    "year": 2023,
+    "genres": ["Adventure", "Sci-Fi"],
+    "rating": "great",
+    "poster": "duneparttwo.jpeg",
+    "series": "Dune",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "What may well be an all time favorite and top five, Dune: Part 2 is a stunning, stupefying smash hit that delivers on all that was promised and more. Everything builds to a crescendo of remarkable passion and thrill; it’s impossible to imagine this being any more incredible than it already is."
+  },
+  {
+    "title": "Dunkirk",
+    "year": 2017,
+    "genres": ["Drama", "War", "WWII"],
+    "rating": "great",
+    "poster": "dunkirk.jpeg",
+    "series": null,
+    "summary": "A unique take on a monumental moment in human and military history: the evacuation of some 300,000 men from the shores of Europe. Told from three perspectives, the film takes a unique approach in not once showing the enemy, something which generates a sense of unease, discomfort, and anxiousness, a fitting vibe given the nature of the story. A true thrill, through and through."
+  },
+  {
+    "title": "Edge of Tomorrow",
+    "year": 2014,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "great",
+    "poster": "edgeoftomorrow.jpeg",
+    "series": null,
+    "summary": "Genuinely one of the most exciting and riveting takes on sci-fi alien invasions that has come out thus far in the 21st century. There is nothing slowing down this beast of a film, and between the fantastic dynamic between characters, the exciting and brisk pace of the narrative, the design of the creatures, and execution of the combat, you’re in for a fantastic ride."
+  },
+  {
+    "title": "El Camino",
+    "year": 2019,
+    "genres": ["Crime", "Drama"],
+    "rating": "meh",
+    "poster": "elcamino.jpeg",
+    "series": null,
+    "summary": "Something that–arguably–did not need to be made - it takes the reader on a journey to follow the close of a chapter that was already closed, meaning it has to be reopened first. That in itself is where the problems start. El Camino is that trope in which everything in fantasy or sci-fi has to be over-explained. Audience members can be content watching the finale of Breaking Bad without feeling any need to watch this, but it isn’t entirely a waste of time, either."
+  },
+  {
+    "title": "Elysium",
+    "year": 2013,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "meh",
+    "poster": "elysium.jpeg",
+    "series": null,
+    "summary": "A cliche spun into a grander production, the narrative doesn’t bring anything new to the “man trying to survive in the dystopian society of inequality” genre, but it does have some delightful scenes and decent acting. It’s not a disappointment, but certainly not anything grand and new."
+  },
+  {
+    "title": "Enemy at the Gates",
+    "year": 2001,
+    "genres": ["Drama", "War", "WWII"],
+    "rating": "meh",
+    "poster": "enemyatthegates.jpeg",
+    "series": null,
+    "summary": "Average. It’s got decent enough tension, but the constant hopping around makes it a bore and almost exhausting to follow, with the fast bits seeming slow, and the things we want slowed down being far too fast."
+  },
+  {
+    "title": "Escape from L.A.",
+    "year": 1996,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "escapefromla.jpeg",
+    "series": null,
+    "summary": "A campy, exaggerated sequel that leans fully into its own ridiculousness. It lacks the edge of its predecessor but makes up for it with sheer audacity and style. Not refined, but undeniably entertaining in its own strange way."
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "year": 2022,
+    "genres": ["Adventure", "Sci-Fi"],
+    "rating": "great",
+    "poster": "everythingeverywhereallatonce.jpeg",
+    "series": null,
+    "summary": "A film so bizarre, so tremendous, and so spectacular that there are few words to truly describe it. A beautiful and highly talented cast has come together to create a deeply compelling, abstract portrait of a family that, had Hemingway been responsible for it, could have been told in a short story of five hundred words. But instead, it has been spun into a tapestry that defies all expectations, and leaves the viewer fulfilled and bewildered."
+  },
+  {
+    "title": "Ex Machina",
+    "year": 2014,
+    "genres": ["Drama", "Fantasy"],
+    "rating": "great",
+    "poster": "exmachina.jpeg",
+    "series": null,
+    "summary": "There are few films that will generate such a thrill, and keep an audience so captivated as Ex Machina. It’s a stunningly well crafted work of art that blends so many elements and genres, marrying horror and suspense with science fiction and reality. It will keep any audience at the edge of their seat."
+  },
+  {
+    "title": "The Exorcist",
+    "year": 1973,
+    "genres": ["Horror", "Supernatural"],
+    "rating": "meh",
+    "poster": "theexorcist.jpeg",
+    "series": null,
+    "summary": "No one can deny that The Exorcist has secured a golden place in the realm of film for its impact and uniqueness at the time of its release. It blazes a new trail, but compared to horror and supernatural thrillers made today, it’s pacing feels far too slow to trailblaze in any which direction. While by no means a bad film, for someone who didn’t grow up with it before all those that followed, it doesn’t carry the same impact."
+  },
+  {
+    "title": "Extinction",
+    "year": 2018,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "negative",
+    "poster": "extinction.jpeg",
+    "series": null,
+    "summary": "Just terrible, downright. An interesting concept for sure, but terribly executed on all accounts."
+  },
+  {
+    "title": "Extraction",
+    "year": 2020,
+    "genres": ["Action"],
+    "rating": "good",
+    "poster": "extraction.jpeg",
+    "series": "Extraction",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A new take on the non-stop action thriller genre, Extraction hits all the notes you’d want, and expect, but with new twists and approaches to old tropes. It’s packed full of epic fights and non-stop movement, and sure to keep anyone entertained."
+  },
+  {
+    "title": "Extraction 2",
+    "year": 2023,
+    "genres": ["Action", "Thriller"],
+    "rating": "good",
+    "poster": "extraction2.jpeg",
+    "series": "Extraction",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "Continuing after the events of the first film, Extraction 2 delivers on the same promises made in the first: non-stop action, bigger stakes, bigger stunts, and now an attempt at layering new emotional beats that, while surprising to see, definitely help on the delivery of all the rest."
+  },
+  {
+    "title": "The Fabelmans",
+    "year": 2022,
+    "genres": ["Drama"],
+    "rating": "great",
+    "poster": "thefabelmans.jpeg",
+    "series": null,
+    "summary": "Spielberg strikes off towards home in a very personal, very candid self portrait of his own family and youth, and while some of it is no doubt wrapped and tailored with the skilled hands of a story teller, there’s undeniable heart at the core of this film. There’s no such thing as true closure, but through The Fabelmans we as the audience are able to make peace with a number of things and accept the way they are."
+  },
+  {
+    "title": "Fahrenheit 451",
+    "year": 2018,
+    "genres": ["Drama", "Sci-Fi"],
+    "rating": "negative",
+    "poster": "fahrenheit451.jpeg",
+    "series": null,
+    "summary": "As far as heartless, lackluster adaptations that break hard from the source material, this one is pretty criminal, and misses much of the original meaning. But, as far as entertainment, people who care little about the book may be content and occupied without complaint for a few hours. It’s mindless, and that’s the problem."
+  },
+  {
+    "title": "Fall of the House of Usher",
+    "year": 2023,
+    "genres": ["Drama", "Horror", "TV Show"],
+    "rating": "great",
+    "poster": "fallofthehouseofusher.jpeg",
+    "series": null,
+    "summary": "This is undoubtedly the crowning achievement of Mike Flanagan’s reign of terror; it’s an amalgamation of the works of Edgar Allan Poe sewn together with threads of sheer terror and gruesome deaths that you can feel approaching, but will never be prepared for."
+  },
+  {
+    "title": "The Fast and the Furious",
+    "year": 2001,
+    "genres": ["Adventure", "Crime"],
+    "rating": "good",
+    "poster": "thefastandthefurious.jpeg",
+    "series": "Fast & Furious",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "The only thing faster than the cars is the speed at which the plot slams into the concrete. This is, in essence, Need for Speed - if it became a franchise of films: lots of speed and drama and big things, but no tight narrative. It’s entertaining for what it is, but suspension of disbelief is essential."
+  },
+  {
+    "title": "2 Fast 2 Furious",
+    "year": 2003,
+    "genres": ["Adventure", "Crime"],
+    "rating": "meh",
+    "poster": "2fast2furious.jpeg",
+    "series": "Fast & Furious",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "It’s faster than the first, but still campy enough to keep it in the same bracket of quality. The effects, stunts, and momentum are better, though 2 Fast 2 Furious clings to the same elements that dragged down the first movie - too high-flying to make complete sense or keep the wheels on the road."
+  },
+  {
+    "title": "Fast & Furious",
+    "year": 2009,
+    "genres": ["Action", "Adventure", "Crime"],
+    "rating": "good",
+    "poster": "fastandfurious.jpeg",
+    "series": "Fast & Furious",
+    "releaseOrder": 3,
+    "chronologicalOrder": 3,
+    "summary": "A deeper, more nuanced plot which dives into complex relationships in ways the first two films never could. The stakes are higher largely because there is a great deal which has already been established; the audience is able to sink their teeth into the narrative rather than trying to buy into the universe. A much needed improvement to the franchise."
+  },
+  {
+    "title": "Fast Five",
+    "year": 2011,
+    "genres": ["Action", "Adventure", "Crime"],
+    "rating": "good",
+    "poster": "fastfive.jpeg",
+    "series": "Fast & Furious",
+    "releaseOrder": 4,
+    "chronologicalOrder": 4,
+    "summary": "It’s with Fast Five, if you’re watching in chronological order, that investment in the whole story of this franchise starts to really pay off. Threads established earlier on are pulled once more, and characters are really given the space needed to deliver on the true potential of the franchise. While more tight knit and smooth through and through, Fast Five is also where things start to branch into the bizarre."
+  },
+  {
+    "title": "Fast & Furious 6",
+    "year": 2013,
+    "genres": ["Action", "Adventure", "Crime"],
+    "rating": "meh",
+    "poster": "fastandfurious6.jpeg",
+    "series": "Fast & Furious",
+    "releaseOrder": 5,
+    "chronologicalOrder": 5,
+    "summary": "The thrills and excitement continue on with Fast & Furious 6, though the bizarre hijinks seem to take on a life of their own. The further in on the plot this franchise goes, the more absurd the lengths to which the characters will go, to the point that now, in the 6th film one has to completely suspend disbelief."
+  },
+  {
+    "title": "The Fast and the Furious: Tokyo Drift",
+    "year": 2006,
+    "genres": ["Adventure", "Crime"],
+    "rating": "negative",
+    "poster": "thefastandthefurioustokyodrift.jpeg",
+    "series": "Fast & Furious",
+    "releaseOrder": 6,
+    "chronologicalOrder": 6,
+    "summary": "It’s just bad; plain and simple. Flat, uninspired acting, hard-to-believe casting, weak character motivations, paper thin logic... it’s a mess from top to bottom."
+  },
+  {
+    "title": "Furious 7",
+    "year": 2015,
+    "genres": ["Adventure", "Crime"],
+    "rating": "negative",
+    "poster": "furious7.jpeg",
+    "series": "Fast & Furious",
+    "releaseOrder": 7,
+    "chronologicalOrder": 7,
+    "summary": "Furious 7 was god awful. The narrative jumps all around with little cohesion, and a lot of things feel shoehorned in just to get an inclusion. It’s just a plain old mess."
+  },
+  {
+    "title": "Fear Street Part 1: 1994",
+    "year": 2021,
+    "genres": ["Horror", "Mystery"],
+    "rating": "great",
+    "poster": "fearstreetpart11994.jpeg",
+    "series": "Fear Street",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A thrilling, fast past horror flick that draws back to what makes horror films so genuinely delightful. Fear Street Part 1 is the first of three expertly made films that tell a wild, unchained story that fits together like the last few pieces of a puzzle. Spectacularly satisfying, thoroughly thrillingly, and absolutely worth the watch."
+  },
+  {
+    "title": "Fear Street Part 2: 1978",
+    "year": 2021,
+    "genres": ["Horror", "Mystery"],
+    "rating": "great",
+    "poster": "fearstreetpart21978.jpeg",
+    "series": "Fear Street",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "The second part of the Fear Street trilogy, it’s just as engaging and horrific as the first. Blood, gore, and all sorts of mess captivate while the quick narrative movements and compelling character relationships draw the audience to the edge of their seat. This series only gets better the deeper in you go."
+  },
+  {
+    "title": "Fear Street Part 3: 1666",
+    "year": 2021,
+    "genres": ["Horror", "Mystery"],
+    "rating": "great",
+    "poster": "fearstreetpart31666.jpeg",
+    "series": "Fear Street",
+    "releaseOrder": 3,
+    "chronologicalOrder": 3,
+    "summary": "A climactic ending to a fantastic trilogy, Fear Street Part 3 finishes strong, and ties it all together with a perfect, bloody bow on top. There is little room for critique when it’s this damn good."
+  },
+  {
+    "title": "Fear Street Part: Prom Queen",
+    "year": 2025,
+    "genres": ["Horror"],
+    "rating": "great",
+    "poster": "fearstreetpromqueen.jpeg",
+    "series": "Fear Street",
+    "releaseOrder": 4,
+    "chronologicalOrder": 4,
+    "summary": "This is clear proof that Fear Street is not slowing down. Set in the same universe as the prior films, it breaks off to do its own thing and sticks the landing. An instant contender for some of the best slashers around."
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "genres": ["Drama", "Thriller"],
+    "rating": "good",
+    "poster": "fightclub.jpeg",
+    "series": null,
+    "summary": "A film that’s become the center of endless discourse and analysis, it’s deserving of that attention, but with flaws of its own to balance out that fame. While not something that will leave someone yearning for rewatches, it’s still a plenty enjoyable film with an unraveling that is well paced and fairly well delivered."
+  },
+  {
+    "title": "Freaky",
+    "year": 2020,
+    "genres": ["Comedy", "Horror"],
+    "rating": "good",
+    "poster": "freaky.jpeg",
+    "series": null,
+    "summary": "An intriguing take on Freaky Friday, where two people swap bodies, it’s made more thrilling with a bit of murder being thrown into the mix. While bizarre and laughable at times, it certainly sticks to its vibes and is a good watch for any movie night."
+  },
+  {
+    "title": "Freaky Friday",
+    "year": 2003,
+    "genres": ["Comedy", "Family"],
+    "rating": "great",
+    "poster": "freakyfriday.jpeg",
+    "series": null,
+    "summary": "Nothing needs to be said about Freaky Friday except that it’s an all time classic full of laughs and thrills. You can’t go wrong with this as your movie night choice."
+  },
+  {
+    "title": "Free Fire",
+    "year": 2016,
+    "genres": ["Action", "Comedy"],
+    "rating": "good",
+    "poster": "freefire.jpeg",
+    "series": null,
+    "summary": "Engaging and unique in its take on a knife fight in a phone booth trope, Free Fire is a neat concept that at times can be a bit slow and dry, but otherwise finds ways to keep the audience guessing as to what will unfold next. It demands a close eye and constant attention, but all the plots are tied up by the final scenes."
+  },
+  {
+    "title": "The Fugitive",
+    "year": 1993,
+    "genres": ["Action", "Thriller"],
+    "rating": "great",
+    "poster": "thefugitive.jpeg",
+    "series": null,
+    "summary": "It’s Harrison Ford at his best - pointing at everyone, shouting constantly, and trying to figure out who murdered his wife. There’s great twists and layering to this classic thriller, and the interactions between the key stars is well worth sitting down for the watch. This is a movie you can’t go wrong choosing."
+  },
+  {
+    "title": "Fury",
+    "year": 2014,
+    "genres": ["Action", "War", "WWII"],
+    "rating": "good",
+    "poster": "fury.jpeg",
+    "series": null,
+    "summary": "There’s something you come to expect when you hear the name Brad Pitt; him in a deeply serious role that depicts the growing strain of a soldier in war is not the first thing to come to my mind, however. Fury is a great delve into the horrors and complex personal relationships that dominated World War II, where the mental and emotional strain of combat and the conflict of morals were just as dangerous as the fighting."
+  },
+  {
+    "title": "Galaxy Quest",
+    "year": 1999,
+    "genres": ["Comedy", "Sci-Fi"],
+    "rating": "great",
+    "poster": "galaxyquest.jpeg",
+    "series": null,
+    "summary": "The best and most wild adventure through science fiction available on your screen. It has the cockiness of Space Balls, the deep nuance of Star Trek, and the fast flying delight of Star Wars; Galaxy Quest is the ultimate letter to fans and creators alike, and it does everything right to sell the audience that it is the absolute authority on parodying the real world we try so hard to escape."
+  },
+  {
+    "title": "Game Night",
+    "year": 2018,
+    "genres": ["Comedy", "Mystery"],
+    "rating": "great",
+    "poster": "gamenight.jpeg",
+    "series": null,
+    "summary": "A genuine thrill. Game Night is a fantastic watch for any sort of occasion, with tremendous wit and humor, cleverness, stellar chemistry between actors, and a genuinely solid plot through and through. This film definitely takes top prize."
+  },
+  {
+    "title": "Geostorm",
+    "year": 2017,
+    "genres": ["Action"],
+    "rating": "negative",
+    "poster": "geostorm.jpeg",
+    "series": null,
+    "summary": "Pretty damn fucking bad."
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "genres": ["Adventure", "Action"],
+    "rating": "great",
+    "poster": "gladiator.jpeg",
+    "series": "Gladiator",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "Gladiator is a journey through and through, one that draws upon themes of resilience, justice, and determination. Russell Crowe is a fantastic choice for the role, one which he brings a sense of emotional depth too that might have initially been unexpected. The production is of a prime quality, and the dynamics which evolve between characters do much to cement this as a classic watch."
+  },
+  {
+    "title": "Gladiator II",
+    "year": 2024,
+    "genres": ["Adventure", "Action"],
+    "rating": "great",
+    "poster": "gladiator2.jpeg",
+    "series": "Gladiator",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "A fantastic sequel, deserving of the legacy it holds, and full of outstanding thrills and powerful moments. Denzel shines here, as he often does in his work; it’s good material, good writing, and fantastic acting and production quality."
+  },
+  {
+    "title": "Godzilla Minus One",
+    "year": 2023,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "godzillaminusone.jpeg",
+    "series": null,
+    "summary": "When the Monsterverse franchise began churning out Godzilla movies like there was no tomorrow, it offered a chance for a new take on a classic, but so much of that franchise focuses on the wild fights and CGI rather than the people caught in the middle. Godzilla Minus One is a welcome return to form that looks splendid, but may seem a bit hamfisted at times."
+  },
+  {
+    "title": "Gran Turismo",
+    "year": 2023,
+    "genres": ["Action", "Sports"],
+    "rating": "good",
+    "poster": "granturismo.jpeg",
+    "series": null,
+    "summary": "Another entry into the “zero to hero” genre of films, Gran Turismo stands out as one that’s fast paced, driven by an emotional core, and with genuine chemistry between the cast that will demand your focus. It’s an especially decent watch when taking into account the good that it does by highlighting the genuine power of the underdog."
+  },
+  {
+    "title": "The Gray Man",
+    "year": 2022,
+    "genres": ["Action", "Thriller"],
+    "rating": "good",
+    "poster": "thegrayman.jpeg",
+    "series": null,
+    "summary": "A fairly decent action film with a solid choice for a leading man, there’s a lot of potential for the further serialization of the franchise in film, but it doesn’t exactly add anything new to the genre. A decent watch for good action, all the same."
+  },
+  {
+    "title": "Grease",
+    "year": 1978,
+    "genres": ["Comedy", "Musical"],
+    "rating": "good",
+    "poster": "grease.jpeg",
+    "series": null,
+    "summary": "A much loved classic, the dialogue, music, aesthetic, and themes are certainly a mark of the film’s time, but one that is charming and endearing all the same."
+  },
+  {
+    "title": "Greenland",
+    "year": 2020,
+    "genres": ["Action", "Disaster"],
+    "rating": "good",
+    "poster": "greenland.jpeg",
+    "series": "Greenland",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "Decent enough as far as disaster films go; it’s got all the typical explosive action you’d expect, the gripping tension, the dramatic bonds of family and love. Standard, loud, exciting, but not all too deep."
+  },
+  {
+    "title": "Greenland 2: Migration",
+    "year": 2025,
+    "genres": ["Drama", "Thriller"],
+    "rating": "good",
+    "poster": "greenland2migration.jpeg",
+    "series": "Greenland",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "More grounded than most disaster films, focusing less on spectacle and more on the human scramble to survive. It’s tense in a quieter, more personal way, even if some beats feel familiar. The restraint works in its favor."
+  },
+  {
+    "title": "Green Zone",
+    "year": 2010,
+    "genres": ["Action", "War"],
+    "rating": "good",
+    "poster": "greenzone.jpeg",
+    "series": null,
+    "summary": "A pretty dang solid movie through and through, touching on parts of American history that are still very controversial in the eyes of many."
+  },
+  {
+    "title": "Greyhound",
+    "year": 2020,
+    "genres": ["Thriller", "War", "WWII"],
+    "rating": "meh",
+    "poster": "greyhound.jpeg",
+    "series": null,
+    "summary": "While some moments are tense and thrilling, Greyhound fails to deliver on the great potential it advertised. Tom Hanks is a convincing commander, but the stitching of the narrative and the visual language used to guide the audience through the plot is a leaky boat at best."
+  },
+  {
+    "title": "Death Proof",
+    "year": 2007,
+    "genres": ["Action", "Horror"],
+    "rating": "good",
+    "poster": "deathproof.jpeg",
+    "series": null,
+    "summary": "Death Proof is one of those Tarantino films that makes a bright red wet spot on the pavement that’s hard to scrub away. It’s flashy and violent and dramatic in ways that are almost unique to Tarantino; it doesn’t follow the model you’d expect, and is outlandish at times with its boisterous characters, but it is a thrill if nothing else."
+  },
+  {
+    "title": "Groundhog Day",
+    "year": 1993,
+    "genres": ["Comedy", "Romance"],
+    "rating": "good",
+    "poster": "groundhogday.jpeg",
+    "series": null,
+    "summary": "Witty, relatable, and certainly of its time—Groundhog day delivers a comfortable and reliable comedy for the season, one that you won’t much mind watching again, and again, and again, and again, year after year."
+  },
+  {
+    "title": "Hail, Caesar",
+    "year": 2016,
+    "genres": ["Comedy", "Mystery"],
+    "rating": "great",
+    "poster": "hailcaesar.jpeg",
+    "series": null,
+    "summary": "This is one of those movies that is absurd, outlandish, bizarre, and entirely delightful through and through. Determination and foolishness balance each other out as characters play off one another and race towards an unanticipated conclusion that will bring you back for rewatches time and time again."
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "year": 2018,
+    "genres": ["Drama", "Horror", "TV Show"],
+    "rating": "great",
+    "poster": "thehauntingofhillhouse.jpeg",
+    "series": null,
+    "summary": "One of Mike Flanagan’s works, this show will leave you reeling with each episode as you follow the story of a family that is coming apart at the seams with one common factor tearing it apart—the Hill House. There’s startling scares and unsettling undertones that will demand your attention, and leave you eager for a rewatch."
+  },
+  {
+    "title": "The Haunting of Bly Manor",
+    "year": 2020,
+    "genres": ["Drama", "Horror", "TV Show"],
+    "rating": "great",
+    "poster": "thehauntingofblymanor.jpeg",
+    "series": null,
+    "summary": "A genuinely thrilling horror show that earns its place. One of Mike Flanagan’s works, it fits into a new canon of horror designed by a man who has a clear understanding of what can unsettle and disturb. It isn’t the jump scares in this that will get you—it’s the anticipation of how it all unravels that is going to leave you on the edge of your seat."
+  },
+  {
+    "title": "Heat",
+    "year": 1995,
+    "genres": ["Action", "Crime"],
+    "rating": "great",
+    "poster": "heat.jpeg",
+    "series": null,
+    "summary": "Heat is the type of film that almost makes you root for the villains, characters who have depth and reasonable motives that a slight twisting of morals could almost justify. Al Pacino and Robert De Niro bring to the forefront the unrestrained power which propels both characters on to a climactic and explosive confrontation that is well worth the investment of time."
+  },
+  {
+    "title": "Heretic",
+    "year": 2024,
+    "genres": ["Horror", "Thriller"],
+    "rating": "meh",
+    "poster": "heretic.jpeg",
+    "series": null,
+    "summary": "An interesting concept that fell flat with a serious lack of coherence in the third act, with lackluster twists and things that just didn’t quite add up. What serves as a good initial building of tension is spoiled by a failure to follow through. Great performances are wasted on poor writing."
+  },
+  {
+    "title": "Hitch",
+    "year": 2005,
+    "genres": ["Comedy", "Romance"],
+    "rating": "good",
+    "poster": "hitch.jpeg",
+    "series": null,
+    "summary": "Hitch is a classic of the 2000s that became an instant hit, and certainly held its weight as one of the last great romance comedies."
+  },
+  {
+    "title": "Hocus Pocus",
+    "year": 1993,
+    "genres": ["Comedy", "Family"],
+    "rating": "great",
+    "poster": "hocuspocus.jpeg",
+    "series": null,
+    "summary": "A delightful classic that has always been close to home; high flying and wild, with thrills for the whole family."
+  },
+  {
+    "title": "House of the Dragon",
+    "year": 2022,
+    "genres": ["Drama", "Fantasy", "TV Show"],
+    "rating": "good",
+    "poster": "houseofthedragon.jpeg",
+    "series": null,
+    "summary": "House of the Dragon is an ambitious, albeit desperate attempt to rekindle the flame ignited by Game of Thrones. While there is certainly the same sex and violence that made the original series so epic, House of the Dragon hyper focuses its lens on one family, rather than many. It lacks the breadth of the original, but still finds a way to make the drama thrilling and engaging."
+  },
+  {
+    "title": "A House of Dynamite",
+    "year": 2025,
+    "genres": ["Drama", "Thriller"],
+    "rating": "good",
+    "poster": "ahouseofdynamite.jpeg",
+    "series": null,
+    "summary": "An apocalyptic political thriller, A House of Dynamite delves into the heart of the human experiences around a devastating nuclear attack, and while it does a tremendous job of raising the heat incrementally, the lack of any concrete resolution leaves it feeling sorely incomplete."
+  },
+  {
+    "title": "How It Ends",
+    "year": 2018,
+    "genres": ["Action", "Thriller"],
+    "rating": "meh",
+    "poster": "howitends.jpeg",
+    "series": null,
+    "summary": "A film that does a decent job of building and sustaining tension, though some bits of the film just don’t quite fit together. While the intrigue of the disaster will keep some hooked, the ending doesn’t quite seem worth the wait."
+  },
+  {
+    "title": "The Hunger Games",
+    "year": 2012,
+    "genres": ["Adventure", "Sci-Fi"],
+    "rating": "good",
+    "poster": "thehungergames.jpeg",
+    "series": "The Hunger Games",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A solid introduction to a world built on spectacle and control. It balances action with underlying commentary effectively. A strong starting point for the series."
+  },
+  {
+    "title": "The Hunger Games: Catching Fire",
+    "year": 2013,
+    "genres": ["Adventure", "Sci-Fi"],
+    "rating": "great",
+    "poster": "thehungergamescatchingfire.jpeg",
+    "series": "The Hunger Games",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "Builds on the first in nearly every way, raising both stakes and tension. There’s a growing sense of unrest that gives the story real momentum. Arguably the strongest entry."
+  },
+  {
+    "title": "The Hunger Games: Mockingjay (Part 1)",
+    "year": 2014,
+    "genres": ["Adventure", "Sci-Fi"],
+    "rating": "good",
+    "poster": "thehungergamesmockingjaypart1.jpeg",
+    "series": "The Hunger Games",
+    "releaseOrder": 3,
+    "chronologicalOrder": 3,
+    "summary": "More subdued, focusing on propaganda and psychological toll rather than action. It’s slower, but intentionally so. A necessary bridge, even if not the most exciting."
+  },
+  {
+    "title": "The Hunger Games: Mockingjay (Part 2)",
+    "year": 2015,
+    "genres": ["Adventure", "Sci-Fi"],
+    "rating": "good",
+    "poster": "thehungergamesmockingjaypart2.jpeg",
+    "series": "The Hunger Games",
+    "releaseOrder": 4,
+    "chronologicalOrder": 4,
+    "summary": "A darker, more somber conclusion that leans into the cost of rebellion. It doesn’t shy away from the consequences. A fitting, if heavy, end."
+  },
+  {
+    "title": "The Hurt Locker",
+    "year": 2008,
+    "genres": ["Action", "Drama", "War"],
+    "rating": "good",
+    "poster": "thehurtlocker.jpeg",
+    "series": null,
+    "summary": "A tense, intimate look at the psychological strain of war. It’s less about conflict and more about the individuals within it. Quietly powerful."
+  },
+  {
+    "title": "In the Heights",
+    "year": 2021,
+    "genres": ["Musical", "Drama", "Romance"],
+    "rating": "great",
+    "poster": "intheheights.jpeg",
+    "series": null,
+    "summary": "Vibrant, heartfelt, and full of life, with music that carries both joy and longing. It celebrates community while still acknowledging struggle in a meaningful way. There’s a sincerity here that’s hard not to appreciate."
+  },
+  {
+    "title": "Inception",
+    "year": 2010,
+    "genres": ["Sci-Fi", "Thriller"],
+    "rating": "great",
+    "poster": "inception.jpeg",
+    "series": null,
+    "summary": "Mind bending and thrilling, Inception is both iconic and historic in its impact, depth, and ingenuity both of narrative exploration and cinematic technical achievement. One of Nolan’s best works so far."
+  },
+  {
+    "title": "Independence Day",
+    "year": 1996,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "great",
+    "poster": "independenceday.jpeg",
+    "series": "Independence Day",
+    "summary": "A classic holiday blockbuster, Independence Day delivers on the thrills you want without the complexity common amongst other films in this genre; it doesn’t try to make itself something it’s not—it owns its place and hits its marks all the way through."
+  },
+    {
+    "title": "Independence Day: Resurgence",
+    "year": 2016,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "negative",
+    "poster": "independencedayresurgence.jpeg",
+    "series": "Independence Day",
+    "summary": "Even the director himself said it shouldn’t have been made. Painful from the beginning all the way through to the end."
+  },
+  {
+    "title": "Ink",
+    "year": 2009,
+    "genres": ["Fantasy", "Thriller"],
+    "rating": "great",
+    "poster": "ink.jpeg",
+    "series": null,
+    "summary": "A striking narrative that delves deep into the complex relationship between a father and his child that is jeopardized by a compulsive obsession with work. Emotionally resonant and deeply moving, the combination of its score, imagery, and well knit narrative makes for a tremendous experience of film."
+  },
+  {
+    "title": "Inside Man",
+    "year": 2006,
+    "genres": ["Crime", "Thriller"],
+    "rating": "good",
+    "poster": "insideman.jpeg",
+    "series": null,
+    "summary": "A film that didn’t hit quite as hard the second time around, but is still an exciting thrill from the get-go. Denzel Washington does a fantastic job of making his character someone the audience will want to stay close to, but many of the other components of the film are not so well executed, leaving much of the twist to be revealed at the end in a way that doesn’t exactly feel earned. The first time watching is an absolute thrill; the second time, it starts to feel like being held hostage in a bank."
+  },
+  {
+    "title": "Insidious",
+    "year": 2010,
+    "genres": ["Horror", "Mystery"],
+    "rating": "meh",
+    "poster": "insidious.jpeg",
+    "series": null,
+    "summary": "You’re going to get exactly what you’d expect from Insidious; a few good jump scares, some unsettling concepts, and some characters that are just too stupid for their own good. It’s a decent enough film, but one that doesn’t do anything spectacular or new."
+  },
+  {
+    "title": "Into the Storm",
+    "year": 2014,
+    "genres": ["Action", "Thriller"],
+    "rating": "good",
+    "poster": "intothestorm.jpeg",
+    "series": null,
+    "summary": "Into the Storm has a thrilling premise and nonstop action, which works well considering that some of the characters fall flat or are just not well suited to the actors that were cast. The film relies heavily on a few of its players to carry the film, but there are some cool moments and very well constructed graphics and the destruction is tremendously well assembled."
+  },
+  {
+    "title": "It",
+    "year": 2017,
+    "genres": ["Horror", "Thriller", "Remake"],
+    "rating": "great",
+    "poster": "it.jpeg",
+    "series": null,
+    "summary": "Unsettling is the perfect term to describe the 2017 remake of Steven King’s It; it’s not scary so much as unnerving, and that’s exactly how horror like this should be. Viewers are given a very good reason to be afraid of Pennywise the Clown, but it’s really the depth of relationships between the young cast members that hits such a high note and makes this film very much worth the watch."
+  },
+  {
+    "title": "The Hunt for Red October",
+    "year": 1990,
+    "genres": ["Action", "Thriller"],
+    "rating": "great",
+    "poster": "thehuntforredoctober.jpeg",
+    "series": "Jack Ryan",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "The Hunt for Red October is a stellar adaptation, and builds suspense through to the end where all the waiting pays off. Perfectly cast actors bring to life believable, well crafted characters who demand the audience’s reaction, for better or worse, as they weave their way through the plot. The story unravels at a steady pace, pulling the audience down into the depths along with the ship."
+  },
+  {
+    "title": "Jack Reacher: Never Go Back",
+    "year": 2016,
+    "genres": ["Action", "Thriller"],
+    "rating": "meh",
+    "poster": "jackreachernevergoback.jpeg",
+    "series": "Jack Reacher",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "A fairly standard action flick; it’s got the star power and it has the punch, but some of the scenes while well choreographed definitely lean into the absurd and highly unlikely, something which, at times, is hard to look past when following the story."
+  },
+  {
+    "title": "Dr. No",
+    "year": 1962,
+    "genres": ["Mystery", "Spy", "Thriller"],
+    "rating": "meh",
+    "poster": "drno.jpeg",
+    "series": "James Bond",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "Through the lens of taking it for what it was at the time, Dr. No stands out as a leap into a wild genre that draws on many tropes and paints a strong picture of what was the ideal specimen of the time. Through a modern lens from one who prefers smooth, nuanced writing and production, it’s a difficult thing to sit through all the way, with many leaps and gaps left for viewers to stumble across. Important for what it was, but there are better films to watch."
+  },
+  {
+    "title": "From Russia with Love",
+    "year": 1963,
+    "genres": ["Action", "Spy", "Thriller"],
+    "rating": "negative",
+    "poster": "fromrussiawithlove.jpeg",
+    "series": "James Bond",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "It’s a difficult thing for me to put my finger on specifically, but there’s something about From Russia With Love that just failed to hit its mark. A cunning and educated reviewer could easily manifest a thorough analysis worthy of the film’s renown, but in my words it just felt boring, uninteresting, and terribly exhausting."
+  },
+  {
+    "title": "Goldfinger",
+    "year": 1964,
+    "genres": ["Mystery", "Spy", "Thriller"],
+    "rating": "great",
+    "poster": "goldfinger.jpeg",
+    "series": "James Bond",
+    "releaseOrder": 3,
+    "chronologicalOrder": 3,
+    "summary": "A complete turn around from the previous film, From Russia With Love, Goldfinger hits the spot and keeps on going, despite some of the tropes which haven’t aged quite well. The villain has a quirky and wild plan, James is at his horniest, and the gadgets punctuate the film with the right amount of spice and wit that one should come to expect from a Bond film."
+  },
+  {
+    "title": "John Wick",
+    "year": 2014,
+    "genres": ["Action", "Thriller"],
+    "rating": "great",
+    "poster": "johnwick.jpeg",
+    "series": "John Wick",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A new entry into a crowded field, John Wick pulls off what a lot of other action movies struggle to do: focus on what works—the fights. Where movie franchises like the Transporter and Bourne try to build out a more layered plot with twists along the way, John Wick tells a straightforward story that lets you enjoy what you’re there to see, violence."
+  },
+  {
+    "title": "John Wick: Chapter 2",
+    "year": 2017,
+    "genres": ["Action", "Thriller"],
+    "rating": "great",
+    "poster": "johnwickchapter2.jpeg",
+    "series": "John Wick",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "A very strong follow up to the original; well worth the watch!"
+  },
+  {
+    "title": "From the World of John Wick: Ballerina",
+    "year": 2025,
+    "genres": ["Action", "Thriller"],
+    "rating": "good",
+    "poster": "johnwickballerina.jpeg",
+    "series": "John Wick",
+    "releaseOrder": 4,
+    "chronologicalOrder": 4,
+    "summary": "Exactly what you’d expect from John Wick—violent. Fairly solid all around."
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genres": ["Adventure", "Sci-Fi"],
+    "rating": "great",
+    "poster": "jurassicpark.jpeg",
+    "series": "Jurassic Park",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "An iconic classic that has stood the test of time, at least thus far. The concept, while bizarre, is one that speaks to a childhood love of science and adventure, and an imagination that runs just as wild as the creatures on screen. Jurassic Park is a bold venture forward and well worth the watch."
+  },
+  {
+    "title": "Jurassic World",
+    "year": 2015,
+    "genres": ["Adventure", "Sci-Fi"],
+    "rating": "good",
+    "poster": "jurassicworld.jpeg",
+    "series": "Jurassic Park",
+    "releaseOrder": 4,
+    "chronologicalOrder": 4,
+    "summary": "A fairly standard reboot that is similar to many other attempts to revive classic franchises. This one draws on star power and higher stakes, but also pays good homage to the spirit of the original, where hubris and arrogance and ulterior motives and villainy weave together a disaster of epic proportions."
+  },
+  {
+    "title": "Jurassic World: Fallen Kingdom",
+    "year": 2018,
+    "genres": ["Adventure", "Sci-Fi"],
+    "rating": "meh",
+    "poster": "jurassicworldfallenkingdom.jpeg",
+    "series": "Jurassic Park",
+    "releaseOrder": 5,
+    "chronologicalOrder": 5,
+    "summary": "Jurassic World’s sequel provides the same sort of ride as its predecessor—it will keep you entertained, but it’s terribly shallow when it comes to depth of plot."
+  },
+  {
+    "title": "Kick-Ass",
+    "year": 2010,
+    "genres": ["Action", "Comedy"],
+    "rating": "great",
+    "poster": "kickass.jpeg",
+    "series": null,
+    "summary": "Epic. A standout ride for thrills and excitement with fun twists and delightful chemistry between the leading actors."
+  },
+  {
+    "title": "The King",
+    "year": 2019,
+    "genres": ["Drama", "History"],
+    "rating": "good",
+    "poster": "theking.jpeg",
+    "series": null,
+    "summary": "A really curious adventure of young Henry V as he comes into his own, there’s a lot of really grounded performances, but the passion is so quiet that it doesn’t ring as the soaring tale often ascribed to Henry in the history books. Timothy Chalamet does a great job embodying one portrayal of the king that I don’t believe has been seen before."
+  },
+  {
+    "title": "Kingdom of Heaven",
+    "year": 2005,
+    "genres": ["Adventure", "War"],
+    "rating": "great",
+    "poster": "kingdomofheaven.jpeg",
+    "series": null,
+    "summary": "This film wanders a long road, one filled with deep moments between characters that drive home just what is at stake, and why the characters are motivated in the way that they are. This film is grand in scope and tremendous in its execution, but it’s an important note to make that the director’s cut is the only version of this film you should watch."
+  },
+  {
+    "title": "Kiss Kiss Bang Bang",
+    "year": 2005,
+    "genres": ["Mystery", "Thriller"],
+    "rating": "great",
+    "poster": "kisskissbangbang.jpeg",
+    "series": null,
+    "summary": "A tremendous and delightful narrative, expertly weaved, that unravels bit by bit the deeper down the rabbit hole the audience goes. The chemistry between cast members, along with the sometimes-bizarre approach to narration, make for a genuinely fun and exciting time, and the fast paced movement keeps the audience from forgetting that there is a quite serious plot buried underneath."
+  },
+  {
+    "title": "Knightfall",
+    "year": 2017,
+    "genres": ["Drama", "History", "TV Show"],
+    "rating": "good",
+    "poster": "knightfall.jpeg",
+    "series": null,
+    "summary": "A fairly decent adventure through the templar Knights of old—the drama builds at a decent pace and keeps going full steam ahead. The scope and scale of the production is fairly solid, but could always build to something stronger."
+  },
+  {
+    "title": "Knives Out",
+    "year": 2019,
+    "genres": ["Comedy", "Crime", "Mystery"],
+    "rating": "great",
+    "poster": "knivesout.jpeg",
+    "series": "Knives Out",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "The first of a rather wild and unconventional series, Rian Johnson does a fantastic job of crafting a brilliant script, with an all star cast leading it to the forefront of mystery films in the same vein as the all time classic CLUE. This is a sure fire hit, and well worth future rewatches."
+  },
+  {
+    "title": "Glass Onion",
+    "year": 2022,
+    "genres": ["Crime", "Mystery"],
+    "rating": "great",
+    "poster": "glassonion.jpeg",
+    "series": "Knives Out",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "Lightning strikes twice for Rian Johnson with this second installment in the wild adventures of Detective Benoit Blanc. The fast paced mystery plot keeps audiences glued and eager for the reveals, something they’ll be trying to discern for themselves and arguing with fellow moviegoers over their hunches."
+  },
+  {
+    "title": "Knowing",
+    "year": 2009,
+    "genres": ["Sci-Fi", "Thriller"],
+    "rating": "good",
+    "poster": "knowing.jpeg",
+    "series": null,
+    "summary": "An intriguing premise that gradually leans further into existential territory. It’s uneven at times, but there’s something compelling about its willingness to go where it does. Not perfect, but memorable."
+  },
+  {
+    "title": "L.A. Confidential",
+    "year": 1997,
+    "genres": ["Crime", "Thriller"],
+    "rating": "great",
+    "poster": "laconfidential.jpeg",
+    "series": null,
+    "summary": "A solid and true choice for an entertaining thriller that borders on the edge of comedy, L.A. Confidential is a strong contender for any movie night for its scope, scale, and depth alone, not to mention the all-star cast who knock it way out of the park. There are good twists, well organized layers, and iconic and memorable lines."
+  },
+  {
+    "title": "Land of the Dead",
+    "year": 2005,
+    "genres": ["Horror", "Zombie"],
+    "rating": "meh",
+    "poster": "landofthedead.jpeg",
+    "series": null,
+    "summary": "You get what you pay for when it comes to watching Land of the Dead. It’s nowhere near as thrilling as some of the others, and it branches off into a new direction that tests the limits of what fits within the broadly accepted genre of zombie behavior. Regardless, there is lots of blood."
+  },
+  {
+    "title": "Last Night in Soho",
+    "year": 2021,
+    "genres": ["Drama", "Horror"],
+    "rating": "great",
+    "poster": "lastnightinsoho.jpeg",
+    "series": null,
+    "summary": "A tremendous and thrilling ride through psychological twists and terrors that will leave viewers clawing for answers as the mystery plot thickens, and then finally unravels at the end. Subsequent rewatches are sure to reveal new layers not seen the first time. It’s a solid choice for any movie night."
+  },
+  {
+    "title": "The Last Samurai",
+    "year": 2003,
+    "genres": ["Action", "Drama"],
+    "rating": "great",
+    "poster": "thelastsamurai.jpeg",
+    "series": null,
+    "summary": "One of my all time favorites, The Last Samurai boldly rides forth in the spirit of James Clavell’s classic novel SHOGUN–though not directly linked to it–drawing upon many of the same concepts of foreign eyes viewing Japanese culture through a lens of preconceptions that are terribly wrong. Tom Cruise and Ken Watanabe shine in this film; this is a must watch."
+  },
+  {
+    "title": "Leave the World Behind",
+    "year": 2023,
+    "genres": ["Thriller", "Mystery"],
+    "rating": "good",
+    "poster": "leavetheworldbehind.jpeg",
+    "series": null,
+    "summary": "A movie that unsettles more than terrifies—it delivers for the audience a great volume of questions but little to direct them in any one direction. If art is meant to inspire thinking, Leave the World Behind certainly achieves that goal; whether that’s a positive or not is up for debate."
+  },
+  {
+    "title": "The Legend of Zorro",
+    "year": 2005,
+    "genres": ["Action", "Adventure"],
+    "rating": "great",
+    "poster": "thelegendofzorro.jpeg",
+    "series": null,
+    "summary": "The Legend of Zorro is one of those Hollywood hits that has a sweet spot in the memories of many, with iconic lines and heart-swelling action and passion. It’s campy and corny at times, but wholly entertaining and thrilling. This is a film that will welcome you home no matter how many years have passed."
+  },
+  {
+    "title": "Looper",
+    "year": 2012,
+    "genres": ["Sci-Fi", "Thriller"],
+    "rating": "great",
+    "poster": "looper.jpeg",
+    "series": null,
+    "summary": "A genuine thrill. This film goes places you’ll expect, but never see coming all the same. It’s a thrilling, exciting, and worthwhile watch that will be equally pleasing the second and third time around."
+  },
+  {
+    "title": "Love and Monsters",
+    "year": 2020,
+    "genres": ["Action", "Adventure"],
+    "rating": "good",
+    "poster": "loveandmonsters.jpeg",
+    "series": null,
+    "summary": "Quirky and somewhat absurd at times, it has enough heart to be charming and just enough drama to be engaging."
+  },
+  {
+    "title": "Madam Secretary",
+    "year": 2014,
+    "genres": ["TV Show", "Drama"],
+    "rating": "great",
+    "poster": "madamsecretary.jpeg",
+    "series": null,
+    "summary": "On par with the West Wing and The Newsroom with its charming and optimistic takes, it’s nonetheless a delight to watch—one which will give hope in a bleak and trying time."
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "genres": ["Action", "Adventure", "Remake"],
+    "rating": "great",
+    "poster": "madmaxfuryroad.jpeg",
+    "series": "Mad Max",
+    "releaseOrder": 3,
+    "chronologicalOrder": 3,
+    "summary": "Action packed fuel courses through this film, and it’s an absolute ride of a time. If there’s ever a go-to film to get your blood pumping, it’s Mad Max: Fury Road."
+  },
+  {
+    "title": "Mamma Mia!",
+    "year": 2008,
+    "genres": ["Comedy", "Musical"],
+    "rating": "good",
+    "poster": "mammamia.jpeg",
+    "series": "Mamma Mia!",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A joyful ride that hits all the right vibes. While it certainly doesn’t reach the heights of its sequel, Mamma Mia! is still a tremendous thrill and well worth the watch."
+  },
+  {
+    "title": "Mamma Mia! Here We Go Again",
+    "year": 2018,
+    "genres": ["Comedy", "Musical"],
+    "rating": "great",
+    "poster": "mammamiaherewegoagain.jpeg",
+    "series": "Mamma Mia!",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "A joy. A thrill. The best pick to watch on a day that’s got you down; it’s a delight."
+  },
+  {
+    "title": "The Man in the High Castle",
+    "year": 2015,
+    "genres": ["TV Show", "Drama", "Suspense"],
+    "rating": "good",
+    "poster": "themaninthehighcastle.jpeg",
+    "series": null,
+    "summary": "A chilling alternate history that explores power and control in unsettling ways. It’s slow at times, but the world-building is strong. There’s a constant sense of unease."
+  },
+  {
+    "title": "Margin Call",
+    "year": 2011,
+    "genres": ["Drama", "Thriller"],
+    "rating": "great",
+    "poster": "margincall.jpeg",
+    "series": null,
+    "summary": "A quiet, almost clinical dissection of a financial system on the brink, where the real tension comes not from action, but from decisions made in sterile rooms with massive consequences. The film doesn’t try to over-explain itself, instead trusting the weight of what’s happening—and the people navigating it—to carry the story. There’s something deeply unsettling in how calm it all feels."
+  },
+  {
+    "title": "The Martian",
+    "year": 2015,
+    "genres": ["Drama", "Sci-Fi"],
+    "rating": "great",
+    "poster": "themartian.jpeg",
+    "series": null,
+    "summary": "The Martian is an absolutely tremendous film. It’s thrilling and delightful and comedic and emotional, all at the right moments when it needs to be. Matt Damon delivers a stunning performance worthy of acclaim. Rewatch after rewatch, it’s a thrill through and through."
+  },
+    {
+    "title": "Captain America: The First Avenger",
+    "year": 2011,
+    "genres": ["Marvel", "Sci-Fi", "Thriller"],
+    "rating": "great",
+    "poster": "captainamericathefirstavenger.jpeg",
+    "series": "MCU",
+    "releaseOrder": 5,
+    "chronologicalOrder": 1,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Captain Marvel",
+    "year": 2019,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "captainmarvel.jpeg",
+    "series": "MCU",
+    "releaseOrder": 21,
+    "chronologicalOrder": 2,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Iron Man",
+    "year": 2008,
+    "genres": ["Thriller", "Sci-Fi", "Marvel"],
+    "rating": "good",
+    "poster": "ironman.jpeg",
+    "series": "MCU",
+    "releaseOrder": 1,
+    "chronologicalOrder": 3,
+    "summary": "The one that started it all—Iron Man strikes a chord of nostalgia for a lot of people, and while some of it may be more of a feeling of the times rather than the quality of the film, the movie itself still offers good laughs and a warm sense of homecoming. As the film that officially kicked off the MCU, it’s considered essential and impervious to criticism, at least online."
+  },
+  {
+    "title": "The Incredible Hulk",
+    "year": 2008,
+    "genres": ["Thriller", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "theincrediblehulk.jpeg",
+    "series": "MCU",
+    "releaseOrder": 2,
+    "chronologicalOrder": 4,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Iron Man 2",
+    "year": 2010,
+    "genres": ["Action", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "ironman2.jpeg",
+    "series": "MCU",
+    "releaseOrder": 3,
+    "chronologicalOrder": 5,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Thor",
+    "year": 2011,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "thor.jpeg",
+    "series": "MCU",
+    "releaseOrder": 4,
+    "chronologicalOrder": 6,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "The Avengers",
+    "year": 2012,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "theavengers.jpeg",
+    "series": "MCU",
+    "releaseOrder": 6,
+    "chronologicalOrder": 7,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Iron Man 3",
+    "year": 2013,
+    "genres": ["Action", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "ironman3.jpeg",
+    "series": "MCU",
+    "releaseOrder": 7,
+    "chronologicalOrder": 8,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Thor: The Dark World",
+    "year": 2013,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "thorthedarkworld.jpeg",
+    "series": "MCU",
+    "releaseOrder": 8,
+    "chronologicalOrder": 9,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "genres": ["Thriller", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "captainamericathewintersoldier.jpeg",
+    "series": "MCU",
+    "releaseOrder": 9,
+    "chronologicalOrder": 10,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "guardiansofthegalaxy.jpeg",
+    "series": "MCU",
+    "releaseOrder": 10,
+    "chronologicalOrder": 11,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "guardiansofthegalaxyvol2.jpeg",
+    "series": "MCU",
+    "releaseOrder": 15,
+    "chronologicalOrder": 12,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "year": 2015,
+    "genres": ["Action", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "avengersageofultron.jpeg",
+    "series": "MCU",
+    "releaseOrder": 11,
+    "chronologicalOrder": 13,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Ant-Man",
+    "year": 2015,
+    "genres": ["Thriller", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "antman.jpeg",
+    "series": "MCU",
+    "releaseOrder": 12,
+    "chronologicalOrder": 14,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "genres": ["Thriller", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "captainamericacivilwar.jpeg",
+    "series": "MCU",
+    "releaseOrder": 13,
+    "chronologicalOrder": 15,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Black Widow",
+    "year": 2021,
+    "genres": ["Thriller", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "blackwidow.jpeg",
+    "series": "MCU",
+    "releaseOrder": 26,
+    "chronologicalOrder": 16,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "year": 2017,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "spidermanhomecoming.jpeg",
+    "series": "MCU",
+    "releaseOrder": 16,
+    "chronologicalOrder": 17,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Doctor Strange",
+    "year": 2016,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "doctorstrange.jpeg",
+    "series": "MCU",
+    "releaseOrder": 14,
+    "chronologicalOrder": 18,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Black Panther",
+    "year": 2018,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "blackpanther.jpeg",
+    "series": "MCU",
+    "releaseOrder": 18,
+    "chronologicalOrder": 19,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "year": 2017,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "thorragnarok.jpeg",
+    "series": "MCU",
+    "releaseOrder": 17,
+    "chronologicalOrder": 20,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "avengersinfinitywar.jpeg",
+    "series": "MCU",
+    "releaseOrder": 19,
+    "chronologicalOrder": 21,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Ant-Man and the Wasp",
+    "year": 2018,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "antmanandthewasp.jpeg",
+    "series": "MCU",
+    "releaseOrder": 20,
+    "chronologicalOrder": 22,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "avengersendgame.jpeg",
+    "series": "MCU",
+    "releaseOrder": 22,
+    "chronologicalOrder": 23,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Loki",
+    "year": 2021,
+    "genres": ["TV Show", "Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "loki.jpeg",
+    "series": "MCU",
+    "releaseOrder": 22,
+    "chronologicalOrder": 24,
+    "summary": "A stellar start to a new adventure; thematically, this should have been the first entry into the new phase, with the multiverse being the central theme to it all. Regardless, it’s well worth the watch, and offers a fresh breath of air for a character that has otherwise seemed to find a conclusion to his arc."
+  },
+    {
+    "title": "What If...?",
+    "year": 2021,
+    "genres": ["TV Show", "Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "whatif.jpeg",
+    "series": "MCU",
+    "releaseOrder": 27,
+    "chronologicalOrder": 25,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "WandaVision",
+    "year": 2021,
+    "genres": ["TV Show", "Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "wandavision.jpeg",
+    "series": "MCU",
+    "releaseOrder": 24,
+    "chronologicalOrder": 26,
+    "summary": "Steady and curious, WandaVision is perhaps the most unique thing to come to the MCU since its inception. While it certainly kept viewers on their toes and stoked rampant speculation, it seemed to pay off on the leads just as efficiently as it introduced them, and that’s a great thing."
+  },
+  {
+    "title": "Deadpool & Wolverine",
+    "year": 2024,
+    "genres": ["Action", "Comedy"],
+    "rating": "good",
+    "poster": "deadpoolandwolverine.jpeg",
+    "series": "MCU",
+    "releaseOrder": 34,
+    "chronologicalOrder": 27,
+    "summary": "If vulgarity, gore, and complete bullshit and rowdiness are your vibe, you’re going to love this movie. It draws upon the same stupid magic of the first two Deadpool movies and gives you exactly what it is you wanted. If it’s not your bag, it won’t hit the right notes, but for all of us degenerates it’s a wild time."
+  },
+  {
+    "title": "Eternals",
+    "year": 2021,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "negative",
+    "poster": "eternals.jpeg",
+    "series": "MCU",
+    "releaseOrder": 29,
+    "chronologicalOrder": 28,
+    "summary": "Just exhausting and dull. So much potential, but for a two and a half hour movie, it still never found its direction or footing. A very big let down, albeit one with stunning visuals."
+  },
+  {
+    "title": "Falcon & the Winter Soldier",
+    "year": 2021,
+    "genres": ["TV Show", "Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "falconandthewintersoldier.jpeg",
+    "series": "MCU",
+    "releaseOrder": 25,
+    "chronologicalOrder": 29,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "shangchiandthelegendofthetenrings.jpeg",
+    "series": "MCU",
+    "releaseOrder": 28,
+    "chronologicalOrder": 30,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Spider-Man: Far From Home",
+    "year": 2019,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "spidermanfarfromhome.jpeg",
+    "series": "MCU",
+    "releaseOrder": 23,
+    "chronologicalOrder": 31,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "spidermannowayhome.jpeg",
+    "series": "MCU",
+    "releaseOrder": 31,
+    "chronologicalOrder": 32,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "year": 2022,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "doctorstrangeinthemultiverseofmadness.jpeg",
+    "series": "MCU",
+    "releaseOrder": 33,
+    "chronologicalOrder": 33,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Hawkeye",
+    "year": 2021,
+    "genres": ["TV Show", "Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "hawkeye.jpeg",
+    "series": "MCU",
+    "releaseOrder": 30,
+    "chronologicalOrder": 34,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Moon Knight",
+    "year": 2022,
+    "genres": ["TV Show", "Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "moonknight.jpeg",
+    "series": "MCU",
+    "releaseOrder": 32,
+    "chronologicalOrder": 35,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Black Panther: Wakanda Forever",
+    "year": 2022,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "blackpantherwakandaforever.jpeg",
+    "series": "MCU",
+    "releaseOrder": 38,
+    "chronologicalOrder": 36,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Echo",
+    "year": 2024,
+    "genres": ["TV Show", "Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "echo.jpeg",
+    "series": "MCU",
+    "releaseOrder": 43,
+    "chronologicalOrder": 37,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "She-Hulk",
+    "year": 2022,
+    "genres": ["TV Show", "Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "shehulk.jpeg",
+    "series": "MCU",
+    "releaseOrder": 36,
+    "chronologicalOrder": 38,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Ms. Marvel",
+    "year": 2022,
+    "genres": ["TV Show", "Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "msmarvel.jpeg",
+    "series": "MCU",
+    "releaseOrder": 34,
+    "chronologicalOrder": 39,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Thor: Love and Thunder",
+    "year": 2022,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "thorloveandthunder.jpeg",
+    "series": "MCU",
+    "releaseOrder": 35,
+    "chronologicalOrder": 40,
+    "summary": "Soon to be added."
+  },
+    {
+    "title": "Werewolf by Night",
+    "year": 2022,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "good",
+    "poster": "werewolfbynight.jpeg",
+    "series": "MCU",
+    "releaseOrder": 37,
+    "chronologicalOrder": 41,
+    "summary": "Not a terrible adventure to embark upon, especially if one has a taste for the classics of Hollywood. While certainly a product of modern cinema, the film plays well into classic tropes with strong beats of movement and action, though the plot is without any significant twists, and has many choices which feel like very safe moves."
+  },
+  {
+    "title": "Guardians of the Galaxy: Holiday Special",
+    "year": 2022,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "guardiansofthegalaxyholidayspecial.jpeg",
+    "series": "MCU",
+    "releaseOrder": 39,
+    "chronologicalOrder": 42,
+    "summary": "Soon to be added."
+  },
+    {
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "year": 2023,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "negative",
+    "poster": "antmanandthewaspquantumania.jpeg",
+    "series": "MCU",
+    "releaseOrder": 40,
+    "chronologicalOrder": 43,
+    "summary": "A disappointing entry into the MCU, Ant-Man falls flat where once it held its own. What is meant to be a grand venture into the multiverse itself, Ant-Man is a drawn out, winding story with beats that don’t land and many moments that just didn’t click. It has the big bang the MCU is known for, but it’s far from being worthy."
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "year": 2023,
+    "genres": ["Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "meh",
+    "poster": "guardiansofthegalaxyvol3.jpeg",
+    "series": "MCU",
+    "releaseOrder": 41,
+    "chronologicalOrder": 44,
+    "summary": "Surprisingly the weakest film in the GoTG Trilogy from James Gunn, this film felt as if there was too much packed in and not enough time spent on each of the various threads. It’s clear what the intention was, and some of the heart is definitely there, but overall the film fell flat and failed to deliver on the comedic punches that the prior two had in such spades."
+  },
+  {
+    "title": "Secret Invasion",
+    "year": 2023,
+    "genres": ["TV Show", "Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "negative",
+    "poster": "secretinvasion.jpeg",
+    "series": "MCU",
+    "releaseOrder": 42,
+    "chronologicalOrder": 45,
+    "summary": "Thoroughly disappointing; little more to say."
+  },
+  {
+    "title": "The Marvels",
+    "year": 2023,
+    "genres": ["Action", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "themarvels.jpeg",
+    "series": "MCU",
+    "releaseOrder": 43,
+    "chronologicalOrder": 46,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Agatha: Coven of Chaos",
+    "year": 2024,
+    "genres": ["TV Show", "Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "agathacovenofchaos.jpeg",
+    "series": "MCU",
+    "releaseOrder": 45,
+    "chronologicalOrder": 47,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Captain America: New World Order",
+    "year": 2025,
+    "genres": ["Action", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "captainamericanewworldorder.jpeg",
+    "series": "MCU",
+    "releaseOrder": 36,
+    "chronologicalOrder": 48,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "Daredevil: Born Again",
+    "year": 2025,
+    "genres": ["TV Show", "Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "daredevilbornagain.jpeg",
+    "series": "MCU",
+    "releaseOrder": 47,
+    "chronologicalOrder": 49,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "X-Men 97",
+    "year": 2024,
+    "genres": ["TV Show", "Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "xmen97.jpeg",
+    "series": "MCU",
+    "releaseOrder": 48,
+    "chronologicalOrder": 50,
+    "summary": "Soon to be added."
+  },  
+  {
+    "title": "Thunderbolts*: “The New Avengers”",
+    "year": 2025,
+    "genres": ["Action", "Sci-Fi", "Marvel"],
+    "rating": "good",
+    "poster": "thunderbolts.jpeg",
+    "series": "MCU",
+    "releaseOrder": 49,
+    "chronologicalOrder": 51,
+    "summary": "A fun new chapter that lands on steady feet in comparison to the other entries into the 4th and 5th phases of the MCU. In this, we’re not bound to the past, but rather building forwards for a new set of arcs."
+  },
+    {
+    "title": "Ironheart",
+    "year": 2025,
+    "genres": ["TV Show", "Fantasy", "Sci-Fi", "Marvel"],
+    "rating": "great",
+    "poster": "ironheart.jpeg",
+    "series": "MCU",
+    "releaseOrder": 50,
+    "chronologicalOrder": 52,
+    "summary": "Soon to be added."
+  },
+  {
+    "title": "The Fantastic Four: First Steps",
+    "year": 2025,
+    "genres": ["Action", "Sci-Fi", "Marvel"],
+    "rating": "good",
+    "poster": "fantasticfourfirststeps.jpeg",
+    "series": "MCU",
+    "releaseOrder": 51,
+    "chronologicalOrder": 53,
+    "summary": "A decent enough ride with a surprisingly short run time; it meets expectations, but doesn’t offer the same thrills and excitement as prior entries in the franchise."
+  },
+  {
+    "title": "The Mask of Zorro",
+    "year": 1998,
+    "genres": ["Adventure", "Western"],
+    "rating": "great",
+    "poster": "themaskofzorro.jpeg",
+    "series": null,
+    "summary": "A joy. A thrill. A delightful adventure full of the tension and romance and heroics and revenge that makes any story a genuine pleasure. Antonio Banderas and Catherine Zeta-Jones charm and seduce the audience, and everything falls into place beside that."
+  },
+  {
+    "title": "Master and Commander: The Far Side of the World",
+    "year": 2003,
+    "genres": ["Adventure", "War"],
+    "rating": "great",
+    "poster": "masterandcommanderthefarsideoftheworld.jpeg",
+    "series": null,
+    "summary": "The film is stunning, fantastic, and a tremendous thrill to watch, even if it has a slower pace than what might be expected. It draws heavily on source material from the books, but by picking and choosing which elements are carried over, the film sails on to greater heights. An absolute must watch."
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "great",
+    "poster": "thematrix.jpeg",
+    "series": "The Matrix",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "Something wild, deep, and tremendously entertaining–The Matrix kicks off a stellar trilogy in which the audience is forced to contend with the question: are we truly in control of our own lives? It’s a question worth asking, and one that the film delves into with a brilliant twist of science fiction and philosophy, coupled with fast paced action that established the film as an instant classic."
+  },
+  {
+    "title": "The Matrix: Reloaded",
+    "year": 2003,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "matrixreloaded.jpeg",
+    "series": "The Matrix",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "A strong addition to the story, Reloaded takes us deeper down the rabbit hole in pursuit of Alice, and the truth. The cast gets larger, the stakes are higher, and the action is still top notch, even if it does appear somewhat dated by today’s standards. An all around solid choice to watch."
+  },
+  {
+    "title": "Matrix: Revolutions",
+    "year": 2003,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "matrixrevolutions.jpeg",
+    "series": "The Matrix",
+    "releaseOrder": 3,
+    "chronologicalOrder": 3,
+    "summary": "A fitting conclusion to a stellar adventure, The Matrix: Revolutions ties things off in a way that many might not expect, and in ways some disagreed with, but all the same it was something which generated considerable discourse, and is worthy of its bookend status."
+  },
+  {
+    "title": "The Matrix Resurrections",
+    "year": 2021,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "meh",
+    "poster": "thematrixresurrections.jpeg",
+    "series": "The Matrix",
+    "releaseOrder": 4,
+    "chronologicalOrder": 4,
+    "summary": "The Matrix Resurrections is a film that didn’t need to be made, but touches on the elements one would expect, and perhaps even want in an unneeded sequel/reboot. It’s tongue and cheek about its own existence, but much like the Sequel Trilogy of Star Wars, there was a fitting conclusion and it wasn’t necessary to reopen the box."
+  },
+  {
+    "title": "The Maze Runner",
+    "year": 2014,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "themazerunner.jpeg",
+    "series": "The Maze Runner",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A decent enough adaptation, albeit one that had a lot of power behind its fan base. As a narrative, it poses really interesting questions, and the allusions to, and influence of Lord of the Flies is readily apparent. A new take on the story for a new age, but with some interesting twists."
+  },
+  {
+    "title": "The Maze Runner: The Scorch Trials",
+    "year": 2015,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "mazerunnerthescorchtrials.jpeg",
+    "series": "The Maze Runner",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "A solid enough follow up to a decent enough adaptation. This one leaves off on a cliffhanger fitting of the genre, and the lead up to it certainly doesn’t slow down. Some moments and beats are cliched as is typical of the genre but it’s not terrible by any means."
+  },
+  {
+    "title": "Midnight Mass",
+    "year": 2021,
+    "genres": ["TV Show", "Drama", "Horror"],
+    "rating": "great",
+    "poster": "midnightmass.jpeg",
+    "series": null,
+    "summary": "One of Mike Flanagan’s works, Midnight Mass could arguably be one of his best, though for the depth of character exploration that catapults the story into a bizarre plunge towards terror rather than the jumpscares and unsettling themes that are a hallmark of his other works."
+  },
+  {
+    "title": "The Midnight Sky",
+    "year": 2020,
+    "genres": ["Sci-Fi", "Thriller"],
+    "rating": "meh",
+    "poster": "themidnightsky.jpeg",
+    "series": null,
+    "summary": "A decent enough film, its main issue is that it suffers from a predictable conclusion that might otherwise have been well worth the watch. There’s good chemistry amongst the cast at the very least, and the design work on the production is solid. The plot just needs some improvement."
+  },
+  {
+    "title": "Midway",
+    "year": "2019",
+    "genres": ["Action", "War", "WWII"],
+    "rating": "negative",
+    "poster": "midway.jpeg",
+    "series": null,
+    "summary": "Crap. Don’t watch."
+  },
+  {
+    "title": "Mindhunter",
+    "year": 2017,
+    "genres": ["TV Show", "Crime", "Drama", "Thriller"],
+    "rating": "great",
+    "poster": "mindhunter.jpeg",
+    "series": null,
+    "summary": "A slow, deliberate dive into the psychology of violence. It’s less about action and more about understanding, which makes it all the more unsettling. Quietly one of the more gripping series out there."
+  },
+  {
+    "title": "Mission: Impossible - Dead Reckoning",
+    "year": 2023,
+    "genres": ["Action", "Spy"],
+    "rating": "great",
+    "poster": "missionimpossibledeadreckoningpartone.jpeg",
+    "series": "Mission: Impossible",
+    "releaseOrder": 7,
+    "chronologicalOrder": 7,
+    "summary": "A riveting thriller; something so heart thumping and stimulating that the time flies when watching. The stunts, many being so highly publicized before the release, pay off in full with the knowledge that they’re real, that they’re the genuine thing. The actors pull their weight and throw down hard, leaving satisfaction to be the key word when it's all said and done."
+  },
+  {
+    "title": "Molly’s Game",
+    "year": 2017,
+    "genres": ["Crime", "Drama"],
+    "rating": "good",
+    "poster": "mollysgame.jpeg",
+    "series": null,
+    "summary": "A solid flick with a great vibe and a witty attitude that owns its identity. This is a film with roles perfectly written for the actors, and it stands out as a memorable watch."
+  },
+  {
+    "title": "Godzilla",
+    "year": 2014,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "godzilla.jpeg",
+    "series": "MonsterVerse",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "It’s a modern take on a classic that probably didn’t need to be made, but as far as blockbusters go - it’s entertaining. The big twist with this take on Godzilla is the hyper focus on American everything, and trying to build a tremendously oversized narrative for what ought to be a fairly simple monster movie."
+  },
+  {
+    "title": "Kong: Skull Island",
+    "year": 2017,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "negative",
+    "poster": "kongskullisland.jpeg",
+    "series": "MonsterVerse",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "With only the second installment in the franchise - the concept is already growing stale. Solid writing takes a backseat in favor of the next wild and bizarre scenario that can be dreamed up, and all of it is terribly inconsistent and unnecessary."
+  },
+  {
+    "title": "Godzilla: King of the Monsters",
+    "year": 2019,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "negative",
+    "poster": "godzillakingofthemonsters.jpeg",
+    "series": "MonsterVerse",
+    "releaseOrder": 3,
+    "chronologicalOrder": 3,
+    "summary": "The trend continues with things in this franchise just getting worse and worse; the desperate push for blockbuster status on bizarre concepts that just don’t make sense, and are held together with duct tape and gum, is exhausting."
+  },
+  {
+    "title": "Godzilla vs. Kong",
+    "year": 2021,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "negative",
+    "poster": "godzillavskong.jpeg",
+    "series": "MonsterVerse",
+    "releaseOrder": 4,
+    "chronologicalOrder": 4,
+    "summary": "A huge shock to no one - things continue to get worse for this franchise. A cool concept made low and shallow by the need for needlessly overpowering cgi fights that seem anything but grounded."
+  },
+  {
+    "title": "Moonfall",
+    "year": 2022,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "meh",
+    "poster": "moonfall.jpeg",
+    "series": null,
+    "summary": "This really didn’t need to be made at all. It’s mindless and high gloss, but it’s there, and at least you won’t be bored by the fast pace."
+  },
+  {
+    "title": "Mrs. Doubtfire",
+    "year": 1993,
+    "genres": ["Comedy"],
+    "rating": "great",
+    "poster": "mrsdoubtfire.jpeg",
+    "series": null,
+    "summary": "Simply the greatest. Robin Williams is at his finest, and plays masterfully to his greatest talents. Mrs. Doubtfire is a joy and a thrill to watch again and again and again."
+  },
+  {
+    "title": "The Mummy",
+    "year": 1999,
+    "genres": ["Action", "Adventure"],
+    "rating": "great",
+    "poster": "themummy.jpeg",
+    "series": null,
+    "summary": "While not a classic in the way Casablanca might be, The Mummy is a tremendous piece of the 90s that can’t be forgotten or set aside when considering some of the greatest films. It’s campy and hysterical and tense in all the right ways, delivering a masterful blend that is worthy of the film’s enduring reputation."
+  },
+  {
+    "title": "Mickey 17",
+    "year": 2025,
+    "genres": ["Sci-Fi", "Drama"],
+    "rating": "great",
+    "poster": "mickey17.jpeg",
+    "series": null,
+    "summary": "Wacky, but a total thrill, it's got both the heart and the weirdness to keep you glued and chomping at the bit to find out what the hell could possibly happen next. "
+  },
+  {
+    "title": "My Cousin Vinny",
+    "year": 1992,
+    "genres": ["Comedy", "Mystery"],
+    "rating": "great",
+    "poster": "mycousinvinny.jpeg",
+    "series": null,
+    "summary": "A genuine classic and a thrill to watch, My Cousin Vinny has something of a cult following, and rightly so–it’s a bit crass and bizarre, but wholly entertaining. This is a bright notch on Joe Pesci’s belt, and it deserves to be watched over and over again."
+  },
+  {
+    "title": "Napoleon",
+    "year": 2023,
+    "genres": ["Action", "War"],
+    "rating": "good",
+    "poster": "napoleon.jpeg",
+    "series": null,
+    "summary": "While grand in scope and breadth, the film's ambition is also its weakness. The story would have benefited from a smaller scope, a tighter focus on one of the major aspects it tried to tie together. The battles are soaring, the drama is intense, and the history is deep, but all three are left lacking given that none received their deserving focus."
+  },
+  {
+    "title": "The Nice Guys",
+    "year": 2016,
+    "genres": ["Action", "Comedy"],
+    "rating": "great",
+    "poster": "theniceguys.jpeg",
+    "series": null,
+    "summary": "Quite possibly one of the best action comedies of its decade, The Nice Guys punches in all the right ways and leaves its audience well fulfilled, having enjoyed a thrilling mystery, well delivered humor, and lovable characters that make you want more."
+  },
+  {
+    "title": "No Hard Feelings",
+    "year": 2023,
+    "genres": ["Comedy", "Romance"],
+    "rating": "good",
+    "poster": "nohardfeelings.jpeg",
+    "series": null,
+    "summary": "Funny enough to get a passing grade, it’s a weird sort of movie that will raise plenty of eyebrows, but also provide a decent enough measure of good laughter. Not outstanding, but a passable choice for a comedy night."
+  },
+  {
+    "title": "Nosferatu",
+    "year": 2024,
+    "genres": ["Drama", "Horror"],
+    "rating": "great",
+    "poster": "nosferatu.jpeg",
+    "series": null,
+    "summary": "Exactly what it was meant to be, this take on Nosferatu is a stunning epic that is sure to haunt and stalk you into the days that follow. A great choice for any night that needs a bit of horror."
+  },
+  {
+    "title": "Nosferatu: A Symphony of Horror",
+    "year": 1922,
+    "genres": ["Fantasy", "Horror"],
+    "rating": "good",
+    "poster": "nosferatuasymphonyofhorror.jpeg",
+    "series": null,
+    "summary": "While certainly quite something for its time, as a silent film viewed in the modern day, it doesn’t do much to draw thrills from me—that isn’t any critique of the film itself, to be clear, but rather personal taste. Objectively, it is an iconic and historic film that served as the catalyst unlike any other for a genre of film that still reigns today."
+  },
+  {
+    "title": "Nuremberg",
+    "year": 2000,
+    "genres": ["Drama", "War", "WWII"],
+    "rating": "great",
+    "poster": "nuremberg.jpeg",
+    "series": null,
+    "summary": "A sobering look at justice in the aftermath of unimaginable atrocity. It’s heavy, deliberate, and not always easy to watch, but it’s important. The weight of history is felt throughout."
+  },
+  {
+    "title": "Ocean’s Eleven",
+    "year": 2001,
+    "genres": ["Action", "Crime", "Heist"],
+    "rating": "great",
+    "poster": "oceanseleven.jpeg",
+    "series": "Ocean’s",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A classic full of thrills, Ocean’s Eleven starts off a tremendous franchise of punchy, comedic heists that throw curveballs where they’re needed, and also least expected. The cast masterfully create an immersive and compelling world in which things spiral, but for every misstep there’s still a plan within a plan to be unraveled right before your eyes."
+  },
+  {
+    "title": "Ocean’s Twelve",
+    "year": 2004,
+    "genres": ["Action", "Crime", "Heist"],
+    "rating": "good",
+    "poster": "oceanstwelve.jpeg",
+    "series": "Ocean’s",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "A strong follow up to Ocean’s Eleven, this one has fun twists and some great chemistry, but focuses much less on the ensemble component in favor of really fleshing out one or two narratives."
+  },
+  {
+    "title": "The Old Guard",
+    "year": 2020,
+    "genres": ["Action", "Fantasy"],
+    "rating": "great",
+    "poster": "theoldguard.jpeg",
+    "series": "The Old Guard",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A tremendously exciting concept, with fantastic actors, wild writing, and deep, meaningful connections that really sell the concept of immortal warriors. There’s little to criticize about this film, but there’s plenty of room to hope for more in the form of sequels and spin-offs; this is a story that can go in endless directions."
+  },
+  {
+    "title": "The Old Guard 2",
+    "year": 2025,
+    "genres": ["Action", "Fantasy"],
+    "rating": "negative",
+    "poster": "theoldguard2.jpeg",
+    "series": "The Old Guard",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "Just pretty damn awful, through and through. They had such a high bar to clear, to be fair, but the creators of this just bit off more than they could chew."
+  },
+  {
+    "title": "Once Upon a Time in Hollywood",
+    "year": 2019,
+    "genres": ["Comedy", "Drama"],
+    "rating": "great",
+    "poster": "onceuponatimeinhollywood.jpeg",
+    "series": null,
+    "summary": "There’s so much to love about this movie—everything from its quick and witty dialogue to the absurdity of the premise and the explosive finish. Tarantino once again strikes gold with a love letter to film, and all the people that make it breathe."
+  },
+  {
+    "title": "Oppenheimer",
+    "year": 2023,
+    "genres": ["Drama", "War", "WWII"],
+    "rating": "meh",
+    "poster": "oppenheimer.jpeg",
+    "series": null,
+    "summary": "A drawback to the modern day film experience is the insane amount of attention and money poured into marketing and advertising, something which, in the case of Oppenheimer, does little to the benefit of the film as a result of it being overhyped and under-delivering. While Nolan’s latest film is certainly spectacular and grand in its scope and ambition, it struggles to pull things together in a way that doesn’t drag on and on. There are many different threads being pulled upon, and each one is disadvantaged by needing to make room for the others."
+  },
+  {
+    "title": "The Others",
+    "year": 2001,
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "rating": "great",
+    "poster": "theothers.jpeg",
+    "series": null,
+    "summary": "A slow-burning ghost story built entirely on atmosphere and restraint. It’s patient, deliberate, and ultimately rewarding. Less about scares, more about dread."
+  },
+  {
+    "title": "Overlord",
+    "year": 2018,
+    "genres": ["Horror", "War", "WWII"],
+    "rating": "good",
+    "poster": "overlord.jpeg",
+    "series": null,
+    "summary": "A wild blend of genres that somehow manages to hold together. It leans into its chaos with confidence, delivering both tension and outright horror. Not subtle, but very effective."
+  },
+  {
+    "title": "The Pacific",
+    "year": 2010,
+    "genres": ["TV Show", "Action", "Drama", "War", "WWII"],
+    "rating": "great",
+    "poster": "thepacific.jpeg",
+    "series": null,
+    "summary": "Companion to the outstanding Band of Brothers series—which focused on the European theater of WWII—The Pacific is perhaps all the more heart wrenching for its boldness to explore not just the human side of conflict, but the inhuman depths of terror that war brings out. Visceral imagery, compelling depictions, and an all around outstanding production bring this much needed view into the conflict to life."
+  },
+  {
+    "title": "Pacific Rim",
+    "year": 2013,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "pacificrim.jpeg",
+    "series": "Pacific Rim",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "Pacific Rim is a weird sort of staple; it’s one of those high-gloss and fast paced stories that isn’t all too deep, and more just about the epic battles. But something about Pacific Rim has staying power, and hits a soft spot that can’t easily be explained. It’s well worth the watch."
+  },
+  {
+    "title": "Panic Room",
+    "year": 2002,
+    "genres": ["Thriller"],
+    "rating": "great",
+    "poster": "panicroom.jpeg",
+    "series": null,
+    "summary": "There’s a curious energy to this film that is hard to anticipate; there’s both thrill and suspense, and also depth of heart that resonates. It’s a unique concept, to enclose characters in such a confined space and to design ways to keep them in, or out. This is a standout film worthy of rewatching."
+  },
+  {
+    "title": "Paranormal Activity",
+    "year": 2007,
+    "genres": ["Horror", "Supernatural", "Thriller"],
+    "rating": "good",
+    "poster": "paranormalactivity.jpeg",
+    "series": "Paranormal Activity",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "This film was great for its time, and for the reason alone that it felt new and bold. There’s little about it rewatch that makes it stand out aside from nostalgia."
+  },
+  {
+    "title": "Pearl Harbor",
+    "year": 2001,
+    "genres": ["Action", "War", "WWII"],
+    "rating": "good",
+    "poster": "pearlharbor.jpeg",
+    "series": null,
+    "summary": "Pearl Harbor certainly does its own thing, regardless of the accuracy, but it stands out as a film for the dramatic punch it throws and the draw of famous faces. There are some great scenes, some ridiculous ones, but overall it’s a film that knows what it is and doesn’t try to be something else."
+  },
+  {
+    "title": "The Perfect Storm",
+    "year": 2000,
+    "genres": ["Drama", "Thriller"],
+    "rating": "good",
+    "poster": "theperfectstorm.jpeg",
+    "series": null,
+    "summary": "A somber, grounded look at nature’s indifference. It builds steadily rather than explosively. There’s a quiet inevitability to it."
+  },
+  {
+    "title": "Predator",
+    "year": 1987,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "great",
+    "poster": "predator.jpeg",
+    "series": "Predator",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A joy to jump back to; it’s campy and dramatic and ridiculous and it doesn’t take itself too seriously. For a pulpy sci-fi action flick, this is a good candidate for any watch list."
+  },
+  {
+    "title": "Predator 2",
+    "year": 1990,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "predator2.jpeg",
+    "series": "Predator",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "Oh man. Choices were made here; very interesting choices. Take that how you will. Predator 2 goes bombastic and absurd where the original film went with experimental thrills. By Predator 2, you know the alien, you know what it’s capable of, and that leaves the audience to focus on the how of the plot’s resolution, rather than waiting to be surprised by what the alien itself is."
+  },
+  {
+    "title": "Predators",
+    "year": 2010,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "great",
+    "poster": "predators.jpeg",
+    "series": "Predator",
+    "releaseOrder": 5,
+    "chronologicalOrder": 5,
+    "summary": "A wickedly fun time. A great twist on the franchise, and a really awesome way to revive it after the choices which turned Predator 2 and the AVP films into a bit of a drag."
+  },
+  {
+    "title": "The Predator",
+    "year": 2018,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "thepredator.jpeg",
+    "series": "Predator",
+    "releaseOrder": 6,
+    "chronologicalOrder": 6,
+    "summary": "Highly problematic in some areas, but otherwise a rip roaring good time; it’s got the right punch for humor and violence, with some interesting twists, great effects and action, and a generally very likeable cast which is well picked for the roles they were given. Solid film all around."
+  },
+  {
+    "title": "Prey",
+    "year": 2022,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "great",
+    "poster": "prey.jpeg",
+    "series": "Predator",
+    "releaseOrder": 7,
+    "chronologicalOrder": 7,
+    "summary": "An absolute thrill through and through. Prey sticks with what works so well about this franchise, but takes it to whole new levels that you can’t help but get pumped for. This is a clever and deeply satisfying watch."
+  },
+  {
+    "title": "Project Hail Mary",
+    "year": 2026,
+    "genres": ["Adventure", "Sci-Fi"],
+    "rating": "great",
+    "poster": "projecthailmary.jpeg",
+    "series": null,
+    "summary": "A genuinely thrilling feel good film that has both some creative twists, and also a deep heart to it. Ryan Gosling is outstanding, especially when one takes into account that it’s just him for much of the film. Definitely worth a watch."
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genres": ["Crime", "Drama"],
+    "rating": "great",
+    "poster": "pulpfiction.jpeg",
+    "series": null,
+    "summary": "A defining film that reshaped how stories could be told. Its structure, dialogue, and style are all unmistakable, even decades later. It’s chaotic, but deliberately so."
+  },
+  {
+    "title": "The Purge",
+    "year": 2013,
+    "genres": ["Action", "Horror", "Thriller"],
+    "rating": "good",
+    "poster": "thepurge.jpeg",
+    "series": "The Purge",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "For the start of a franchise, it does a fairly strong job of setting up the expectations: chaos, terror, and hubris being the folly of man. Those who think they’re safe behind their walls rarely are, and when reality comes crashing in, it sets up the stakes quite clearly. Some beats of this film are shaky at best, but overall it does a great job of establishing itself in a crowded market."
+  },
+  {
+    "title": "The Purge: Anarchy",
+    "year": 2014,
+    "genres": ["Action", "Horror", "Thriller"],
+    "rating": "meh",
+    "poster": "thepurgeanarchy.jpeg",
+    "series": "The Purge",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "Predictable violence, shallow plot, but exactly what you want if you’re watching a sequel in this franchise."
+  },
+  {
+    "title": "The First Purge",
+    "year": 2018,
+    "genres": ["Action", "Horror", "Thriller"],
+    "rating": "good",
+    "poster": "thefirstpurge.jpeg",
+    "series": "The Purge",
+    "releaseOrder": 4,
+    "chronologicalOrder": 4,
+    "summary": "A fairly safe choice of a film that, while somewhat hamfisted in its messaging about the persecution and societal disdain towards lower class minority communities, still provides for a decent enough night of entertainment. As one should expect with the Purge series, there’s lots of violence, action, and thrills."
+  },
+  {
+    "title": "Purple Hearts",
+    "year": 2022,
+    "genres": ["Drama", "Romance"],
+    "rating": "meh",
+    "poster": "purplehearts.jpeg",
+    "series": null,
+    "summary": "Pretty average. Acting isn’t great, plot is pretty jumbled, but if it’s on in the background a few scenes might be worth the time."
+  },
+  {
+    "title": "A Quiet Place",
+    "year": 2020,
+    "genres": ["Horror", "Thriller"],
+    "rating": "great",
+    "poster": "aquietplace.jpeg",
+    "series": "A Quiet Place",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A unique and exciting take on horror and thrill; it asks a question that few movies in this genre will—what if the characters actually tried to do things right? Seeing characters struggle to live by a golden rule when everything around them tempts them to break it makes for an incredibly engaging experience."
+  },
+  {
+    "title": "A Quiet Place Part II",
+    "year": 2021,
+    "genres": ["Horror", "Thriller"],
+    "rating": "great",
+    "poster": "aquietplacepart2.jpeg",
+    "series": "A Quiet Place",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "A very strong follow up to A Quiet Place, it takes things a step further and delivers on giving the viewer more of what made the first movie so good. It finds new ways to expand the concept without feeling stale."
+  },
+  {
+    "title": "A Quiet Place: Day One",
+    "year": null,
+    "genres": ["Horror", "Thriller"],
+    "rating": "great",
+    "poster": "aquietplacedayone.jpeg",
+    "series": "A Quiet Place",
+    "releaseOrder": 3,
+    "chronologicalOrder": 3,
+    "summary": "A stunningly well paced and executed vision for the story of what came first. You’d expect nonstop violence, but Day One has genuine heart and thrills in equal measure, making it a strong entry in the series."
+  },
+  {
+    "title": "Rat Race",
+    "year": 2001,
+    "genres": ["Action", "Comedy"],
+    "rating": "great",
+    "poster": "ratrace.jpeg",
+    "series": null,
+    "summary": "This is the single greatest movie of all time, deserving of sixteen Oscars and also a Tony. You can’t go wrong with Rat Race; it’s perfect for every occasion."
+  },
+  {
+    "title": "Ready Player One",
+    "year": 2018,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "readyplayerone.jpeg",
+    "series": null,
+    "summary": "A rock solid thrill that leans into familiar tropes but still delivers a fast-paced and exciting adventure. It’s enjoyable both as an adaptation and as a standalone experience."
+  },
+  {
+    "title": "Rebel Moon: Part One - A Child of Fire",
+    "year": 2023,
+    "genres": ["Action", "Fantasy"],
+    "rating": "negative",
+    "poster": "rebelmoonpartoneachildoffire.jpeg",
+    "series": "Rebel Moon",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "If Star Wars: A New Hope revolutionized cinema, Rebel Moon is the exact opposite. Uninspired, poorly written, poorly acted, and terrible beyond just lackluster."
+  },
+  {
+    "title": "Renfield",
+    "year": 2023,
+    "genres": ["Comedy", "Horror"],
+    "rating": "great",
+    "poster": "renfield.jpeg",
+    "series": null,
+    "summary": "Absolutely hysterical. A solid banger through and through. Nicholas Hoult has carved out a niche in the vampire genre with this wild and entertaining performance."
+  },
+  {
+    "title": "The Remarkable Life of Ibelin",
+    "year": 2024,
+    "genres": ["Documentary"],
+    "rating": "great",
+    "poster": "theremarkablelifeofibelin.jpeg",
+    "series": null,
+    "summary": "A film that certainly strikes a chord on a personal note given my own close relationship with the content, Ibelin made a tremendous impact on a community at large, and his story is one that will resonate with many, and help to illuminate for others the depth of the world where millions go to escape."
+  },
+  {
+    "title": "Requiem for a Dream",
+    "year": 2000,
+    "genres": ["Horror", "Drama"],
+    "rating": "great",
+    "poster": "requiemforadream.jpeg",
+    "series": null,
+    "summary": "A film that leaves the viewer shell shocked. It’s less about lessons and more about how quickly things can spiral into misery. Graphic and overpowering, it leaves a lasting impression."
+  },
+  {
+    "title": "Robocop",
+    "year": 1987,
+    "genres": ["Action", "Crime", "Sci-Fi"],
+    "rating": "great",
+    "poster": "robocop.jpeg",
+    "series": null,
+    "summary": "A brutal, satirical look at corporatization and identity wrapped in a sci-fi action shell. It’s far sharper than it first appears, with violence that serves a purpose."
+  },
+  {
+    "title": "Rocket Man",
+    "year": 2019,
+    "genres": ["Drama", "Musical"],
+    "rating": "great",
+    "poster": "rocketman.jpeg",
+    "series": null,
+    "summary": "Bombastic, wild, and matching the spirit of Elton John himself. It blends hyperbole and emotion to deliver a compelling and entertaining portrait."
+  },
+  {
+    "title": "Role Models",
+    "year": 2008,
+    "genres": ["Comedy"],
+    "rating": "great",
+    "poster": "rolemodels.jpeg",
+    "series": null,
+    "summary": "Absolutely hysterical and deserving of praise. The cast delivers with perfect chemistry and comedic timing that makes this endlessly rewatchable."
+  },
+  {
+    "title": "Rush Hour",
+    "year": 1998,
+    "genres": ["Action", "Thriller"],
+    "rating": "great",
+    "poster": "rushhour.jpeg",
+    "series": "Rush Hour",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A staple of the late 90s, Rush Hour delivers comedy and action that still holds up decades later."
+  },
+  {
+    "title": "Salt",
+    "year": 2010,
+    "genres": ["Action", "Mystery"],
+    "rating": "great",
+    "poster": "salt.jpeg",
+    "series": null,
+    "summary": "Fast, smart, and well executed. Despite a bombastic ending, the action and performances make this a standout thriller."
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "genres": ["Action", "Drama", "War", "WWII"],
+    "rating": "great",
+    "poster": "savingprivateryan.jpeg",
+    "series": null,
+    "summary": "A legendary war film that set the standard for the genre. Its realism and emotional weight make it one of the most impactful depictions of WWII ever made."
+  },
+  {
+    "title": "Saw",
+    "year": 2004,
+    "genres": ["Horror", "Thriller"],
+    "rating": "good",
+    "poster": "saw.jpeg",
+    "series": "Saw",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A nostalgic entry into the horror genre that relies on brutality and twists. It works well if you don’t overthink it."
+  },
+  {
+    "title": "School of Rock",
+    "year": 2003,
+    "genres": ["Comedy", "Music"],
+    "rating": "great",
+    "poster": "schoolofrock.jpeg",
+    "series": null,
+    "summary": "Jack Black at his best. Once you buy into the premise, it becomes one of the most fun and rewatchable films out there."
+  },
+  {
+    "title": "Se7en",
+    "year": 1995,
+    "genres": ["Crime", "Drama"],
+    "rating": "great",
+    "poster": "se7en.jpeg",
+    "series": null,
+    "summary": "A titan of its genre with gripping tension and a payoff that leaves the audience reeling. Exactly what a thriller should deliver."
+  },
+  {
+    "title": "Schindler’s List",
+    "year": 1993,
+    "genres": ["Drama", "War", "WWII"],
+    "rating": "great",
+    "poster": "schindlerslist.jpeg",
+    "series": null,
+    "summary": "A movie that none should want to rate so highly, but one that deserves the praise all the same. As with all films addressing the atrocities inflicted upon the innocent during WWII, Schindler’s List dives deep into a world of misery, inhumanity, and suffering - and often leaves the viewer struggling to absorb what is depicted; all the same, it pushes on, and does quite well its job to lead the audience through the selfless endeavors of one man who risked everything to save those he could."
+  },
+  {
+    "title": "Shutter Island",
+    "year": 2010,
+    "genres": ["Mystery", "Thriller"],
+    "rating": "good",
+    "poster": "shutterisland.jpeg",
+    "series": null,
+    "summary": "A solid mystery with strong twists and buildup. While it drags at times, the payoff is worth the investment."
+  },
+  {
+    "title": "Sleepy Hollow",
+    "year": 1999,
+    "genres": ["Horror", "Mystery"],
+    "rating": "good",
+    "poster": "sleepyhollow.jpeg",
+    "series": null,
+    "summary": "A Halloween classic that balances camp and horror. While parts haven’t aged perfectly, it still delivers an enjoyable experience."
+  },
+  {
+    "title": "The Social Dilemma",
+    "year": 2020,
+    "genres": ["Documentary"],
+    "rating": "great",
+    "poster": "thesocialdilemma.jpeg",
+    "series": null,
+    "summary": "A powerful look at the dangers of social media and modern technology. While some dramatizations feel heavy-handed, the core message is important and well delivered."
+  },
+    {
+    "title": "Spiderhead",
+    "year": 2022,
+    "genres": ["Sci-Fi", "Thriller"],
+    "rating": "meh",
+    "poster": "spiderhead.jpeg",
+    "series": null,
+    "summary": "While this film does well with a small cast in a small set area that gets heavy usage, it’s still far short of being a hit. That said, it’s not a complete waste of time. The story is drawn from a rather interesting concept, and the avenue of human experimentation is certainly one that deserves exploration, but Spiderhead goes about revealing its twists in a way that doesn’t exactly do the concept justice."
+  },
+  {
+    "title": "Starship Troopers",
+    "year": 1997,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "great",
+    "poster": "starshiptroopers.jpeg",
+    "series": null,
+    "summary": "A prescient and wildly entertaining sci-fi film that blends action with satire. It’s both explosive and cleverly ironic."
+  },
+  {
+    "title": "Star Wars: Episode I: The Phantom Menace",
+    "year": 1999,
+    "genres": ["Sci-Fi"],
+    "rating": "great",
+    "poster": "swthephantommenace.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": 4,
+    "chronologicalOrder": 1,
+    "summary": "Add This."
+  },
+  {
+    "title": "Star Wars: Episode II: Attack of the Clones",
+    "year": 2002,
+    "genres": ["Sci-Fi"],
+    "rating": "great",
+    "poster": "swattackoftheclones.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": null,
+    "chronologicalOrder": 2,
+    "summary": "Add This."
+  },
+  {
+    "title": "Star Wars: The Clone Wars",
+    "year": 2008,
+    "genres": ["Sci-Fi","TV Show"],
+    "rating": "great",
+    "poster": "swtheclonewars.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": null,
+    "chronologicalOrder": 3,
+    "summary": "Add This."
+  },
+  {
+    "title": "Star Wars: Clone Wars",
+    "year": 2003,
+    "genres": ["Sci-Fi"],
+    "rating": "great",
+    "poster": "swclonewars.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": null,
+    "chronologicalOrder": 4,
+    "summary": "Add This."
+  },
+  {
+    "title": "Star Wars: Episode III: Revenge of the Sith",
+    "year": 2005,
+    "genres": ["Sci-Fi"],
+    "rating": "great",
+    "poster": "swrevengeofthesith.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": null,
+    "chronologicalOrder": 5,
+    "summary": "Add This."
+  },
+  {
+    "title": "Solo: A Star Wars Story",
+    "year": 2018,
+    "genres": ["Sci-Fi"],
+    "rating": "great",
+    "poster": "swsolo.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": null,
+    "chronologicalOrder": 6,
+    "summary": "Add This."
+  },
+  {
+    "title": "Star Wars: Obi-Wan",
+    "year": 2022,
+    "genres": ["Sci-Fi","TV Show"],
+    "rating": "great",
+    "poster": "swobiwan.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": null,
+    "chronologicalOrder": 7,
+    "summary": "Add This."
+  },
+  {
+    "title": "Star Wars: Rebels",
+    "year": 2014,
+    "genres": ["Sci-Fi","TV Show"],
+    "rating": "great",
+    "poster": "swrebels.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": null,
+    "chronologicalOrder": 8,
+    "summary": "Add This."
+  },
+  {
+    "title": "Star Wars: Andor",
+    "year": 2022,
+    "genres": ["TV Show", "Sci-Fi"],
+    "rating": "great",
+    "poster": "swandor.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": null,
+    "chronologicalOrder": 9,
+    "summary": "The single greatest triumph within the Star Wars franchise. A sharp, politically charged story that feels incredibly relevant and powerful."
+  },
+  {
+    "title": "Rogue One: A Star Wars Story",
+    "year": 2016,
+    "genres": ["Sci-Fi"],
+    "rating": "great",
+    "poster": "swrogueone.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": null,
+    "chronologicalOrder": 10,
+    "summary": "A standout entry in the Star Wars franchise, proving the universe can go deeper and darker while still delivering an incredible story."
+  },
+  {
+    "title": "Star Wars: Episode IV: A New Hope",
+    "year": 1977,
+    "genres": ["Sci-Fi"],
+    "rating": "great",
+    "poster": "swanewhope.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": 1,
+    "chronologicalOrder": 11,
+    "summary": "Add This."
+  },
+    {
+    "title": "Star Wars: Episode V: The Empire Strikes Back",
+    "year": 1980,
+    "genres": ["Sci-Fi"],
+    "rating": "great",
+    "poster": "swtheempirestrikesback.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": 2,
+    "chronologicalOrder": 12,
+    "summary": "Add This."
+  },
+  {
+    "title": "Star Wars: Episode VI: Return of the Jedi",
+    "year": 1983,
+    "genres": ["Sci-Fi"],
+    "rating": "great",
+    "poster": "swreturnofthejedi.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": 3,
+    "chronologicalOrder": 13,
+    "summary": "Add This."
+  },
+  {
+    "title": "Star Wars: The Mandalorian",
+    "year": 2019,
+    "genres": ["TV Show", "Sci-Fi"],
+    "rating": "great",
+    "poster": "swthemandalorian.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": null,
+    "chronologicalOrder": 14,
+    "summary": "Add this."
+  },
+  {
+    "title": "Star Wars: The Book of Boba Fett",
+    "year": 2022,
+    "genres": ["TV Show", "Sci-Fi"],
+    "rating": "great",
+    "poster": "swthebookofbobafett.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": null,
+    "chronologicalOrder": 15,
+    "summary": "Add this."
+  },
+  {
+    "title": "Star Wars: Ahsoka",
+    "year": 2023,
+    "genres": ["TV Show", "Sci-Fi"],
+    "rating": "great",
+    "poster": "swahsoka.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": null,
+    "chronologicalOrder": 16,
+    "summary": "Add this."
+  },
+  {
+    "title": "Star Wars: Episode VII: The Force Awakens",
+    "year": 2015,
+    "genres": ["TV Show", "Sci-Fi"],
+    "rating": "great",
+    "poster": "swtheforceawakens.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": null,
+    "chronologicalOrder": 17,
+    "summary": "Add this."
+  },
+  {
+    "title": "Star Wars: Episode VIII: The Last Jedi",
+    "year": 2017,
+    "genres": ["TV Show", "Sci-Fi"],
+    "rating": "great",
+    "poster": "swthelastjedi.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": null,
+    "chronologicalOrder": 18,
+    "summary": "Add this."
+  },
+  {
+    "title": "Star Wars: Episode IX: The Rise of Skywalker",
+    "year": 2019,
+    "genres": ["TV Show", "Sci-Fi"],
+    "rating": "great",
+    "poster": "swtheforceawakens.jpeg",
+    "series": "Star Wars",
+    "releaseOrder": null,
+    "chronologicalOrder": 19,
+    "summary": "Add this."
+  },
+  {
+    "title": "Sunshine",
+    "year": 2007,
+    "genres": ["Sci-Fi", "Thriller"],
+    "rating": "great",
+    "poster": "sunshine.jpeg",
+    "series": null,
+    "summary": "A unique thriller where the tension comes from atmosphere and inevitability rather than a traditional villain. Deeply engaging and thought-provoking."
+  },
+  {
+    "title": "Super 8",
+    "year": 2011,
+    "genres": ["Sci-Fi", "Thriller"],
+    "rating": "good",
+    "poster": "super8.jpeg",
+    "series": null,
+    "summary": "A heartfelt throwback to classic adventure films, blending nostalgia with modern storytelling in a satisfying way."
+  },
+  {
+    "title": "Talk to Me",
+    "year": 2022,
+    "genres": ["Horror", "Supernatural", "Thriller"],
+    "rating": "great",
+    "poster": "talktome.jpeg",
+    "series": null,
+    "summary": "A fresh take on possession horror that feels grounded in modern culture. It escalates quickly but maintains emotional weight."
+  },
+  {
+    "title": "Tenet",
+    "year": 2020,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "great",
+    "poster": "tenet.jpeg",
+    "series": null,
+    "summary": "A thrilling mind-bending experience that demands attention but rewards it with complexity and spectacle."
+  },
+  {
+    "title": "The Terminator",
+    "year": 1984,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "great",
+    "poster": "theterminator.jpeg",
+    "series": "Terminator",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A classic that still holds up remarkably well. It set the standard for the franchise and remains a compelling watch."
+  },
+  {
+    "title": "Terminator 2: Judgement Day",
+    "year": 1991,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "great",
+    "poster": "terminator2judgementday.jpeg",
+    "series": "Terminator",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "A fantastic sequel that builds on the original with heart, action, and a compelling character dynamic."
+  },
+  {
+    "title": "The Tomorrow War",
+    "year": 2021,
+    "genres": ["Action", "Thriller"],
+    "rating": "good",
+    "poster": "thetomorrowwar.jpeg",
+    "series": null,
+    "summary": "A fresh take on time travel and alien invasion with strong visuals and engaging action, though some character elements fall short."
+  },
+  {
+    "title": "Top Gun",
+    "year": 1986,
+    "genres": ["Action", "Adventure"],
+    "rating": "meh",
+    "poster": "topgun.jpeg",
+    "series": "Top Gun",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A product of its time with strong aesthetics but a shallow plot that doesn’t quite land."
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "genres": ["Action", "Adventure"],
+    "rating": "great",
+    "poster": "topgunmaverick.jpeg",
+    "series": "Top Gun",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "A phenomenal sequel that delivers on every level, improving on the original in nearly every way."
+  },
+  {
+    "title": "The Town",
+    "year": 2010,
+    "genres": ["Crime", "Thriller"],
+    "rating": "good",
+    "poster": "thetown.jpeg",
+    "series": null,
+    "summary": "A grounded crime thriller with strong performances and a tight narrative that keeps things engaging."
+  },
+  {
+    "title": "Train to Busan",
+    "year": 2016,
+    "genres": ["Action", "Horror", "Zombie"],
+    "rating": "great",
+    "poster": "traintobusan.jpeg",
+    "series": null,
+    "summary": "A thrilling and emotional zombie film that focuses on human relationships as much as survival."
+  },
+  {
+    "title": "Tropic Thunder",
+    "year": 2008,
+    "genres": ["Action", "Comedy"],
+    "rating": "great",
+    "poster": "tropicthunder.jpeg",
+    "series": null,
+    "summary": "Absurd, outlandish, and hilarious. A stacked cast delivers unforgettable performances in a wildly entertaining film."
+  },
+  {
+    "title": "Twister",
+    "year": 1996,
+    "genres": ["Action", "Thriller"],
+    "rating": "good",
+    "poster": "twister.jpeg",
+    "series": "Twister",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A classic disaster film with energy, charm, and memorable action sequences that still hold up."
+  },
+  {
+    "title": "Twisters",
+    "year": 2024,
+    "genres": ["Action", "Thriller"],
+    "rating": "great",
+    "poster": "twisters.jpeg",
+    "series": "Twister",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "A strong follow-up that builds on the original with modern effects and a compelling cast."
+  },
+  {
+    "title": "Uncharted",
+    "year": 2022,
+    "genres": ["Action"],
+    "rating": "good",
+    "poster": "uncharted.jpeg",
+    "series": null,
+    "summary": "Having never played the games and having no reference point for any of it, the film seems to be able to stand on its own, and it certainly delivers on some strong action sequences and a likable cast, though it is weighed down by rather outlandish story elements and demands a willing imagination."
+  },
+  {
+    "title": "Us",
+    "year": 2019,
+    "genres": ["Horror", "Thriller"],
+    "rating": "good",
+    "poster": "us.jpeg",
+    "series": null,
+    "summary": "A layered, unsettling film that leans just as heavily on symbolism as it does on tension. It doesn’t always land cleanly, but there’s an ambition here that makes it more than just a standard horror entry. The discomfort it creates lingers longer than the scares themselves."
+  },
+  {
+    "title": "Valkyrie",
+    "year": 2008,
+    "genres": ["Thriller", "War", "WWII"],
+    "rating": "good",
+    "poster": "valkyrie.jpeg",
+    "series": null,
+    "summary": "A tense retelling of a well-known historical plot that still manages to feel urgent despite the inevitable outcome. It’s methodical in its pacing, focusing more on the precision of the plan than spectacle. There’s a quiet respect in how it handles the material."
+  },
+  {
+    "title": "Van Helsing",
+    "year": 2004,
+    "genres": ["Fantasy", "Horror"],
+    "rating": "good",
+    "poster": "vanhelsing.jpeg",
+    "series": null,
+    "summary": "An over-the-top monster mash that fully commits to its spectacle, for better and worse. It’s chaotic, stylized, and not particularly concerned with restraint, but there’s a certain charm in that excess. Best enjoyed when you let it be exactly what it is."
+  },
+  {
+    "title": "Vantage Point",
+    "year": 2008,
+    "genres": ["Action", "Thriller"],
+    "rating": "good",
+    "poster": "vantagepoint.jpeg",
+    "series": null,
+    "summary": "An interesting concept built around perspective, though the repetition can wear thin as it unfolds. There are moments where it clicks and builds genuine tension, but it doesn’t always sustain it. Still, it’s a solid enough watch with a few clever ideas."
+  },
+  {
+    "title": "V for Vendetta",
+    "year": 2005,
+    "genres": ["Action", "Thriller"],
+    "rating": "good",
+    "poster": "vforvendetta.jpeg",
+    "series": null,
+    "summary": "A stylized, politically charged story that leans heavily into its themes of control, resistance, and identity. It’s at times heavy-handed, but also undeniably compelling in what it’s trying to say. The ideas carry as much weight as the action itself."
+  },
+  {
+    "title": "Venom",
+    "year": 2018,
+    "genres": ["Action", "Marvel", "Sci-Fi"],
+    "rating": "good",
+    "poster": "venom.jpeg",
+    "series": null,
+    "summary": "A strange, uneven entry that never quite decides what it wants to be, yet somehow finds its footing through sheer personality. The dynamic between Eddie and Venom carries the film more than the plot itself ever does. It’s messy, but there’s an odd charm to it that makes it more enjoyable than it probably should be."
+  },
+  {
+    "title": "Volcano",
+    "year": 1997,
+    "genres": ["Action", "Thriller"],
+    "rating": "great",
+    "poster": "volcano.jpeg",
+    "series": null,
+    "summary": "A thrilling adventure into the depths of a cataclysm erupting in the heart of L.A., Volcano has all the bang and flair with the grounded and masterful acting to back it up. This is a classic that holds up into the 2020s."
+  },
+  {
+    "title": "Walk Hard: The Dewey Cox Story",
+    "year": 2007,
+    "genres": ["Comedy", "Musical"],
+    "rating": "great",
+    "poster": "walkhardthedeweycoxstory.jpeg",
+    "series": null,
+    "summary": "A ridiculous, sharp parody that somehow manages to be both absurd and oddly insightful about the genre it’s mocking. It commits fully to the bit, and that commitment pays off again and again. There’s a surprising level of cleverness beneath all the chaos."
+  },
+  {
+    "title": "Wanted",
+    "year": 2008,
+    "genres": ["Action", "Thriller"],
+    "rating": "good",
+    "poster": "wanted.jpeg",
+    "series": null,
+    "summary": "A stylized action film that leans heavily into its own concept, sometimes to the point of excess. There are moments where it feels inventive and engaging, but others where it pushes just a bit too far to fully land. Entertaining, though not entirely consistent."
+  },
+  {
+    "title": "War of the Worlds",
+    "year": 2005,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": "good",
+    "poster": "waroftheworlds.jpeg",
+    "series": null,
+    "summary": "A bombastic, non-stop sort of take on the historic classic. It’s got good heart coming from its cast, and while much is glossed over, it suits the pacing, and delivers a thrilling ride."
+  },
+  {
+    "title": "Warfare",
+    "year": 2024,
+    "genres": ["War"],
+    "rating": "good",
+    "poster": "warfare.jpeg",
+    "series": null,
+    "summary": "A fairly standup and standout action fill, it throws viewers into the unwinnable situation where even winning comes at a cost, and the heroes end up leaving with more baggage than they went in with. Gripping and grounded."
+  },
+  {
+    "title": "War Horse",
+    "year": 2011,
+    "genres": ["Drama", "War", "WWI"],
+    "rating": "good",
+    "poster": "warhorse.jpeg",
+    "series": null,
+    "summary": "Often times dark and suffocating, but other times uplifting and soaring, War Horse carefully threads a series of needles that will leave any audience unsure of whether the characters will make it through, a thrill much welcomed, but one that can perhaps push some audiences too far over the edge."
+  },
+  {
+    "title": "Watchmen",
+    "year": 2009,
+    "genres": ["Action", "DC Comics", "Sci-Fi"],
+    "rating": "good",
+    "poster": "watchmen.jpeg",
+    "series": null,
+    "summary": "A dense, visually striking adaptation that doesn’t shy away from the darker edges of its source material. It’s heavy, deliberate, and at times almost too faithful, but there’s a clear respect for the world it’s bringing to life. Not an easy watch, but a worthwhile one."
+  },
+  {
+    "title": "We Were Soldiers",
+    "year": 2002,
+    "genres": ["Action", "War"],
+    "rating": "great",
+    "poster": "weweresoldiers.jpeg",
+    "series": null,
+    "summary": "A grounded, emotionally charged portrayal of war that focuses as much on those at home as those on the battlefield. It carries a sense of respect and weight throughout, never losing sight of the human cost. A difficult but meaningful watch."
+  },
+  {
+    "title": "Wet Hot American Summer",
+    "year": 2001,
+    "genres": ["Comedy"],
+    "rating": "great",
+    "poster": "wethotamericansummer.jpeg",
+    "series": null,
+    "summary": "A classic for comedy, one that harps on the very real, and often exceptionally stupid elements of summer camp that only someone who’s attended will be able to call out. It hems close to reality, while exaggerating elements to soaring heights that will leave you grinning from ear to ear."
+  },
+  {
+    "title": "When Harry Met Sally…",
+    "year": 1989,
+    "genres": ["Romantic", "Comedy"],
+    "rating": "great",
+    "poster": "whenharrymetsally.jpeg",
+    "series": null,
+    "summary": "A film deserving of attention from open to close. There’s a despicable chemistry between the characters which is so expertly drawn out through the tremendous efforts of the actors. It’s a very unconventional love story, but one that feels more genuine and honest because of how awful the relationship is at times."
+  },
+  {
+    "title": "Who Framed Roger Rabbit",
+    "year": 1988,
+    "genres": ["Animated", "Comedy"],
+    "rating": "great",
+    "poster": "whoframedrogerrabbit.jpeg",
+    "series": null,
+    "summary": "A wildly inventive blend of animation and live-action that still feels impressive decades later. It’s playful on the surface, but there’s a surprisingly sharp edge beneath it. Creative, memorable, and genuinely unique."
+  },
+  {
+    "title": "Wicked",
+    "year": 2024,
+    "genres": ["Fantasy", "Musical"],
+    "rating": "great",
+    "poster": "wicked.jpeg",
+    "series": null,
+    "summary": "An absolute triumph of an adaptation that takes the musical to new heights. If misogyny, bigotry, and the oppression of minority demographics is gravity, then Wicked certainly is defying it by boldly putting its stamp on the issues with a thunderous roar. The cast are perfectly chosen and truly do embody the energy and personality of the originating cast from the show."
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "genres": ["Comedy", "Drama"],
+    "rating": "great",
+    "poster": "thewolfofwallstreet.jpeg",
+    "series": null,
+    "summary": "Bizarre, explosive, hysterical, and hyperbolic beyond any sense or reason; this film takes things far beyond where anyone might expect. There are no limits to the level of insanity you’ll find while watching, and that chaotic energy is something which will keep the audience guessing, and wholly ensnared by the production. This film is genuine gold."
+  },
+  {
+    "title": "World War Z",
+    "year": 2013,
+    "genres": ["Action", "Horror", "Zombie"],
+    "rating": "great",
+    "poster": "worldwarz.jpeg",
+    "series": null,
+    "summary": "A great take on the convergence of plague and disaster, and the zombie apocalypse. It’s a heart pumping, non-stop adventure that takes you all across the globe, and poses an interesting presentation of the world at the end of days."
+  },
+  {
+    "title": "Zero Day",
+    "year": 2025,
+    "genres": ["TV Show"],
+    "rating": "meh",
+    "poster": "zeroday.jpeg",
+    "series": null,
+    "summary": "Just average. Zero Day builds on the fears of technology and political overreach, both of which are topical and legitimate. It does, however, spoil that thrill with a less than rewarding conclusion that doesn’t really line up with the demand it makes of its viewers."
+  },
+  {
+    "title": "Zodiac",
+    "year": 2007,
+    "genres": ["Crime", "Mystery", "Thriller"],
+    "rating": "great",
+    "poster": "zodiac.jpeg",
+    "series": null,
+    "summary": "One of the great thriller mysteries, it’s got a fantastic, outstanding cast that knows just how to twist the knife in your gut and leave you gasping for breath."
+  },
+  {
+    "title": "28 Days Later",
+    "year": 2002,
+    "genres": ["Drama", "Horror", "Sci-Fi", "Zombie"],
+    "rating": "great",
+    "poster": "28dayslater.jpeg",
+    "series": "28 Days Later",
+    "releaseOrder": 1,
+    "chronologicalOrder": 1,
+    "summary": "A tremendous classic that still holds its weight, this is a film that—like many zombie flicks before it—aims to both awe and shock with its scope and scale, but also tell a meaningful story about the survival and very human encounters of those living in the apocalypse. 28 Days Later makes the human villains just as scary, if not more so, than the actual zombies themselves, and it builds to a tremendous thrill."
+  },
+  {
+    "title": "28 Weeks Later",
+    "year": 2007,
+    "genres": ["Drama", "Horror", "Sci-Fi", "Zombie"],
+    "rating": "good",
+    "poster": "28weekslater.jpeg",
+    "series": "28 Days Later",
+    "releaseOrder": 2,
+    "chronologicalOrder": 2,
+    "summary": "A strong follow up to the classic, 28 Days Later, it’s a much more modern take on the story that leans into more bombastic combat scenes with a heavily militaristic angle, compared to the grounded, civilian-centered approach to the original."
+  },
+  {
+    "title": "1917",
+    "year": 2019,
+    "genres": ["Drama", "War", "WWI"],
+    "rating": "great",
+    "poster": "1917.jpeg",
+    "series": null,
+    "summary": "1917 is a very new, teeth cutting sort of take on the genre of war films. Set during WWI, as opposed to the much more common WWII, the film tries to imagine a condensed world where the viewers, and the characters, are subjected to the horrors of war within a limited window of time, with high stakes, devastating losses, and heart pumping thrills that are delivered with stunning performances and productions."
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "genres": ["Adventure", "Sci-Fi"],
+    "rating": "great",
+    "poster": "2001aspaceodyssey.jpeg",
+    "series": null,
+    "summary": "A timeless classic, this slow grinding adventure through space is one of a kind, and broke ground which built for it the reputation that endures even today. Still well worth a watch, especially for fans of film."
+  },
+  {
+    "title": "21 Bridges",
+    "year": 2019,
+    "genres": ["Action", "Thriller"],
+    "rating": "good",
+    "poster": "21bridges.jpeg",
+    "series": null,
+    "summary": "A fairly strong contender when it comes to action packed thrills; there’s some good tension that builds, curious twists, and lots of great action, but the ending feels somewhat rushed."
+  },
+  {
+    "title": "Shelter",
+    "year": 2026,
+    "genres": ["Action", "Adventure"],
+    "rating": "good",
+    "poster": "shelter.jpeg",
+    "series": null,
+    "summary": "It’s Jason Statham, and everything you should have come to expect from it. Wild and kick ass, the plot follows the action, but it doesn’t run exceptionally deep."
+  },
+  {
+    "title": "The Social Network",
+    "year": 2010,
+    "genres": ["Drama", "History"],
+    "rating": "good",
+    "poster": "thesocialnetwork.jpeg",
+    "series": null,
+    "summary": "Though heavily dramatized, The Social Network is an engaging and thrilling watch that charts a path through the intricacies and complexities of creation, ownership, and competing visions for the future of technology."
+  },
+  {
+    "title": "Speed",
+    "year": 1994,
+    "genres": ["Action", "Thriller"],
+    "rating": "great",
+    "poster": "speed.jpeg",
+    "series": null,
+    "summary": "One of the greats, and counted among one of my favorite films. There’s tons of exciting moments and gripping tension which stick their landing, no matter how absurd they tend to be."
+  },
+  {
+    "title": "Spies Like Us",
+    "year": 1985,
+    "genres": ["Action", "Comedy"],
+    "rating": "good",
+    "poster": "spieslikeus.jpeg",
+    "series": null,
+    "summary": "While many would pit Austin Powers as the go to spy thriller parody, Spies Like Us should be the real household name for the fact alone that it drills hard on all the right comedy elements without being completely absurdist. The actors play the part well, the chemistry between them will leave the audience in stitches."
+  },
+  {
+    "title": "Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genres": ["Fantasy"],
+    "rating": "great",
+    "poster": "lotrthefellowshipofthering.jpeg",
+    "series": "Lord of the Rings",
+    "summary": "A triumph both of its time, and of cinema history across the ages, Peter Jackson’s take on the Lord of the Rings soars, with an epic score, stunning visuals, grounded practical effects, and state of the art CGI that is subtle enough to stand up even two decades later. LoTR is a complex narrative with many perspectives and lots of things left unclear; knitting them together into a coherent story is no small feat, and Jackson has mastered it. "
+  },
+  {
+    "title": "Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "genres": ["Fantasy"],
+    "rating": "great",
+    "poster": "lotrthetwotowers.jpeg",
+    "series": "Lord of the Rings",
+    "summary": "The success of the first film carries on in the second, pulling on the many threads carefully placed in the Fellowship. The moments feel deeper, the relationships more gripping, and the stakes never higher. This is a fitting sequel, and a tremendous achievement even on its own."
+  },
+  {
+    "title": "Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "genres": ["Fantasy"],
+    "rating": "great",
+    "poster": "lotrthereturnoftheking.jpeg",
+    "series": "Lord of the Rings",
+    "summary": "If perfection in a second sequel could be achieved, the Return of the King is the shining example of ‘most deserving’ of the claim. The final chapters of the story will leave you with a broad mix of emotions that both collide and fuse together; it’s not an easy thing to say farewell, both for the characters and the viewers, and that struggle is felt. Every waking moment of it."
+  },
+    {
+    "title": "Abduction",
+    "year": 2019,
+    "genres": ["Action", "Thriller"],
+    "rating": "meh",
+    "poster": "abduction.jpeg",
+    "series": null,
+    "summary": "Generic and typical in most ways; this is a film that’s tried to leap into an already packed market while building off the hype of a young star. There’s nothing truly special about the film, and it feels hollow and stale more than it doesn’t."
+  },    
+  {
+    "title": "The Angry Birds Movie 2",
+    "year": 2019,
+    "genres": ["Animated", "Family"],
+    "rating": "meh",
+    "poster": "theangrybirdsmovie2.jpeg",
+    "series": null,
+    "summary": "Was forced to watch under duress while babysitting. Painful."
+  },
+  {
+    "title": "Blade",
+    "year": 1998,
+    "genres": ["Action", "Horror", "Marvel"],
+    "rating": "great",
+    "poster": "blade.jpeg",
+    "series": "Blade",
+    "summary": "The OG as far as Marvel films are concerned. Blade kicked off a revival that has carried us all into an age of thrills, providing not just the finances but the reassurance that such comic book films are greatly desired. Blade is iconic in its style, punchy action, explosive deaths, and over the top concepts, all knit together with Wesley Snipes’ signature dry humor and nonplussed aura."
+  },
+  {
+    "title": "Blade II",
+    "year": 2002,
+    "genres": ["Action", "Horror", "Marvel"],
+    "rating": "great",
+    "poster": "blade2.jpeg",
+    "series": "Blade",
+    "summary": "A strong follow up to the 98’ original, Blade II is a thrill to watch for all the same reasons as the first one was. It tries to up the stakes and play on heart strings, some of which doesn’t resonate as well as it could, but it is by no means a weak film."
+  }
+]
