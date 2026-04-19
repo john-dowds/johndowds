@@ -484,15 +484,31 @@ body.returning .panel-right-go {
       padding: 12px 0 26px;
     }
 
-    .carousel-shell {
-      position: relative;
-      display: flex;
-      align-items: center;
-      justify-content: flex-start;
-      min-height: 820px;
-      overflow: visible;
-      padding: 30px 0;
-    }
+.carousel-shell {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 820px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 30px 0;
+  scroll-behavior: smooth;
+}
+
+.carousel-shell::-webkit-scrollbar {
+  height: 8px;
+}
+
+.carousel-shell::-webkit-scrollbar-track {
+  background: rgba(255,255,255,0.05);
+  border-radius: 999px;
+}
+
+.carousel-shell::-webkit-scrollbar-thumb {
+  background: rgba(122,162,255,0.5);
+  border-radius: 999px;
+}
 
     .carousel-track {
       display: flex;
@@ -909,7 +925,6 @@ body.returning .panel-right-go {
         <div class="edge-zone right" id="edgeRight" aria-hidden="true"></div>
         <div class="carousel-track" id="galleryTrack"></div>
       </div>
-      <div class="gallery-dots" id="galleryDots"></div>
     </section>
 
     <section id="listViewShell" class="list-view-shell hidden">
@@ -1380,62 +1395,40 @@ function getFilteredReviews() {
       return card;
     }
 
-    function renderGallery(data) {
-      galleryTrack.innerHTML = '';
-      galleryDots.innerHTML = '';
+function renderGallery(data) {
+  galleryTrack.innerHTML = '';
 
-      data.forEach((item, idx) => {
-        const card = createCard(item);
-        galleryTrack.appendChild(card);
+  data.forEach((item) => {
+    const card = createCard(item);
+    galleryTrack.appendChild(card);
+  });
 
-        const dot = document.createElement('button');
-        dot.className = 'gallery-dot';
-        dot.type = 'button';
-        dot.setAttribute('aria-label', `Go to ${item.title}`);
-        dot.addEventListener('click', () => {
-          galleryIndex = idx;
-          positionGallery(true);
-        });
-        galleryDots.appendChild(dot);
-      });
-
-      galleryIndex = Math.min(galleryIndex, Math.max(0, data.length - 1));
-      requestAnimationFrame(() => positionGallery(false));
-    }
+  galleryIndex = Math.min(galleryIndex, Math.max(0, data.length - 1));
+  requestAnimationFrame(() => positionGallery(false));
+}
 
     function positionGallery(animate = true) {
-      const cards = Array.from(galleryTrack.children);
-      if (!cards.length) {
-        galleryTrack.style.transform = 'translate3d(0,0,0)';
-        return;
-      }
+  const cards = Array.from(galleryTrack.children);
+  if (!cards.length) {
+    return;
+  }
 
-      const activeCard = cards[galleryIndex];
-      const shellWidth = carouselShell.clientWidth;
-      const cardWidth = activeCard.offsetWidth;
-      const cardLeft = activeCard.offsetLeft;
-      const targetX = ((shellWidth - cardWidth) / 2) - cardLeft;
+  const activeCard = cards[galleryIndex];
 
-      galleryTrack.style.transition = animate ? 'transform 0.5s cubic-bezier(.2,.8,.2,1)' : 'none';
-      galleryTrack.style.transform = `translate3d(${targetX}px, 0, 0)`;
+  activeCard.scrollIntoView({
+    behavior: animate ? "smooth" : "auto",
+    inline: "center",
+    block: "nearest"
+  });
 
-      if (!animate) {
-        void galleryTrack.offsetHeight;
-        galleryTrack.style.transition = 'transform 0.5s cubic-bezier(.2,.8,.2,1)';
-      }
+  cards.forEach((card, idx) => {
+    const isCenter = idx === galleryIndex;
+    const isNear = idx === galleryIndex - 1 || idx === galleryIndex + 1;
 
-cards.forEach((card, idx) => {
-  const isCenter = idx === galleryIndex;
-  const isNear = idx === galleryIndex - 1 || idx === galleryIndex + 1;
-
-  card.classList.toggle('is-center', isCenter);
-  card.classList.toggle('is-near', isNear);
-});
-
-      Array.from(galleryDots.children).forEach((dot, idx) => {
-        dot.classList.toggle('active', idx === galleryIndex);
-      });
-    }
+    card.classList.toggle('is-center', isCenter);
+    card.classList.toggle('is-near', isNear);
+  });
+}
 
 function stepGallery(direction) {
   const count = galleryTrack.children.length;
