@@ -835,6 +835,61 @@ body.returning .panel-right-go {
       flex-direction: column;
     }
 
+    .name-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1300;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 18px 0;
+
+  background: rgba(10, 14, 21, 0.55);
+  backdrop-filter: blur(10px);
+
+  border-top: 1px solid rgba(255,255,255,0.08);
+
+  transition: opacity 300ms ease, transform 300ms ease;
+}
+
+.name-inner {
+  text-align: center;
+}
+
+.name-inner h1 {
+  margin: 0;
+  font-size: 1.4rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.name-inner p {
+  margin: 6px 0 0;
+  font-size: 0.8rem;
+  color: rgba(255,255,255,0.7);
+  letter-spacing: 0.12em;
+}
+
+body.home-hidden .name-bar {
+  opacity: 0;
+  transform: translateY(20px);
+  pointer-events: none;
+}
+
+body.transitioning .name-bar {
+  opacity: 0;
+  transform: translateY(20px);
+  pointer-events: none;
+}
+body.home-hidden .name-bar {
+  opacity: 0;
+  transform: translateY(20px);
+  pointer-events: none;
+}
     @media (max-width: 900px) {
       html, body { overflow: auto; }
       body { min-height: 100vh; }
@@ -951,6 +1006,7 @@ body.returning .panel-right-go {
   <div class="list-scroll" id="seriesList"></div>
 </section>
   </main>
+  
 
   
   <footer class="site-footer">
@@ -988,7 +1044,7 @@ body.returning .panel-right-go {
       <div class="shell-placeholder about">
         <div class="shell-placeholder-inner">
           <h1>About</h1>
-          <p>Reserved for future content.</p>
+          <p>Soon to be included.</p>
         </div>
       </div>
     </section>
@@ -1016,12 +1072,22 @@ body.returning .panel-right-go {
     </a>
 
     <a class="panel panel-about" data-key="about" href="#about" aria-label="Open about section">
+      <div class="art">
+        <img src="assets/images/face.png" alt="" />
+      </div>
       <div class="label-wrap">
         <h1>about</h1>
-        <p>Coming Soon</p>
+        <p>Personal Profile</p>
       </div>
     </a>
   </main>
+
+  <div class="name-bar">
+  <div class="name-inner">
+    <h1>John Dowds</h1>
+    <p>Author & Educator</p>
+  </div>
+</div>
 
   <script>
     const panels = Array.from(document.querySelectorAll('.panel'));

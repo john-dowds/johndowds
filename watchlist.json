@@ -1055,7 +1055,7 @@
       "Fantasy",
       "Adventure"
     ],
-    "poster": "thelionthewitchandthewardrobe.jpeg",
+    "poster": "thechroniclesofnarniathelionthewitchandthewardrobe.jpeg",
     "series": "The Chronicles of Narnia"
   },
   {
@@ -1065,7 +1065,7 @@
       "Fantasy",
       "Adventure"
     ],
-    "poster": "princecaspian.jpeg",
+    "poster": "thechroniclesofnarniaprincecaspian.jpeg",
     "series": "The Chronicles of Narnia"
   },
   {
@@ -1075,7 +1075,7 @@
       "Fantasy",
       "Adventure"
     ],
-    "poster": "voyageofthedawntreader.jpeg",
+    "poster": "thechroniclesofnarniavoyageofthedawntreader.jpeg",
     "series": "The Chronicles of Narnia"
   },
   {
@@ -1215,7 +1215,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "poster": "thecolony.jpeg",
+    "poster": "thecolony2021.jpeg",
     "series": null
   },
   {
@@ -2864,7 +2864,7 @@
       "Comedy",
       "TV Show"
     ],
-    "poster": "heroyoshihiko.jpeg",
+    "poster": "theheroyoshihikoandthedemonkingscastle.jpeg",
     "series": null
   },
   {
@@ -4967,7 +4967,7 @@
       "Action",
       "Adventure"
     ],
-    "poster": "robinhood2018.jpeg",
+    "poster": "robinhood.jpeg",
     "series": null
   },
   {
@@ -5187,7 +5187,7 @@
       "Comedy",
       "Music"
     ],
-    "poster": "sisteract2.jpeg",
+    "poster": "sisteract2backinthehabit.jpeg",
     "series": "Sister Act"
   },
   {
@@ -5298,7 +5298,7 @@
       "Action",
       "Thriller"
     ],
-    "poster": "thetakingofpelhamonetwothree2009",
+    "poster": "thetakingofpelham123.jpeg",
     "series": null
   },
   {
@@ -5308,7 +5308,7 @@
       "Action",
       "Thriller"
     ],
-    "poster": "thetakingofpelhamonetwothree1974.jpeg",
+    "poster": "thetakingofpelhamonetwothree.jpeg",
     "series": null
   },
   {
@@ -5321,16 +5321,6 @@
     "series": null
   },
   {
-    "title": "Team America: World Police",
-    "year": 2004,
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "poster": "teamamericaworldpolice.jpeg",
-    "series": null
-  },
-  {
     "title": "Teeth",
     "year": 2007,
     "genres": [
@@ -5339,16 +5329,6 @@
     ],
     "poster": "teeth.jpeg",
     "series": null
-  },
-  {
-    "title": "Terminator 2: Judgment Day",
-    "year": 1991,
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "poster": "terminator2judgmentday.jpeg",
-    "series": "Terminator"
   },
   {
     "title": "Terminator 3: Rise of the Machines",

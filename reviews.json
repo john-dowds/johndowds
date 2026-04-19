@@ -3604,6 +3604,15 @@
     "summary": "A fresh take on possession horror that feels grounded in modern culture. It escalates quickly but maintains emotional weight."
   },
   {
+    "title": "Team America: World Police",
+    "year": 2004,
+    "genres": ["Action", "Comedy"],
+    "rating": "great",
+    "poster": "teamamericaworldpolice.jpeg",
+    "series": null,
+    "summary": "Absurdity at its finest. The creators of South Park have certainly earned their reputation for striking it in the eye of just about everyone, and even into the 2020s they’ve proven they have no intention of letting up. Team America was fantastic back in 04’, and it especially holds up today after over twenty years of seeing the same thing playing out time and again in the real world."
+  },
+  {
     "title": "Tenet",
     "year": 2020,
     "genres": ["Action", "Sci-Fi"],
@@ -3628,7 +3637,7 @@
     "year": 1991,
     "genres": ["Action", "Sci-Fi"],
     "rating": "great",
-    "poster": "terminator2judgementday.jpeg",
+    "poster": "terminator2judgmentday.jpeg",
     "series": "Terminator",
     "releaseOrder": 2,
     "chronologicalOrder": 2,
